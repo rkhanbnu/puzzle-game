@@ -1,0 +1,179 @@
+/* Minimalist styling */
+.puzzle-game-container {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.puzzle-game-container h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+}
+
+.game-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  width: 100%;
+}
+
+.puzzle-area {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.reference-area {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  width: 100%;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.difficulty-selector {
+  display: flex;
+  gap: 10px;
+}
+
+.puzzle-game-container button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.puzzle-game-container button:hover {
+  background-color: #2980b9;
+}
+
+.puzzle-game-container button.active {
+  background-color: #2c3e50;
+}
+
+.timer {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.best-time {
+  font-size: 14px;
+  color: #7f8c8d;
+  margin-top: 5px;
+}
+
+.puzzle-board {
+  width: 100%;
+  aspect-ratio: 1;
+  display: grid;
+  position: relative;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+.puzzle-piece {
+  background-size: cover;
+  border: 1px solid #fff;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.puzzle-piece:hover {
+  transform: scale(1.02);
+  z-index: 1;
+}
+
+.puzzle-piece.empty {
+  background-color: #ecf0f1;
+  border: 1px dashed #bdc3c7;
+}
+
+.reference-image {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  border: 1px solid #eee;
+}
+
+.win-message {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  text-align: center;
+  z-index: 100;
+  display: none;
+}
+
+.win-message h2 {
+  color: #27ae60;
+  margin-top: 0;
+}
+
+.image-selector {
+  margin: 15px 0;
+  width: 100%;
+}
+
+.image-selector select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: white;
+}
+
+@media (max-width: 768px) {
+  .game-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .puzzle-area, .reference-area {
+    width: 100%;
+    max-width: none;
+  }
+  
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .difficulty-selector {
+    justify-content: center;
+  }
+}
