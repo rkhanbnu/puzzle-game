@@ -138,7 +138,7 @@
   "YAM", "YAP", "YAR", "YAW", "YAY", "YEA", "YEH", "YEP", "YES", "YET",
   "YEW", "YID", "YIN", "YIP", "YOB", "YOD", "YOK", "YOM", "YON", "YOU",
   "YOW", "YUK", "YUM", "YUP", "ZAP", "ZAS", "ZED", "ZEE", "ZIG", "ZIN",
-  "ZIP", "ZIT", "ZOA", "ZOO"
+  "ZIP", "ZIT", "ZOA", "ZOO",
             ],
             "medium": [
                 "APPLE", "GRAPE", "LEMON", "PEACH", "MANGO", "BEACH", "CLOUD", "DANCE",
@@ -428,7 +428,7 @@
         "WORDY", "WORLD", "WORMY", "WORRY", "WORSE", "WORST", "WORTH", "WOULD",
         "WOUND", "WOVEN", "WRACK", "WRATH", "WREAK", "WRECK", "WREST", "WRING",
         "WRIST", "WRITE", "WRONG", "WROTE", "WRUNG", "WRYLY", "YACHT", "YEARN",
-        "YEAST", "YIELD", "YOUNG", "YOUTH", "ZEBRA", "ZESTY", "ZONAL"
+        "YEAST", "YIELD", "YOUNG", "YOUTH", "ZEBRA", "ZESTY", "ZONAL",
                ],
             "hard": [
                 "ELEPHANT", "GIRAFFE", "KANGAROO", "LEOPARD", "BASKETBALL", "FOOTBALL",
@@ -822,6 +822,6 @@
         "WRITE", "WRONG", "WROTE", "WRUNG", "XENON", "YACHT", "YANKED",  
         "YEARLY", "YEAST", "YELLOW", "YIELD", "YODEL", "YOKEL", "YOUNG",
         "YOUTH", "YUCCA", "ZEBRA", "ZENITH", "ZEPHYR", "ZIPPER", "ZODIAC", 
-        "ZOMBIE", "ZONAL"
+        "ZOMBIE", "ZONAL",
             ]
         };
