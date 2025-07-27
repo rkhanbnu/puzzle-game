@@ -1,0 +1,25 @@
+{
+"easy": [
+{"word":"CAT","hint":"Meow pet"},
+{"word":"COW","hint":"Milk animal"},
+{"word":"PIG","hint":"Oink animal"},
+{"word":"FOX","hint":"Wise Animal"},
+{"word":"OWL","hint":"Night bird"},
+{"word":"BEE","hint":"Buzz insect"},
+{"word":"WITS","hint":"Mental sharpness"},
+{"word":"WITH","hint":"Together"}],
+"medium": [
+{"word":"BRUSH","hint":"Hair tool"},
+{"word":"CHAIR","hint":"Sit furniture"},
+{"word":"PLANT","hint":"Grows soil"},
+{"word":"TRUCK","hint":"Big hauler"},
+{"word":"VAPOR","hint":"Gas form"},
+{"word":"ZODIAC","hint":"Astrological signs"},
+{"word":"ZOOMING","hint":"Moving fast"}],
+"hard": [
+{"word":"ASTRONAUT","hint":"Space traveler"},
+{"word":"BASKETBALL","hint":"Hoop sport"},
+{"word":"CHOCOLATE","hint":"Sweet candy"},
+{"word":"INVESTIGATOR","hint":"Problem solver"},
+{"word":"FASCINATING","hint":"Very interesting"}]
+}
