@@ -14,17 +14,17 @@
     {"question":"What has a head, a tail, but no body?","answers":["coin","coins"],"hint":"Used as money"}
   ],
   "amazing_facts": [
-    {"fact":"Earth's core is as hot as the sun's surface!","hint":"About 5700°K"},
-    {"fact":"Octopuses have three hearts and blue blood.","hint":"Sea creature anatomy"},
-    {"fact":"A teaspoon of neutron star weighs 6 billion tons.","hint":"Extremely dense object"},
-    {"fact":"Honey never spoils, edible after 3000 years.","hint":"Natural preservatives"},
-    {"fact":"Venus is the only planet that spins clockwise.","hint":"Retrograde rotation"}
+    {"fact":"Earth's core is as hot as the sun's surface! About 5700°K!"},
+    {"fact":"Octopuses have three hearts and blue blood."},
+    {"fact":"A teaspoon of neutron star weighs 6 billion tons."},
+    {"fact":"Honey never spoils, edible after 3000 years."},
+    {"fact":"Venus is the only planet that spins clockwise."}
   ],
   "how_things_work": [
-    {"explanation":"Airplanes fly because wing shape creates lower pressure above than below.","hint":"Bernoulli's principle"},
-    {"explanation":"Microwaves heat food by making water molecules vibrate.","hint":"Dielectric heating"},
-    {"explanation":"Rainbows form when sunlight refracts through water droplets.","hint":"Light dispersion"},
-    {"explanation":"Echoes happen when sound waves bounce off surfaces.","hint":"Sound reflection"},
-    {"explanation":"Batteries store chemical energy converted to electricity.","hint":"Electrochemical cells"}
+    {"explanation":"Airplanes fly because wing shape creates lower pressure above than below."},
+    {"explanation":"Microwaves heat food by making water molecules vibrate."},
+    {"explanation":"Rainbows form when sunlight refracts through water droplets."},
+    {"explanation":"Echoes happen when sound waves bounce off surfaces."},
+    {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
