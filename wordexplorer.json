@@ -78,7 +78,6 @@
 ["Homework", "Schoolwork done at home", "She finishes her homework before dinner.", ["Classwork", "Lesson", "Lecture"], ["Assignment", "Study", "Prep"]],
 ["Textbook", "Official school book", "Don't forget your math textbook.", ["Notebook", "Workbook", "Journal"], ["Manual", "Guide", "Coursebook"]],
 ["Graduate", "Complete a degree program", "He will graduate next spring.", ["Drop out", "Fail", "Quit"], ["Finish", "Complete", "Certify"]],
-["Yarn", "Fiber used for knitting", "She bought soft yarn for her project.", ["Unravel", "Tangle", "Knot"], ["Thread", "Fiber", "Wool"]],
 ["Bake", "Cook using dry heat", "We bake cookies every weekend.", ["Burn", "Undercook", "Raw"], ["Roast", "Toast", "Cook"]],
 ["Hike", "Walk in nature for pleasure", "They hike in the mountains.", ["Laze", "Sit", "Indoor"], ["Trek", "Walk", "Climb"]]
             ],
@@ -243,3 +242,4 @@
 ["Ontology", "Study of existence in philosophy", "The thesis discussed digital ontology.", ["Epistemology", "Methodology", "Theory"], ["Being", "Existence", "Reality"]]
  ]
 } 
+
