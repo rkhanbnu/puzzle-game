@@ -80,7 +80,7 @@
 ["Graduate", "Complete a degree program", "He will graduate next spring.", ["Drop out", "Fail", "Quit"], ["Finish", "Complete", "Certify"]],
 ["Yarn", "Fiber used for knitting", "She bought soft yarn for her project.", ["Unravel", "Tangle", "Knot"], ["Thread", "Fiber", "Wool"]],
 ["Bake", "Cook using dry heat", "We bake cookies every weekend.", ["Burn", "Undercook", "Raw"], ["Roast", "Toast", "Cook"]],
-["Hike", "Walk in nature for pleasure", "They hike in the mountains.", ["Laze", "Sit", "Indoor"], ["Trek", "Walk", "Climb"]]
+["Hike", "Walk in nature for pleasure", "They hike in the mountains.", ["Laze", "Sit", "Indoor"], ["Trek", "Walk", "Climb"]
             ]
             "medium": [
                 ["Ephemeral", "Lasting for a very short time", "The ephemeral beauty of cherry blossoms is celebrated in Japan.", ["Permanent", "Enduring", "Everlasting"], ["Transient", "Fleeting", "Short-lived"]],
@@ -164,7 +164,7 @@
 ["Thesis", "Long research paper", "She defended her master's thesis.", ["Summary", "Abstract", "Brief"], ["Dissertation", "Paper", "Study"]],
 ["Glaze", "Glass-like pottery coating", "The potter applied a blue glaze.", ["Unfinished", "Bare", "Raw"], ["Finish", "Coating", "Varnish"]],
 ["Chord", "Musical notes played together", "Practice switching guitar chords.", ["Note", "Single", "Tone"], ["Harmony", "Triad", "Progression"]],
-["Birdie", "Golf score under par", "He scored a birdie on hole 5.", ["Bogey", "Over par", "Loss"], ["Under par", "Score", "Achievement"]]
+["Birdie", "Golf score under par", "He scored a birdie on hole 5.", ["Bogey", "Over par", "Loss"], ["Under par", "Score", "Achievement"]
             ]
             "hard": [
                 ["Ubiquitous", "Present, appearing, or found everywhere", "Mobile phones have become ubiquitous in modern society.", ["Rare", "Scarce", "Uncommon"], ["Omnipresent", "Pervasive", "Universal"]],
@@ -240,9 +240,10 @@
 ["Liquidity", "Ease of converting to cash", "Stocks offer more liquidity than real estate.", ["Illiquidity", "Frozen", "Tied up"], ["Fluidity", "Cash flow", "Convertibility"]],
 ["Pedagogy", "Method of teaching", "Modern pedagogy emphasizes interaction.", ["Ignorance", "Unlearning", "Neglect"], ["Instruction", "Didactics", "Education"]],
 ["Heuristic", "Problem-solving approach", "The teacher used heuristic methods.", ["Algorithmic", "Formulaic", "Rote"], ["Discovery", "Exploratory", "Trial"]],
-["Ontology", "Study of existence in philosophy", "The thesis discussed digital ontology.", ["Epistemology", "Methodology", "Theory"], ["Being", "Existence", "Reality"]]
+["Ontology", "Study of existence in philosophy", "The thesis discussed digital ontology.", ["Epistemology", "Methodology", "Theory"], ["Being", "Existence", "Reality"]
 
  ]
 }
+
 
 
