@@ -1,250 +1,3563 @@
 {
-"easy": [
-                ["Jubilant", "Feeling or expressing great happiness and triumph", "The team was jubilant after winning the championship.", ["Miserable", "Depressed", "Sorrowful"], ["Elated", "Ecstatic", "Overjoyed"]],
-                ["Ponder", "To think about something carefully", "She sat quietly, pondering her next move.", ["Ignore", "Disregard", "Neglect"], ["Consider", "Contemplate", "Meditate"]],
-                ["Vivid", "Producing powerful feelings or strong, clear images in the mind", "He gave a vivid description of his travels.", ["Dull", "Vague", "Unclear"], ["Bright", "Colorful", "Graphic"]],
-["Benevolent", "Well-meaning and kindly", "The benevolent teacher stayed after class to help.", ["Cruel", "Mean", "Selfish"], ["Kind", "Generous", "Compassionate"]],
-["Diligent", "Having or showing care in one's work", "The diligent student always completed homework early.", ["Lazy", "Careless", "Negligent"], ["Hardworking", "Industrious", "Conscientious"]],
-["Frugal", "Economical in use of resources", "Her frugal habits helped her save money.", ["Wasteful", "Extravagant", "Spendthrift"], ["Thrifty", "Prudent", "Economical"]],
-["Jovial", "Cheerful and friendly", "His jovial personality made him popular.", ["Gloomy", "Sullen", "Morose"], ["Cheerful", "Merry", "Jolly"]],
-["Keen", "Highly developed sense or ability", "She has a keen eye for detail.", ["Dull", "Blunt", "Obtuse"], ["Sharp", "Acute", "Perceptive"]],
-["Admire", "To regard with respect or warm approval", "I admire her dedication to the project.", ["Despise", "Dislike", "Scorn"], ["Respect", "Appreciate", "Esteem"]],
-["Brave", "Ready to face danger or pain", "The brave firefighter rescued the child.", ["Cowardly", "Fearful", "Timid"], ["Courageous", "Bold", "Heroic"]],
-["Calm", "Not showing or feeling nervousness", "She remained calm during the emergency.", ["Agitated", "Nervous", "Anxious"], ["Peaceful", "Serene", "Tranquil"]],
-["Daring", "Adventurous or audaciously bold", "Their daring escape amazed everyone.", ["Cautious", "Timid", "Cowardly"], ["Bold", "Audacious", "Adventurous"]],
-["Eager", "Strongly wanting to do or have something", "The children were eager to open presents.", ["Reluctant", "Unwilling", "Indifferent"], ["Enthusiastic", "Keen", "Excited"]],
-["Fragrant", "Having a pleasant smell", "The fragrant flowers filled the garden.", ["Stinky", "Foul", "Malodorous"], ["Aromatic", "Perfumed", "Sweet-smelling"]],
-["Verdant", "Green with grass or vegetation", "The verdant hills looked peaceful.", ["Barren", "Arid", "Desolate"], ["Lush", "Grassy", "Leafy"]],
-["Durable", "Able to withstand wear", "The durable phone survived many drops.", ["Fragile", "Delicate", "Flimsy"], ["Sturdy", "Hardy", "Long-lasting"]],
-["Precise", "Exact and accurate", "Scientists need precise measurements.", ["Approximate", "Rough", "Inaccurate"], ["Exact", "Accurate", "Meticulous"]],
-["Cheerful", "Noticeably happy", "Her cheerful mood lifted everyone.", ["Gloomy", "Miserable", "Sullen"], ["Joyful", "Upbeat", "Merry"]],
-["Honest", "Truthful and sincere", "Honest people gain trust easily.", ["Dishonest", "Deceitful", "Fraudulent"], ["Truthful", "Sincere", "Genuine"]],
-["Creative", "Having imagination or originality", "The creative solution solved the problem.", ["Unimaginative", "Dull", "Boring"], ["Inventive", "Original", "Artistic"]],
-["Rhythm", "A strong, regular pattern", "The song had a catchy rhythm.", ["Irregularity", "Chaos", "Discord"], ["Beat", "Cadence", "Tempo"]],
-["Profit", "Financial gain", "The company made a large profit.", ["Loss", "Debt", "Deficit"], ["Earnings", "Revenue", "Gain"]],
-["Invest", "To put money into something", "They invest in renewable energy.", ["Withdraw", "Remove", "Divest"], ["Fund", "Back", "Finance"]],
-["Lawful", "Allowed by law", "It's lawful to park here until 6 PM.", ["Illegal", "Unlawful", "Prohibited"], ["Legal", "Permitted", "Authorized"]],
-["Contract", "A written agreement", "They signed a contract for the house.", ["Breach", "Violation", "Disagreement"], ["Agreement", "Deal", "Pact"]],
-["Recover", "To return to health", "She needs time to recover from surgery.", ["Deteriorate", "Worsen", "Relapse"], ["Heal", "Improve", "Convalesce"]],
-["Painful", "Causing physical hurt", "The injection was painful.", ["Painless", "Comfortable", "Soothed"], ["Sore", "Aching", "Hurtful"]],
-["Ancient", "Belonging to the distant past", "We studied ancient civilizations.", ["Modern", "Current", "New"], ["Old", "Antique", "Archaic"]],
-["Colony", "Territory controlled by another country", "America was once a British colony.", ["Metropolis", "Motherland", "Sovereign"], ["Settlement", "Outpost", "Dominion"]],
-["Savory", "Pleasantly salty or spicy", "The soup had a savory flavor.", ["Sweet", "Bland", "Tasteless"], ["Tasty", "Flavorful", "Appetizing"]],
-["Whisk", "To mix ingredients rapidly", "Whisk the eggs until fluffy.", ["Stir", "Fold", "Blend"], ["Beat", "Whip", "Emulsify"]],
-["Memory", "Ability to store and recall information", "Her memory of the event was clear.", ["Forgetfulness", "Amnesia", "Oblivion"], ["Recall", "Recollection", "Remembrance"]],
-["Anxious", "Feeling worried or uneasy", "He felt anxious before the test.", ["Calm", "Relaxed", "Composed"], ["Nervous", "Worried", "Apprehensive"]],
-["Balcony", "Platform projecting from a building wall", "She drank coffee on the balcony.", ["Enclosed", "Interior", "Indoor"], ["Terrace", "Gallery", "Veranda"]],
-["Column", "Vertical pillar supporting a structure", "Greek temples had marble columns.", ["Wall", "Beam", "Slab"], ["Pillar", "Post", "Support"]],
-["Melody", "Sequence of musical notes", "She hummed the melody all day.", ["Silence", "Dissonance", "Noise"], ["Tune", "Strain", "Air"]],
-["Harmony", "Pleasant combination of musical notes", "The choir sang in perfect harmony.", ["Discord", "Cacophony", "Disharmony"], ["Accord", "Consonance", "Chord"]],
-["Orbit", "Path of a celestial body", "Earth's orbit around the sun takes one year.", ["Collision", "Fall", "Descent"], ["Trajectory", "Revolution", "Circuit"]],
-["Crater", "Bowl-shaped depression on a planet", "The moon's surface has many craters.", ["Mountain", "Peak", "Plateau"], ["Hollow", "Basin", "Depression"]],
-["Anchor", "Device to moor a vessel", "They dropped anchor in the bay.", ["Drift", "Float", "Wander"], ["Mooring", "Kedge", "Hook"]],
-["Dialect", "Regional variety of a language", "The Southern dialect has unique words.", ["Standard", "Formal", "Official"], ["Vernacular", "Patois", "Idiom"]],
-["Add", "Combine numbers to find total", "Add 2 and 3 to get 5.", ["Subtract", "Remove", "Deduct"], ["Sum", "Total", "Combine"]],
-["Angle", "Space between intersecting lines", "A right angle measures 90 degrees.", ["Curve", "Arc", "Circle"], ["Corner", "Intersection", "Vertex"]],
-["Stage", "Area where performers act", "The actors stood on the stage.", ["Audience", "Wings", "Backstage"], ["Platform", "Scenery", "Set"]],
-["Script", "Written text of a play", "She memorized the entire script.", ["Improvisation", "Ad-lib", "Spontaneity"], ["Dialogue", "Lines", "Text"]],
-["Bolt", "Threaded fastener with nut", "Tighten the bolt with a wrench.", ["Screw", "Nail", "Pin"], ["Fastener", "Threaded rod", "Stud"]],
-["Gear", "Toothed machine part for power transfer", "The bicycle's gears need oil.", ["Belt", "Chain", "Pulley"], ["Cog", "Sprocket", "Toothed wheel"]],
-["Radius", "Distance from circle center to edge", "Draw a circle with 5cm radius.", ["Diameter", "Chord", "Tangent"], ["Half-diameter", "Semi-width", "Spread"]],
-["Spotlight", "Strong beam of stage light", "The spotlight followed the dancer.", ["Darkness", "Shadow", "Gloom"], ["Beam", "Floodlight", "Focus"]],
-["Cozy", "Giving a feeling of comfort", "The blanket made the chair feel cozy.", ["Uncomfortable", "Cold", "Harsh"], ["Comfy", "Snug", "Homey"]],
-["Fussy", "Hard to please or picky", "The baby was fussy about her food.", ["Easygoing", "Flexible", "Laid-back"], ["Picky", "Finicky", "Particular"]],
-["Hasty", "Done quickly without care", "His hasty reply caused problems.", ["Slow", "Careful", "Deliberate"], ["Rushed", "Quick", "Hurried"]],
-["Jot", "To write something quickly", "Let me jot down that number.", ["Erase", "Delete", "Forget"], ["Note", "Record", "Scribble"]],
-["Knickknack", "Small decorative object", "Her shelves were full of knickknacks.", ["Essential", "Necessity", "Tool"], ["Trinket", "Ornament", "Bauble"]],
-["Clutter", "A collection of things lying about", "She tidied up the clutter.", ["Order", "Neatness", "Organization"], ["Mess", "Jumble", "Disarray"]],
-["Simmer", "To cook just below boiling", "Let the soup simmer for 20 minutes.", ["Boil", "Burn", "Overcook"], ["Stew", "Bubble", "Poach"]],
-["Discount", "Reduction in price", "I got a 20% discount on these shoes.", ["Markup", "Surcharge", "Premium"], ["Sale", "Deduction", "Price cut"]],
-["Checkout", "Place to pay for purchases", "The cashier scanned my items at checkout.", ["Entrance", "Display", "Aisle"], ["Register", "Payment counter", "Cash desk"]],
-["Carpool", "Sharing a ride to save costs", "We carpool to work every Tuesday.", ["Solo drive", "Single occupancy", "Private transport"], ["Ride-share", "Lift club", "Shared commute"]],
-["Detour", "Alternative route due to blockage", "We took a detour around the construction.", ["Direct route", "Straight path", "Main road"], ["Bypass", "Alternate way", "Diversion"]],
-["Simmer", "Cook just below boiling point", "Let the soup simmer for 20 minutes.", ["Boil", "Burn", "Overcook"], ["Stew", "Bubble gently", "Poach"]],
-["Leftovers", "Uneaten saved food", "We ate yesterday's leftovers for lunch.", ["Fresh meal", "New preparation", "Just cooked"], ["Remains", "Extra food", "Saved portions"]],
-["Deadline", "Time by which work must be done", "The project deadline is next Friday.", ["Extension", "Delay", "Postponement"], ["Due date", "Cutoff", "Time limit"]],
-["Overtime", "Extra work hours", "She worked overtime to finish the report.", ["Early leave", "Short day", "Reduced hours"], ["Extra time", "Additional hours", "Bonus shift"]],
-["Gossip", "Casual talk about others", "Office gossip can be harmful.", ["Fact", "Truth", "News"], ["Rumors", "Chatter", "Hearsay"]],
-["RSVP", "Request to confirm attendance", "Please RSVP by next Wednesday.", ["Ignore", "Overlook", "Disregard"], ["Respond", "Reply", "Confirm"]],
-["Prescription", "Doctor's written medicine order", "The pharmacist filled my prescription.", ["Over-the-counter", "Non-prescription", "Herbal"], ["Script", "Medication order", "Doctor's note"]],
-["Bandage", "Strip to cover wounds", "She put a bandage on the cut.", ["Uncover", "Expose", "Leave bare"], ["Dressing", "Gauze", "Wrap"]],
-["Screenshot", "Image of screen content", "I took a screenshot of the error message.", ["Delete", "Erase", "Ignore"], ["Screen grab", "Capture", "Snapshot"]],
-["WiFi", "Wireless internet connection", "The café offers free WiFi.", ["Wired", "Ethernet", "Offline"], ["Wireless", "Internet", "Hotspot"]],
-["Tantrum", "Child's angry outburst", "The toddler threw a tantrum in the store.", ["Calm", "Composure", "Peace"], ["Fit", "Meltdown", "Outburst"]],
-["Pacifier", "Rubber nipple for babies", "The baby stopped crying with her pacifier.", ["Remove", "Take away", "Deny"], ["Soother", "Binky", "Dummy"]],
-["Budget", "Plan for income and expenses", "We made a monthly budget for groceries.", ["Overspend", "Splurge", "Waste"], ["Plan", "Allowance", "Spending limit"]],
-["Debt", "Money owed to others", "He's paying off student debt.", ["Savings", "Assets", "Wealth"], ["Loan", "Obligation", "Balance"]],
-["Sale", "Temporary price reduction", "The store is having a big sale.", ["Full price", "Markup", "Retail"], ["Discount", "Clearance", "Promotion"]],
-["Homework", "Schoolwork done at home", "She finishes her homework before dinner.", ["Classwork", "Lesson", "Lecture"], ["Assignment", "Study", "Prep"]],
-["Textbook", "Official school book", "Don't forget your math textbook.", ["Notebook", "Workbook", "Journal"], ["Manual", "Guide", "Coursebook"]],
-["Graduate", "Complete a degree program", "He will graduate next spring.", ["Drop out", "Fail", "Quit"], ["Finish", "Complete", "Certify"]],
-["Yarn", "Fiber used for knitting", "She bought soft yarn for her project.", ["Unravel", "Tangle", "Knot"], ["Thread", "Fiber", "Wool"]],
-["Bake", "Cook using dry heat", "We bake cookies every weekend.", ["Burn", "Undercook", "Raw"], ["Roast", "Toast", "Cook"]],
-["Hike", "Walk in nature for pleasure", "They hike in the mountains.", ["Laze", "Sit", "Indoor"], ["Trek", "Walk", "Climb"]
+    "easy": [
+        [
+            "Jubilant",
+            "Feeling or expressing great happiness and triumph",
+            "The team was jubilant after winning the championship.",
+            [
+                "Miserable",
+                "Depressed",
+                "Sorrowful"
             ],
-            "medium": [
-                ["Ephemeral", "Lasting for a very short time", "The ephemeral beauty of cherry blossoms is celebrated in Japan.", ["Permanent", "Enduring", "Everlasting"], ["Transient", "Fleeting", "Short-lived"]],
-                ["Pragmatic", "Dealing with things sensibly and realistically", "Her pragmatic approach solved the problem efficiently.", ["Idealistic", "Impractical", "Unrealistic"], ["Practical", "Realistic", "Sensible"]],
-                ["Resilient", "Able to withstand or recover quickly from difficult conditions", "The resilient community rebuilt after the hurricane.", ["Fragile", "Vulnerable", "Weak"], ["Tough", "Durable", "Strong"]],
-["Ambiguous", "Open to more than one interpretation", "His ambiguous reply left us confused.", ["Clear", "Unambiguous", "Definite"], ["Vague", "Unclear", "Cryptic"]],
-["Candid", "Truthful and straightforward", "Her candid feedback helped me improve.", ["Dishonest", "Deceptive", "Evasive"], ["Frank", "Blunt", "Forthright"]],
-["Eloquent", "Fluent or persuasive in speaking", "The lawyer's eloquent argument won the case.", ["Inarticulate", "Tongue-tied", "Mumbling"], ["Articulate", "Expressive", "Silver-tongued"]],
-["Meticulous", "Showing great attention to detail", "Her meticulous planning ensured success.", ["Careless", "Sloppy", "Negligent"], ["Thorough", "Precise", "Scrupulous"]],
-["Pragmatic", "Dealing with things practically", "We need a pragmatic solution to this problem.", ["Idealistic", "Impractical", "Unrealistic"], ["Practical", "Realistic", "Sensible"]],
-["Adept", "Very skilled or proficient", "She's adept at solving complex problems.", ["Inept", "Incompetent", "Clumsy"], ["Skilled", "Proficient", "Expert"]],
-["Cogent", "Clear, logical, and convincing", "He presented a cogent argument.", ["Weak", "Unconvincing", "Illogical"], ["Persuasive", "Compelling", "Sound"]],
-["Dearth", "A scarcity or lack of something", "There's a dearth of good restaurants here.", ["Abundance", "Surplus", "Excess"], ["Scarcity", "Shortage", "Deficiency"]],
-["Fervent", "Having or displaying passionate intensity", "She's a fervent supporter of human rights.", ["Apathetic", "Indifferent", "Unenthusiastic"], ["Passionate", "Ardent", "Zealous"]],
-["Gregarious", "Fond of company; sociable", "His gregarious nature makes him popular.", ["Reserved", "Introverted", "Unsociable"], ["Sociable", "Outgoing", "Convivial"]],
-["Empathetic", "Showing ability to understand others' feelings", "Good leaders are typically empathetic.", ["Unfeeling", "Insensitive", "Callous"], ["Compassionate", "Understanding", "Sympathetic"]],
-["Arid", "Having little or no rain", "Cacti thrive in arid climates.", ["Wet", "Humid", "Marshy"], ["Dry", "Parched", "Waterless"]],
-["Nocturnal", "Active at night", "Owls are nocturnal hunters.", ["Diurnal", "Daytime", "Morning"], ["Nighttime", "Dark-active", "Moonlit"]],
-["Kinetic", "Relating to motion", "The kinetic energy powered the device.", ["Static", "Stationary", "Still"], ["Moving", "Dynamic", "Active"]],
-["Synthetic", "Man-made, not natural", "The jacket was made of synthetic fibers.", ["Natural", "Organic", "Genuine"], ["Artificial", "Fabricated", "Manufactured"]],
-["Charismatic", "Compelling attractiveness", "The charismatic leader inspired many.", ["Unimpressive", "Boring", "Forgettable"], ["Charming", "Magnetic", "Engaging"]],
-["Tenacious", "Persistent and determined", "Tenacious athletes never give up.", ["Weak", "Yielding", "Quitting"], ["Persistent", "Dogged", "Resolute"]],
-["Metaphor", "Figure of speech comparing unlike things", "Life is a journey is a metaphor.", ["Literal", "Plain", "Direct"], ["Symbol", "Analogy", "Figure"]],
-["Nuance", "A subtle difference", "The actor captured every nuance.", ["Oversimplification", "Generalization", "Bluntness"], ["Subtlety", "Shade", "Gradation"]],
-["Liquidate", "Convert assets into cash", "The store liquidated its inventory.", ["Acquire", "Purchase", "Invest"], ["Sell off", "Cash in", "Convert"]],
-["Innovate", "Introduce new methods", "Tech companies must innovate.", ["Stagnate", "Preserve", "Maintain"], ["Pioneer", "Modernize", "Revolutionize"]],
-["Litigate", "To take legal action", "They decided to litigate the dispute.", ["Settle", "Mediate", "Reconcile"], ["Sue", "Prosecute", "Challenge"]],
-["Injunction", "Court order to stop an action", "The judge issued an injunction.", ["Permission", "Allowance", "Consent"], ["Restriction", "Ban", "Prohibition"]],
-["Benign", "Not harmful or cancerous", "The tumor was benign.", ["Malignant", "Cancerous", "Deadly"], ["Harmless", "Noncancerous", "Innocuous"]],
-["Prognosis", "Likely course of a disease", "The doctor gave a good prognosis.", ["Diagnosis", "Assessment", "Analysis"], ["Outlook", "Forecast", "Projection"]],
-["Feudal", "Relating to medieval landholding system", "Feudal societies had strict hierarchies.", ["Modern", "Egalitarian", "Democratic"], ["Manorial", "Seigniorial", "Vassal-based"]],
-["Decolonization", "Process of colonies gaining independence", "Decolonization accelerated after WWII.", ["Colonization", "Imperialism", "Annexation"], ["Liberation", "Independence", "Self-rule"]],
-["Umami", "Savory 'fifth taste'", "Mushrooms are rich in umami.", ["Bland", "Tasteless", "Flat"], ["Savory", "Meaty", "Brothy"]],
-["Braise", "To cook slowly in liquid", "She braised the beef for hours.", ["Grill", "Fry", "Roast"], ["Stew", "Simmer", "Casserole"]],
-["Cognitive", "Relating to mental processes", "Aging affects cognitive abilities.", ["Physical", "Bodily", "Motor"], ["Mental", "Intellectual", "Cerebral"]],
-["Neuroplasticity", "Brain's ability to reorganize itself", "Neuroplasticity helps recovery from injury.", ["Rigidity", "Fixedness", "Inflexibility"], ["Brain adaptability", "Neural flexibility", "Cerebral malleability"]],
-["Fenestration", "Arrangement of windows in a building", "The church's fenestration created beautiful light.", ["Blank wall", "Opaque surface", "Barrier"], ["Window design", "Glazing pattern", "Opening layout"]],
-["Cantilever", "Beam anchored at only one end", "The cantilever bridge appeared to float.", ["Supported", "Buttressed", "Propped"], ["Overhang", "Projection", "Extension"]],
-["Counterpoint", "Relationship between musical voices", "Bach mastered Baroque counterpoint.", ["Unison", "Monophony", "Homophony"], ["Polyphony", "Contrapuntal", "Interplay"]],
-["Hemiola", "3-beat rhythm over 2-beat meter", "The hemiola created rhythmic tension.", ["Regular", "Straight", "Simple"], ["Cross-rhythm", "Polyrhythm", "Metric shift"]],
-["Nebula", "Interstellar cloud of gas and dust", "The Orion Nebula is visible to the naked eye.", ["Vacuum", "Void", "Empty space"], ["Cloud", "Stellar nursery", "Galactic dust"]],
-["Redshift", "Light stretching indicating cosmic expansion", "Redshift proves the universe is expanding.", ["Blueshift", "Compression", "Approach"], ["Doppler effect", "Wavelength stretch", "Cosmic recession"]],
-["Lee shore", "Coast toward which wind blows", "The storm drove them toward a lee shore.", ["Windward", "Safe harbor", "Protected coast"], ["Danger coast", "Weather shore", "Hazard beach"]],
-["Morpheme", "Smallest meaningful language unit", "'Unbreakable' contains three morphemes.", ["Word", "Sentence", "Phrase"], ["Language unit", "Semantic element", "Grammar component"]],
-["Theorem", "Mathematically proven statement", "Pythagorean theorem relates triangle sides.", ["Conjecture", "Guess", "Hypothesis"], ["Law", "Principle", "Formula"]],
-["Integer", "Whole number (positive/negative/zero)", "-3, 0, and 7 are integers.", ["Fraction", "Decimal", "Irrational"], ["Whole number", "Counting number", "Digit"]],
-["Proscenium", "Arch framing the stage", "The proscenium separated actors from audience.", ["Arena", "Thrust", "Black box"], ["Stage arch", "Theater frame", "Performance opening"]],
-["Blocking", "Planning actors' stage movements", "The director finalized the blocking.", ["Improvise", "Wander", "Stray"], ["Staging", "Choreography", "Positioning"]],
-["Torque", "Rotational force measurement", "Higher torque means better towing capacity.", ["Linear force", "Push", "Pull"], ["Twist", "Rotational power", "Moment"]],
-["Tolerance", "Permissible variation in measurements", "The part must be made to 0.1mm tolerance.", ["Exactness", "Precision", "Perfection"], ["Allowance", "Margin", "Leeway"]],
-["Parabola", "U-shaped symmetric curve", "The ball's path formed a parabola.", ["Line", "Circle", "Ellipse"], ["Arc", "Trajectory", "Curve"]],
-["Apron", "Stage area in front of curtain", "The comedian performed on the apron.", ["Backstage", "Wings", "Gallery"], ["Forestage", "Extension", "Front area"]],
-["Ambivalent", "Having mixed feelings", "She felt ambivalent about the job offer.", ["Certain", "Decided", "Resolute"], ["Uncertain", "Torn", "Conflicted"]],
-["Brusque", "Abrupt or blunt in manner", "His brusque reply seemed rude.", ["Polite", "Gracious", "Courteous"], ["Curt", "Terse", "Abrupt"]],
-["Dwindle", "To gradually diminish", "Our supplies began to dwindle.", ["Increase", "Grow", "Expand"], ["Shrink", "Decline", "Diminish"]],
-["Fickle", "Likely to change frequently", "The weather here is fickle.", ["Constant", "Steady", "Reliable"], ["Changeable", "Unpredictable", "Capricious"]],
-["Gumption", "Initiative and resourcefulness", "It took gumption to start her own business.", ["Laziness", "Apathy", "Timidity"], ["Drive", "Spunk", "Enterprise"]],
-["Ergonomic", "Designed for efficiency/comfort", "The ergonomic chair helped her back.", ["Uncomfortable", "Awkward", "Straining"], ["User-friendly", "Comfort-designed", "Body-conscious"]],
-["Procrastinate", "Delay or postpone action", "He tends to procrastinate on chores.", ["Expedite", "Advance", "Accelerate"], ["Delay", "Postpone", "Dawdle"]],
-["Impulse buy", "Unplanned purchase", "The candy display triggered an impulse buy.", ["Planned purchase", "Budgeted item", "Necessity"], ["Spur-of-the-moment", "Whim purchase", "Unplanned buy"]],
-["Bulk purchase", "Buying large quantities", "We save money with bulk purchases.", ["Single purchase", "Retail buy", "Small quantity"], ["Wholesale", "Mass buy", "Volume order"]],
-["Gridlock", "Complete traffic standstill", "Accidents cause morning gridlock.", ["Free flow", "Clear road", "Open highway"], ["Jam", "Bottleneck", "Standstill"]],
-["Fare evasion", "Avoiding transport payment", "Fare evasion results in fines.", ["Payment", "Fare compliance", "Ticket validation"], ["Dodging", "Skipping fare", "Free riding"]],
-["Al dente", "Pasta cooked firm to bite", "Cook the spaghetti al dente.", ["Mushy", "Overcooked", "Soft"], ["Firm", "Toothsome", "Perfectly cooked"]],
-["Marinate", "Soak food in flavorful liquid", "Marinate the chicken overnight.", ["Dry rub", "Quick cook", "Untreated"], ["Soak", "Infuse", "Season"]],
-["Brainstorm", "Group idea generation", "Let's brainstorm marketing ideas.", ["Finalize", "Execute", "Implement"], ["Ideate", "Think up", "Conceptualize"]],
-["Micromanage", "Excessive control over details", "Nobody likes being micromanaged.", ["Delegate", "Empower", "Trust"], ["Over-control", "Hover", "Nitpick"]],
-["Banter", "Playful teasing conversation", "Their friendly banter amused everyone.", ["Serious talk", "Formal discussion", "Silence"], ["Repartee", "Witty exchange", "Joking"]],
-["Passive-aggressive", "Indirect resistance or anger", "His passive-aggressive comments annoyed us.", ["Direct", "Forthright", "Honest"], ["Backhanded", "Veiled hostility", "Indirect anger"]],
-["Co-pay", "Fixed payment for medical service", "My co-pay for the doctor is $20.", ["Full payment", "Uncovered", "Self-pay"], ["Patient share", "Fixed fee", "Contribution"]],
-["Benign", "Not harmful (medical condition)", "The biopsy showed a benign tumor.", ["Malignant", "Cancerous", "Dangerous"], ["Harmless", "Non-threatening", "Safe"]],
-["Sleep regression", "Baby's temporary sleep disruption", "The 4-month sleep regression is exhausting.", ["Sleep routine", "Restful night", "Deep sleep"], ["Sleep setback", "Disruption", "Phase"]],
-["Time-out", "A brief suspension of activity", "The opposite team asked for a time-out.", ["Reward", "Praise", "Freedom"], ["Cool-down", "Pause", "Break"]],
-["Firewall", "Network security system", "The firewall blocked suspicious traffic.", ["Open access", "Unsecured", "Vulnerable"], ["Barrier", "Shield", "Protection"]],
-["Cache", "Temporary storage for faster access", "Clear your cache to fix loading issues.", ["Slow load", "Uncached", "Direct fetch"], ["Memory", "Storage", "Reserve"]],
-["Interest", "Cost of borrowing money", "The loan has 5% annual interest.", ["Principal", "Base", "Original"], ["Rate", "Percentage", "Fee"]],
-["Equity", "Ownership value in property", "They built equity in their home.", ["Debt", "Liability", "Loan"], ["Value", "Stake", "Share"]],
-["Dividend", "Share of company profits", "The stock pays quarterly dividends.", ["Loss", "Debt", "Expense"], ["Payout", "Return", "Profit"]],
-["Plagiarism", "Using others' work as your own", "Plagiarism can get you expelled.", ["Original", "Authentic", "Genuine"], ["Copying", "Cheating", "Theft"]],
-["Syllabus", "Course outline", "Check the syllabus for due dates.", ["Lesson", "Lecture", "Class"], ["Plan", "Schedule", "Curriculum"]],
-["Thesis", "Long research paper", "She defended her master's thesis.", ["Summary", "Abstract", "Brief"], ["Dissertation", "Paper", "Study"]],
-["Glaze", "Glass-like pottery coating", "The potter applied a blue glaze.", ["Unfinished", "Bare", "Raw"], ["Finish", "Coating", "Varnish"]],
-["Chord", "Musical notes played together", "Practice switching guitar chords.", ["Note", "Single", "Tone"], ["Harmony", "Triad", "Progression"]],
-["Birdie", "Golf score under par", "He scored a birdie on hole 5.", ["Bogey", "Over par", "Loss"], ["Under par", "Score", "Achievement"]
+            [
+                "Elated",
+                "Ecstatic",
+                "Overjoyed"
+            ]
+        ],
+        [
+            "Ponder",
+            "To think about something carefully",
+            "She sat quietly, pondering her next move.",
+            [
+                "Ignore",
+                "Disregard",
+                "Neglect"
             ],
-            "hard": [
-                ["Ubiquitous", "Present, appearing, or found everywhere", "Mobile phones have become ubiquitous in modern society.", ["Rare", "Scarce", "Uncommon"], ["Omnipresent", "Pervasive", "Universal"]],
-                ["Sycophant", "A person who acts obsequiously toward someone important to gain advantage", "The CEO was surrounded by sycophants who never challenged his ideas.", ["Straightforward", "Honest", "Frank"], ["Flatterer", "Yes-man", "Toady"]],
-                ["Pernicious", "Having a harmful effect, especially in a gradual or subtle way", "The pernicious influence of social media on self-esteem is concerning.", ["Beneficial", "Harmless", "Innocent"], ["Destructive", "Damaging", "Deleterious"]],
-["Circumspect", "Wary and unwilling to take risks", "The diplomat was circumspect in his comments.", ["Reckless", "Rash", "Impulsive"], ["Cautious", "Prudent", "Discreet"]],
-["Disparate", "Essentially different in kind", "The group contained disparate opinions.", ["Similar", "Alike", "Homogeneous"], ["Distinct", "Diverse", "Divergent"]],
-["Iconoclast", "Person who attacks cherished beliefs", "The scientist was an iconoclast in his field.", ["Conformist", "Traditionalist", "Conservative"], ["Rebel", "Radical", "Innovator"]],
-["Obfuscate", "To deliberately make unclear", "Politicians often obfuscate the truth.", ["Clarify", "Explain", "Illuminate"], ["Confuse", "Bewilder", "Muddle"]],
-["Recalcitrant", "Stubbornly resistant to authority", "The recalcitrant employee refused to follow rules.", ["Compliant", "Obedient", "Amenable"], ["Stubborn", "Defiant", "Uncooperative"]],
-["Acrimonious", "Angry and bitter", "Their divorce became acrimonious.", ["Friendly", "Harmonious", "Peaceful"], ["Bitter", "Hostile", "Caustic"]],
-["Bombastic", "High-sounding but with little meaning", "The politician's bombastic speech annoyed many.", ["Simple", "Unpretentious", "Modest"], ["Pompous", "Grandiloquent", "Overblown"]],
-["Disabuse", "To persuade someone that an idea is false", "I had to disabuse him of that notion.", ["Deceive", "Misinform", "Delude"], ["Enlighten", "Correct", "Undecieve"]],
-["Exculpate", "To clear from blame", "New evidence exculpated the suspect.", ["Accuse", "Blame", "Condemn"], ["Absolve", "Acquit", "Vindicate"]],
-["Fastidious", "Very attentive to accuracy and detail", "Her fastidious approach ensured perfection.", ["Sloppy", "Careless", "Negligent"], ["Meticulous", "Punctilious", "Scrupulous"]],
-["Limpid", "Clear and transparent", "The limpid waters revealed colorful fish.", ["Murky", "Cloudy", "Opaque"], ["Clear", "Translucent", "Crystal-clear"]],
-["Sylvan", "Relating to forests", "The sylvan retreat was perfect for meditation.", ["Urban", "Industrial", "City"], ["Wooded", "Forest", "Arboreal"]],
-["Quantum", "Relating to subatomic particles", "Quantum physics explains tiny particles.", ["Macro", "Large-scale", "Classical"], ["Subatomic", "Particle", "Microscopic"]],
-["Algorithm", "Step-by-step procedure", "The app uses an algorithm to recommend songs.", ["Chaos", "Randomness", "Disorder"], ["Formula", "Process", "Method"]],
-["Sanguine", "Optimistic in difficult situations", "He remained sanguine despite setbacks.", ["Pessimistic", "Gloomy", "Hopeless"], ["Optimistic", "Confident", "Upbeat"]],
-["Obdurate", "Stubbornly refusing to change", "The obdurate official blocked progress.", ["Flexible", "Yielding", "Amenable"], ["Stubborn", "Unyielding", "Inflexible"]],
-["Penumbra", "Partial shadow in an eclipse", "The moon's penumbra created twilight.", ["Umbra", "Full shadow", "Darkness"], ["Partial shadow", "Fringe", "Border"]],
-["Desiccate", "To dry out thoroughly", "The sun will desiccate the laundry.", ["Moisten", "Hydrate", "Dampen"], ["Dehydrate", "Parch", "Sear"]],
-["Ubiquitous", "Present everywhere simultaneously", "Smartphones have become ubiquitous.", ["Rare", "Scarce", "Uncommon"], ["Omnipresent", "Pervasive", "Universal"]],
-["Verisimilitude", "Appearance of being true", "The novel's verisimilitude felt real.", ["Falseness", "Unreality", "Fabrication"], ["Realism", "Authenticity", "Plausibility"]],
-["Oligopoly", "Market dominated by few sellers", "The telecom industry is an oligopoly.", ["Monopoly", "Free market", "Competition"], ["Limited competition", "Cartel", "Dominance"]],
-["Disintermediation", "Removing intermediaries", "Online shopping causes disintermediation.", ["Intermediation", "Brokering", "Mediation"], ["Direct selling", "Cutting out middlemen", "Streamlining"]],
-["Habeas Corpus", "Right against unlawful detention", "The lawyer filed a writ of habeas corpus.", ["Detention", "Confinement", "Incarceration"], ["Release order", "Liberty writ", "Freedom petition"]],
-["Tortious", "Involving a wrongful act", "His tortious behavior led to a lawsuit.", ["Lawful", "Proper", "Ethical"], ["Wrongful", "Delictual", "Culpable"]],
-["Iatrogenic", "Illness caused by medical treatment", "The infection was iatrogenic.", ["Natural", "Spontaneous", "Endogenous"], ["Treatment-induced", "Doctor-caused", "Clinical-origin"]],
-["Anticoagulant", "Substance preventing blood clots", "He takes anticoagulant medication.", ["Coagulant", "Clotting agent", "Thickener"], ["Blood-thinner", "Clot-preventer", "Anti-clotting"]],
-["Hegemony", "Dominance of one group over others", "The Roman Empire maintained hegemony.", ["Equality", "Balance", "Parity"], ["Dominance", "Supremacy", "Preeminence"]],
-["Paleolithic", "Relating to the Stone Age", "Paleolithic humans used simple tools.", ["Neolithic", "Modern", "Industrial"], ["Old Stone Age", "Primitive", "Prehistoric"]],
-["Sous-vide", "Precision cooking in vacuum bags", "The chef used sous-vide for perfect steak.", ["Boil", "Overcook", "Char"], ["Vacuum-cook", "Precision-cook", "Low-temp"]],
-["Mirepoix", "Chopped vegetables for flavor base", "The mirepoix included carrots and celery.", ["Bland", "Unseasoned", "Plain"], ["Aromatics", "Flavor base", "Holy trinity"]],
-["Diathesis-Stress", "Predisposition + stress causes disorder", "Schizophrenia follows a diathesis-stress model.", ["Single-cause", "Simple", "Direct"], ["Predisposition-stress", "Vulnerability-stress", "Dual-factor"]],
-["Onomatomania", "Obsession with particular words", "His onomatomania focused on 'justice'.", ["Indifference", "Aversion", "Disregard"], ["Word-fixation", "Verbal obsession", "Linguistic compulsion"]],
-["Pendentive", "Curved triangle supporting a dome", "Hagia Sophia's pendentives are architectural marvels.", ["Flat surface", "Right angle", "Square base"], ["Dome transition", "Arch support", "Squinch"]],
-["Piloti", "Ground-level supporting columns", "The building stood on slender piloti.", ["Foundation", "Solid base", "Ground floor"], ["Stilts", "Support pillars", "Raised columns"]],
-["Neapolitan", "Major chord built on flattened supertonic", "The Neapolitan sixth added drama.", ["Diatonic", "Tonic", "Primary"], ["Phrygian", "Flattened", "Secondary dominant"]],
-["Sprechstimme", "Speech-like singing technique", "Schoenberg used Sprechstimme in Pierrot.", ["Legato", "Bel canto", "Coloratura"], ["Speech-song", "Parlando", "Recitative"]],
-["Magnetar", "Neutron star with powerful magnetic field", "A magnetar's flare could affect Earth.", ["Black hole", "Pulsar", "White dwarf"], ["Magnetic star", "Neutron variant", "Cosmic magnet"]],
-["Zodiacal Light", "Sunlight scattered by interplanetary dust", "We saw zodiacal light before dawn.", ["Dark matter", "Black hole shadow", "Cosmic void"], ["False dawn", "Solar glow", "Dust reflection"]],
-["Doldrums", "Ocean area with little wind", "Sailors feared being stuck in the doldrums.", ["Trade winds", "Westerlies", "Gales"], ["Calm belt", "Equatorial calm", "Windless zone"]],
-["Allophone", "Variant pronunciation of a phoneme", "English 'p' in 'pin' vs 'spin' are allophones.", ["Phoneme", "Distinct sound", "Separate letter"], ["Sound variant", "Contextual pronunciation", "Phonetic alternant"]],
-["Eigenvalue", "Scalar associated with linear transformation", "Eigenvalues reveal matrix properties.", ["Determinant", "Trace", "Normal form"], ["Characteristic value", "Latent root", "Proper number"]],
-["Homeomorphism", "Continuous deformation between shapes", "A donut and coffee cup are homeomorphic.", ["Discontinuity", "Break", "Rupture"], ["Topological equivalence", "Shape-morphing", "Continuous map"]],
-["Scenography", "Integrated design of theatrical space", "The scenography transformed the stage.", ["Plain stage", "Empty space", "Undecorated"], ["Stage design", "Theatrical environment", "Performance space"]],
-["Periaktoi", "Triangular rotating scene-changing device", "Ancient Greeks used periaktoi for quick changes.", ["Flat scenery", "Static backdrop", "Fixed set"], ["Turning triangle", "Revolving prism", "Rotating scene"]],
-["Tribology", "Study of friction/wear/lubrication", "Tribology improves engine efficiency.", ["Fluid dynamics", "Thermodynamics", "Statics"], ["Friction science", "Wear analysis", "Lubrication study"]],
-["Hysteresis", "Lag between input and response", "Magnetic materials show hysteresis.", ["Linearity", "Instant response", "Proportionality"], ["Lag effect", "Memory effect", "Delay loop"]],
-["Manifold", "Topological space resembling Euclidean", "The universe may be a 4D manifold.", ["Flat plane", "Simple space", "Linear"], ["Complex surface", "Multi-dimensional space", "Geometric object"]],
-["Gobo", "Template controlling stage light shape", "The gobo projected leaf patterns.", ["Open beam", "Flood light", "Raw light"], ["Stencil", "Pattern plate", "Light mask"]],
-["Fastidious", "Very attentive to details", "His fastidious cleaning impressed everyone.", ["Sloppy", "Careless", "Negligent"], ["Meticulous", "Punctilious", "Exacting"]],
-["Iconoclast", "Person who challenges traditions", "The artist was an iconoclast in her field.", ["Conformist", "Traditionalist", "Conservative"], ["Rebel", "Radical", "Innovator"]],
-["Lugubrious", "Looking or sounding sad", "His lugubrious expression worried us.", ["Cheerful", "Joyful", "Upbeat"], ["Mournful", "Gloomy", "Melancholy"]],
-["Obfuscate", "To deliberately confuse", "Politicians often obfuscate the truth.", ["Clarify", "Explain", "Illuminate"], ["Bewilder", "Muddle", "Confuse"]],
-["Recalcitrant", "Stubbornly resistant", "The recalcitrant child refused to eat.", ["Compliant", "Obedient", "Agreeable"], ["Stubborn", "Defiant", "Uncooperative"]],
-["Predatory pricing", "Undercutting to eliminate competition", "Big chains use predatory pricing.", ["Fair pricing", "Ethical rates", "Standard cost"], ["Anti-competitive", "Cutthroat pricing", "Price war"]],
-["Conspicuous consumption", "Lavish spending to show wealth", "Designer bags represent conspicuous consumption.", ["Frugality", "Modesty", "Thrift"], ["Ostentatious", "Showy spending", "Status purchase"]],
-["Vehicular cyclogenesis", "Traffic wave formation", "Sudden braking causes vehicular cyclogenesis.", ["Smooth flow", "Steady traffic", "Clear road"], ["Traffic waves", "Shockwave jams", "Phantom traffic"]],
-["Intermodal transport", "Using multiple transport types", "The trip required intermodal transport.", ["Single mode", "Direct route", "Unchanged vehicle"], ["Multimodal", "Combined transport", "Switched transit"]],
-["Maillard reaction", "Browning during cooking", "The steak's crust comes from Maillard reaction.", ["Boiling", "Steaming", "Raw"], ["Browning", "Flavor development", "Caramelization"]],
-["Sous-vide", "Precision low-temperature cooking", "Sous-vide ensures perfect doneness.", ["Boil", "Overcook", "Char"], ["Vacuum-cook", "Precision cook", "Water bath"]],
-["Presenteeism", "Working while unproductively ill", "Presenteeism reduces overall productivity.", ["Absenteeism", "Leave", "Recovery"], ["Working sick", "Unproductive presence", "Ill-at-work"]],
-["Goldbricking", "Pretending to work while idle", "Remote work increased goldbricking.", ["Diligence", "Productivity", "Focus"], ["Slacking", "Shirking", "Feigning work"]],
-["Gaslighting", "Psychological manipulation tactic", "Her gaslighting made him doubt reality.", ["Validating", "Supporting", "Affirming"], ["Mind games", "Manipulation", "Psychological abuse"]],
-["Hiraeth", "Nostalgic longing for home", "Immigrants often feel hiraeth.", ["Contentment", "Satisfaction", "Comfort"], ["Homesickness", "Longing", "Yearning"]],
-["Phishing", "Fraudulent attempt to steal data", "The email was a phishing scam.", ["Legitimate", "Genuine", "Authentic"], ["Scam", "Spoofing", "Fraud"]],
-["Zero-day exploit", "Attack before a vulnerability is fixed", "Hackers used a zero-day exploit.", ["Patched", "Fixed", "Secure"], ["Unpatched flaw", "New vulnerability", "Unknown attack"]],
-["Amortization", "Gradual debt repayment", "The mortgage amortization takes 30 years.", ["Lump sum", "Balloon payment", "Bullet"], ["Repayment", "Schedule", "Reduction"]],
-["Arbitrage", "Profiting from price differences", "They used arbitrage in forex trading.", ["Loss", "Static", "Fixed"], ["Exploit", "Difference", "Gap"]],
-["Liquidity", "Ease of converting to cash", "Stocks offer more liquidity than real estate.", ["Illiquidity", "Frozen", "Tied up"], ["Fluidity", "Cash flow", "Convertibility"]],
-["Pedagogy", "Method of teaching", "Modern pedagogy emphasizes interaction.", ["Ignorance", "Unlearning", "Neglect"], ["Instruction", "Didactics", "Education"]],
-["Heuristic", "Problem-solving approach", "The teacher used heuristic methods.", ["Algorithmic", "Formulaic", "Rote"], ["Discovery", "Exploratory", "Trial"]],
-["Ontology", "Study of existence in philosophy", "The thesis discussed digital ontology.", ["Epistemology", "Methodology", "Theory"], ["Being", "Existence", "Reality"]
-
- ]
+            [
+                "Consider",
+                "Contemplate",
+                "Meditate"
+            ]
+        ],
+        [
+            "Vivid",
+            "Producing powerful feelings or strong, clear images in the mind",
+            "He gave a vivid description of his travels.",
+            [
+                "Dull",
+                "Vague",
+                "Unclear"
+            ],
+            [
+                "Bright",
+                "Colorful",
+                "Graphic"
+            ]
+        ],
+        [
+            "Benevolent",
+            "Well-meaning and kindly",
+            "The benevolent teacher stayed after class to help.",
+            [
+                "Cruel",
+                "Mean",
+                "Selfish"
+            ],
+            [
+                "Kind",
+                "Generous",
+                "Compassionate"
+            ]
+        ],
+        [
+            "Diligent",
+            "Having or showing care in one's work",
+            "The diligent student always completed homework early.",
+            [
+                "Lazy",
+                "Careless",
+                "Negligent"
+            ],
+            [
+                "Hardworking",
+                "Industrious",
+                "Conscientious"
+            ]
+        ],
+        [
+            "Frugal",
+            "Economical in use of resources",
+            "Her frugal habits helped her save money.",
+            [
+                "Wasteful",
+                "Extravagant",
+                "Spendthrift"
+            ],
+            [
+                "Thrifty",
+                "Prudent",
+                "Economical"
+            ]
+        ],
+        [
+            "Jovial",
+            "Cheerful and friendly",
+            "His jovial personality made him popular.",
+            [
+                "Gloomy",
+                "Sullen",
+                "Morose"
+            ],
+            [
+                "Cheerful",
+                "Merry",
+                "Jolly"
+            ]
+        ],
+        [
+            "Keen",
+            "Highly developed sense or ability",
+            "She has a keen eye for detail.",
+            [
+                "Dull",
+                "Blunt",
+                "Obtuse"
+            ],
+            [
+                "Sharp",
+                "Acute",
+                "Perceptive"
+            ]
+        ],
+        [
+            "Admire",
+            "To regard with respect or warm approval",
+            "I admire her dedication to the project.",
+            [
+                "Despise",
+                "Dislike",
+                "Scorn"
+            ],
+            [
+                "Respect",
+                "Appreciate",
+                "Esteem"
+            ]
+        ],
+        [
+            "Brave",
+            "Ready to face danger or pain",
+            "The brave firefighter rescued the child.",
+            [
+                "Cowardly",
+                "Fearful",
+                "Timid"
+            ],
+            [
+                "Courageous",
+                "Bold",
+                "Heroic"
+            ]
+        ],
+        [
+            "Calm",
+            "Not showing or feeling nervousness",
+            "She remained calm during the emergency.",
+            [
+                "Agitated",
+                "Nervous",
+                "Anxious"
+            ],
+            [
+                "Peaceful",
+                "Serene",
+                "Tranquil"
+            ]
+        ],
+        [
+            "Daring",
+            "Adventurous or audaciously bold",
+            "Their daring escape amazed everyone.",
+            [
+                "Cautious",
+                "Timid",
+                "Cowardly"
+            ],
+            [
+                "Bold",
+                "Audacious",
+                "Adventurous"
+            ]
+        ],
+        [
+            "Eager",
+            "Strongly wanting to do or have something",
+            "The children were eager to open presents.",
+            [
+                "Reluctant",
+                "Unwilling",
+                "Indifferent"
+            ],
+            [
+                "Enthusiastic",
+                "Keen",
+                "Excited"
+            ]
+        ],
+        [
+            "Fragrant",
+            "Having a pleasant smell",
+            "The fragrant flowers filled the garden.",
+            [
+                "Stinky",
+                "Foul",
+                "Malodorous"
+            ],
+            [
+                "Aromatic",
+                "Perfumed",
+                "Sweet-smelling"
+            ]
+        ],
+        [
+            "Verdant",
+            "Green with grass or vegetation",
+            "The verdant hills looked peaceful.",
+            [
+                "Barren",
+                "Arid",
+                "Desolate"
+            ],
+            [
+                "Lush",
+                "Grassy",
+                "Leafy"
+            ]
+        ],
+        [
+            "Durable",
+            "Able to withstand wear",
+            "The durable phone survived many drops.",
+            [
+                "Fragile",
+                "Delicate",
+                "Flimsy"
+            ],
+            [
+                "Sturdy",
+                "Hardy",
+                "Long-lasting"
+            ]
+        ],
+        [
+            "Precise",
+            "Exact and accurate",
+            "Scientists need precise measurements.",
+            [
+                "Approximate",
+                "Rough",
+                "Inaccurate"
+            ],
+            [
+                "Exact",
+                "Accurate",
+                "Meticulous"
+            ]
+        ],
+        [
+            "Cheerful",
+            "Noticeably happy",
+            "Her cheerful mood lifted everyone.",
+            [
+                "Gloomy",
+                "Miserable",
+                "Sullen"
+            ],
+            [
+                "Joyful",
+                "Upbeat",
+                "Merry"
+            ]
+        ],
+        [
+            "Honest",
+            "Truthful and sincere",
+            "Honest people gain trust easily.",
+            [
+                "Dishonest",
+                "Deceitful",
+                "Fraudulent"
+            ],
+            [
+                "Truthful",
+                "Sincere",
+                "Genuine"
+            ]
+        ],
+        [
+            "Creative",
+            "Having imagination or originality",
+            "The creative solution solved the problem.",
+            [
+                "Unimaginative",
+                "Dull",
+                "Boring"
+            ],
+            [
+                "Inventive",
+                "Original",
+                "Artistic"
+            ]
+        ],
+        [
+            "Rhythm",
+            "A strong, regular pattern",
+            "The song had a catchy rhythm.",
+            [
+                "Irregularity",
+                "Chaos",
+                "Discord"
+            ],
+            [
+                "Beat",
+                "Cadence",
+                "Tempo"
+            ]
+        ],
+        [
+            "Profit",
+            "Financial gain",
+            "The company made a large profit.",
+            [
+                "Loss",
+                "Debt",
+                "Deficit"
+            ],
+            [
+                "Earnings",
+                "Revenue",
+                "Gain"
+            ]
+        ],
+        [
+            "Invest",
+            "To put money into something",
+            "They invest in renewable energy.",
+            [
+                "Withdraw",
+                "Remove",
+                "Divest"
+            ],
+            [
+                "Fund",
+                "Back",
+                "Finance"
+            ]
+        ],
+        [
+            "Lawful",
+            "Allowed by law",
+            "It's lawful to park here until 6 PM.",
+            [
+                "Illegal",
+                "Unlawful",
+                "Prohibited"
+            ],
+            [
+                "Legal",
+                "Permitted",
+                "Authorized"
+            ]
+        ],
+        [
+            "Contract",
+            "A written agreement",
+            "They signed a contract for the house.",
+            [
+                "Breach",
+                "Violation",
+                "Disagreement"
+            ],
+            [
+                "Agreement",
+                "Deal",
+                "Pact"
+            ]
+        ],
+        [
+            "Recover",
+            "To return to health",
+            "She needs time to recover from surgery.",
+            [
+                "Deteriorate",
+                "Worsen",
+                "Relapse"
+            ],
+            [
+                "Heal",
+                "Improve",
+                "Convalesce"
+            ]
+        ],
+        [
+            "Painful",
+            "Causing physical hurt",
+            "The injection was painful.",
+            [
+                "Painless",
+                "Comfortable",
+                "Soothed"
+            ],
+            [
+                "Sore",
+                "Aching",
+                "Hurtful"
+            ]
+        ],
+        [
+            "Ancient",
+            "Belonging to the distant past",
+            "We studied ancient civilizations.",
+            [
+                "Modern",
+                "Current",
+                "New"
+            ],
+            [
+                "Old",
+                "Antique",
+                "Archaic"
+            ]
+        ],
+        [
+            "Colony",
+            "Territory controlled by another country",
+            "America was once a British colony.",
+            [
+                "Metropolis",
+                "Motherland",
+                "Sovereign"
+            ],
+            [
+                "Settlement",
+                "Outpost",
+                "Dominion"
+            ]
+        ],
+        [
+            "Savory",
+            "Pleasantly salty or spicy",
+            "The soup had a savory flavor.",
+            [
+                "Sweet",
+                "Bland",
+                "Tasteless"
+            ],
+            [
+                "Tasty",
+                "Flavorful",
+                "Appetizing"
+            ]
+        ],
+        [
+            "Whisk",
+            "To mix ingredients rapidly",
+            "Whisk the eggs until fluffy.",
+            [
+                "Stir",
+                "Fold",
+                "Blend"
+            ],
+            [
+                "Beat",
+                "Whip",
+                "Emulsify"
+            ]
+        ],
+        [
+            "Memory",
+            "Ability to store and recall information",
+            "Her memory of the event was clear.",
+            [
+                "Forgetfulness",
+                "Amnesia",
+                "Oblivion"
+            ],
+            [
+                "Recall",
+                "Recollection",
+                "Remembrance"
+            ]
+        ],
+        [
+            "Anxious",
+            "Feeling worried or uneasy",
+            "He felt anxious before the test.",
+            [
+                "Calm",
+                "Relaxed",
+                "Composed"
+            ],
+            [
+                "Nervous",
+                "Worried",
+                "Apprehensive"
+            ]
+        ],
+        [
+            "Balcony",
+            "Platform projecting from a building wall",
+            "She drank coffee on the balcony.",
+            [
+                "Enclosed",
+                "Interior",
+                "Indoor"
+            ],
+            [
+                "Terrace",
+                "Gallery",
+                "Veranda"
+            ]
+        ],
+        [
+            "Column",
+            "Vertical pillar supporting a structure",
+            "Greek temples had marble columns.",
+            [
+                "Wall",
+                "Beam",
+                "Slab"
+            ],
+            [
+                "Pillar",
+                "Post",
+                "Support"
+            ]
+        ],
+        [
+            "Melody",
+            "Sequence of musical notes",
+            "She hummed the melody all day.",
+            [
+                "Silence",
+                "Dissonance",
+                "Noise"
+            ],
+            [
+                "Tune",
+                "Strain",
+                "Air"
+            ]
+        ],
+        [
+            "Harmony",
+            "Pleasant combination of musical notes",
+            "The choir sang in perfect harmony.",
+            [
+                "Discord",
+                "Cacophony",
+                "Disharmony"
+            ],
+            [
+                "Accord",
+                "Consonance",
+                "Chord"
+            ]
+        ],
+        [
+            "Orbit",
+            "Path of a celestial body",
+            "Earth's orbit around the sun takes one year.",
+            [
+                "Collision",
+                "Fall",
+                "Descent"
+            ],
+            [
+                "Trajectory",
+                "Revolution",
+                "Circuit"
+            ]
+        ],
+        [
+            "Crater",
+            "Bowl-shaped depression on a planet",
+            "The moon's surface has many craters.",
+            [
+                "Mountain",
+                "Peak",
+                "Plateau"
+            ],
+            [
+                "Hollow",
+                "Basin",
+                "Depression"
+            ]
+        ],
+        [
+            "Anchor",
+            "Device to moor a vessel",
+            "They dropped anchor in the bay.",
+            [
+                "Drift",
+                "Float",
+                "Wander"
+            ],
+            [
+                "Mooring",
+                "Kedge",
+                "Hook"
+            ]
+        ],
+        [
+            "Dialect",
+            "Regional variety of a language",
+            "The Southern dialect has unique words.",
+            [
+                "Standard",
+                "Formal",
+                "Official"
+            ],
+            [
+                "Vernacular",
+                "Patois",
+                "Idiom"
+            ]
+        ],
+        [
+            "Add",
+            "Combine numbers to find total",
+            "Add 2 and 3 to get 5.",
+            [
+                "Subtract",
+                "Remove",
+                "Deduct"
+            ],
+            [
+                "Sum",
+                "Total",
+                "Combine"
+            ]
+        ],
+        [
+            "Angle",
+            "Space between intersecting lines",
+            "A right angle measures 90 degrees.",
+            [
+                "Curve",
+                "Arc",
+                "Circle"
+            ],
+            [
+                "Corner",
+                "Intersection",
+                "Vertex"
+            ]
+        ],
+        [
+            "Stage",
+            "Area where performers act",
+            "The actors stood on the stage.",
+            [
+                "Audience",
+                "Wings",
+                "Backstage"
+            ],
+            [
+                "Platform",
+                "Scenery",
+                "Set"
+            ]
+        ],
+        [
+            "Script",
+            "Written text of a play",
+            "She memorized the entire script.",
+            [
+                "Improvisation",
+                "Ad-lib",
+                "Spontaneity"
+            ],
+            [
+                "Dialogue",
+                "Lines",
+                "Text"
+            ]
+        ],
+        [
+            "Bolt",
+            "Threaded fastener with nut",
+            "Tighten the bolt with a wrench.",
+            [
+                "Screw",
+                "Nail",
+                "Pin"
+            ],
+            [
+                "Fastener",
+                "Threaded rod",
+                "Stud"
+            ]
+        ],
+        [
+            "Gear",
+            "Toothed machine part for power transfer",
+            "The bicycle's gears need oil.",
+            [
+                "Belt",
+                "Chain",
+                "Pulley"
+            ],
+            [
+                "Cog",
+                "Sprocket",
+                "Toothed wheel"
+            ]
+        ],
+        [
+            "Radius",
+            "Distance from circle center to edge",
+            "Draw a circle with 5cm radius.",
+            [
+                "Diameter",
+                "Chord",
+                "Tangent"
+            ],
+            [
+                "Half-diameter",
+                "Semi-width",
+                "Spread"
+            ]
+        ],
+        [
+            "Spotlight",
+            "Strong beam of stage light",
+            "The spotlight followed the dancer.",
+            [
+                "Darkness",
+                "Shadow",
+                "Gloom"
+            ],
+            [
+                "Beam",
+                "Floodlight",
+                "Focus"
+            ]
+        ],
+        [
+            "Cozy",
+            "Giving a feeling of comfort",
+            "The blanket made the chair feel cozy.",
+            [
+                "Uncomfortable",
+                "Cold",
+                "Harsh"
+            ],
+            [
+                "Comfy",
+                "Snug",
+                "Homey"
+            ]
+        ],
+        [
+            "Fussy",
+            "Hard to please or picky",
+            "The baby was fussy about her food.",
+            [
+                "Easygoing",
+                "Flexible",
+                "Laid-back"
+            ],
+            [
+                "Picky",
+                "Finicky",
+                "Particular"
+            ]
+        ],
+        [
+            "Hasty",
+            "Done quickly without care",
+            "His hasty reply caused problems.",
+            [
+                "Slow",
+                "Careful",
+                "Deliberate"
+            ],
+            [
+                "Rushed",
+                "Quick",
+                "Hurried"
+            ]
+        ],
+        [
+            "Jot",
+            "To write something quickly",
+            "Let me jot down that number.",
+            [
+                "Erase",
+                "Delete",
+                "Forget"
+            ],
+            [
+                "Note",
+                "Record",
+                "Scribble"
+            ]
+        ],
+        [
+            "Knickknack",
+            "Small decorative object",
+            "Her shelves were full of knickknacks.",
+            [
+                "Essential",
+                "Necessity",
+                "Tool"
+            ],
+            [
+                "Trinket",
+                "Ornament",
+                "Bauble"
+            ]
+        ],
+        [
+            "Clutter",
+            "A collection of things lying about",
+            "She tidied up the clutter.",
+            [
+                "Order",
+                "Neatness",
+                "Organization"
+            ],
+            [
+                "Mess",
+                "Jumble",
+                "Disarray"
+            ]
+        ],
+        [
+            "Simmer",
+            "To cook just below boiling",
+            "Let the soup simmer for 20 minutes.",
+            [
+                "Boil",
+                "Burn",
+                "Overcook"
+            ],
+            [
+                "Stew",
+                "Bubble",
+                "Poach"
+            ]
+        ],
+        [
+            "Discount",
+            "Reduction in price",
+            "I got a 20% discount on these shoes.",
+            [
+                "Markup",
+                "Surcharge",
+                "Premium"
+            ],
+            [
+                "Sale",
+                "Deduction",
+                "Price cut"
+            ]
+        ],
+        [
+            "Checkout",
+            "Place to pay for purchases",
+            "The cashier scanned my items at checkout.",
+            [
+                "Entrance",
+                "Display",
+                "Aisle"
+            ],
+            [
+                "Register",
+                "Payment counter",
+                "Cash desk"
+            ]
+        ],
+        [
+            "Carpool",
+            "Sharing a ride to save costs",
+            "We carpool to work every Tuesday.",
+            [
+                "Solo drive",
+                "Single occupancy",
+                "Private transport"
+            ],
+            [
+                "Ride-share",
+                "Lift club",
+                "Shared commute"
+            ]
+        ],
+        [
+            "Detour",
+            "Alternative route due to blockage",
+            "We took a detour around the construction.",
+            [
+                "Direct route",
+                "Straight path",
+                "Main road"
+            ],
+            [
+                "Bypass",
+                "Alternate way",
+                "Diversion"
+            ]
+        ],
+        [
+            "Simmer",
+            "Cook just below boiling point",
+            "Let the soup simmer for 20 minutes.",
+            [
+                "Boil",
+                "Burn",
+                "Overcook"
+            ],
+            [
+                "Stew",
+                "Bubble gently",
+                "Poach"
+            ]
+        ],
+        [
+            "Leftovers",
+            "Uneaten saved food",
+            "We ate yesterday's leftovers for lunch.",
+            [
+                "Fresh meal",
+                "New preparation",
+                "Just cooked"
+            ],
+            [
+                "Remains",
+                "Extra food",
+                "Saved portions"
+            ]
+        ],
+        [
+            "Deadline",
+            "Time by which work must be done",
+            "The project deadline is next Friday.",
+            [
+                "Extension",
+                "Delay",
+                "Postponement"
+            ],
+            [
+                "Due date",
+                "Cutoff",
+                "Time limit"
+            ]
+        ],
+        [
+            "Overtime",
+            "Extra work hours",
+            "She worked overtime to finish the report.",
+            [
+                "Early leave",
+                "Short day",
+                "Reduced hours"
+            ],
+            [
+                "Extra time",
+                "Additional hours",
+                "Bonus shift"
+            ]
+        ],
+        [
+            "Gossip",
+            "Casual talk about others",
+            "Office gossip can be harmful.",
+            [
+                "Fact",
+                "Truth",
+                "News"
+            ],
+            [
+                "Rumors",
+                "Chatter",
+                "Hearsay"
+            ]
+        ],
+        [
+            "RSVP",
+            "Request to confirm attendance",
+            "Please RSVP by next Wednesday.",
+            [
+                "Ignore",
+                "Overlook",
+                "Disregard"
+            ],
+            [
+                "Respond",
+                "Reply",
+                "Confirm"
+            ]
+        ],
+        [
+            "Prescription",
+            "Doctor's written medicine order",
+            "The pharmacist filled my prescription.",
+            [
+                "Over-the-counter",
+                "Non-prescription",
+                "Herbal"
+            ],
+            [
+                "Script",
+                "Medication order",
+                "Doctor's note"
+            ]
+        ],
+        [
+            "Bandage",
+            "Strip to cover wounds",
+            "She put a bandage on the cut.",
+            [
+                "Uncover",
+                "Expose",
+                "Leave bare"
+            ],
+            [
+                "Dressing",
+                "Gauze",
+                "Wrap"
+            ]
+        ],
+        [
+            "Screenshot",
+            "Image of screen content",
+            "I took a screenshot of the error message.",
+            [
+                "Delete",
+                "Erase",
+                "Ignore"
+            ],
+            [
+                "Screen grab",
+                "Capture",
+                "Snapshot"
+            ]
+        ],
+        [
+            "WiFi",
+            "Wireless internet connection",
+            "The café offers free WiFi.",
+            [
+                "Wired",
+                "Ethernet",
+                "Offline"
+            ],
+            [
+                "Wireless",
+                "Internet",
+                "Hotspot"
+            ]
+        ],
+        [
+            "Tantrum",
+            "Child's angry outburst",
+            "The toddler threw a tantrum in the store.",
+            [
+                "Calm",
+                "Composure",
+                "Peace"
+            ],
+            [
+                "Fit",
+                "Meltdown",
+                "Outburst"
+            ]
+        ],
+        [
+            "Pacifier",
+            "Rubber nipple for babies",
+            "The baby stopped crying with her pacifier.",
+            [
+                "Remove",
+                "Take away",
+                "Deny"
+            ],
+            [
+                "Soother",
+                "Binky",
+                "Dummy"
+            ]
+        ],
+        [
+            "Budget",
+            "Plan for income and expenses",
+            "We made a monthly budget for groceries.",
+            [
+                "Overspend",
+                "Splurge",
+                "Waste"
+            ],
+            [
+                "Plan",
+                "Allowance",
+                "Spending limit"
+            ]
+        ],
+        [
+            "Debt",
+            "Money owed to others",
+            "He's paying off student debt.",
+            [
+                "Savings",
+                "Assets",
+                "Wealth"
+            ],
+            [
+                "Loan",
+                "Obligation",
+                "Balance"
+            ]
+        ],
+        [
+            "Sale",
+            "Temporary price reduction",
+            "The store is having a big sale.",
+            [
+                "Full price",
+                "Markup",
+                "Retail"
+            ],
+            [
+                "Discount",
+                "Clearance",
+                "Promotion"
+            ]
+        ],
+        [
+            "Homework",
+            "Schoolwork done at home",
+            "She finishes her homework before dinner.",
+            [
+                "Classwork",
+                "Lesson",
+                "Lecture"
+            ],
+            [
+                "Assignment",
+                "Study",
+                "Prep"
+            ]
+        ],
+        [
+            "Textbook",
+            "Official school book",
+            "Don't forget your math textbook.",
+            [
+                "Notebook",
+                "Workbook",
+                "Journal"
+            ],
+            [
+                "Manual",
+                "Guide",
+                "Coursebook"
+            ]
+        ],
+        [
+            "Graduate",
+            "Complete a degree program",
+            "He will graduate next spring.",
+            [
+                "Drop out",
+                "Fail",
+                "Quit"
+            ],
+            [
+                "Finish",
+                "Complete",
+                "Certify"
+            ]
+        ],
+        [
+            "Yarn",
+            "Fiber used for knitting",
+            "She bought soft yarn for her project.",
+            [
+                "Unravel",
+                "Tangle",
+                "Knot"
+            ],
+            [
+                "Thread",
+                "Fiber",
+                "Wool"
+            ]
+        ],
+        [
+            "Bake",
+            "Cook using dry heat",
+            "We bake cookies every weekend.",
+            [
+                "Burn",
+                "Undercook",
+                "Raw"
+            ],
+            [
+                "Roast",
+                "Toast",
+                "Cook"
+            ]
+        ],
+        [
+            "Hike",
+            "Walk in nature for pleasure",
+            "They hike in the mountains.",
+            [
+                "Laze",
+                "Sit",
+                "Indoor"
+            ],
+            [
+                "Trek",
+                "Walk",
+                "Climb"
+            ]
+        ]
+    ],
+    "medium": [
+        [
+            "Ephemeral",
+            "Lasting for a very short time",
+            "The ephemeral beauty of cherry blossoms is celebrated in Japan.",
+            [
+                "Permanent",
+                "Enduring",
+                "Everlasting"
+            ],
+            [
+                "Transient",
+                "Fleeting",
+                "Short-lived"
+            ]
+        ],
+        [
+            "Pragmatic",
+            "Dealing with things sensibly and realistically",
+            "Her pragmatic approach solved the problem efficiently.",
+            [
+                "Idealistic",
+                "Impractical",
+                "Unrealistic"
+            ],
+            [
+                "Practical",
+                "Realistic",
+                "Sensible"
+            ]
+        ],
+        [
+            "Resilient",
+            "Able to withstand or recover quickly from difficult conditions",
+            "The resilient community rebuilt after the hurricane.",
+            [
+                "Fragile",
+                "Vulnerable",
+                "Weak"
+            ],
+            [
+                "Tough",
+                "Durable",
+                "Strong"
+            ]
+        ],
+        [
+            "Ambiguous",
+            "Open to more than one interpretation",
+            "His ambiguous reply left us confused.",
+            [
+                "Clear",
+                "Unambiguous",
+                "Definite"
+            ],
+            [
+                "Vague",
+                "Unclear",
+                "Cryptic"
+            ]
+        ],
+        [
+            "Candid",
+            "Truthful and straightforward",
+            "Her candid feedback helped me improve.",
+            [
+                "Dishonest",
+                "Deceptive",
+                "Evasive"
+            ],
+            [
+                "Frank",
+                "Blunt",
+                "Forthright"
+            ]
+        ],
+        [
+            "Eloquent",
+            "Fluent or persuasive in speaking",
+            "The lawyer's eloquent argument won the case.",
+            [
+                "Inarticulate",
+                "Tongue-tied",
+                "Mumbling"
+            ],
+            [
+                "Articulate",
+                "Expressive",
+                "Silver-tongued"
+            ]
+        ],
+        [
+            "Meticulous",
+            "Showing great attention to detail",
+            "Her meticulous planning ensured success.",
+            [
+                "Careless",
+                "Sloppy",
+                "Negligent"
+            ],
+            [
+                "Thorough",
+                "Precise",
+                "Scrupulous"
+            ]
+        ],
+        [
+            "Pragmatic",
+            "Dealing with things practically",
+            "We need a pragmatic solution to this problem.",
+            [
+                "Idealistic",
+                "Impractical",
+                "Unrealistic"
+            ],
+            [
+                "Practical",
+                "Realistic",
+                "Sensible"
+            ]
+        ],
+        [
+            "Adept",
+            "Very skilled or proficient",
+            "She's adept at solving complex problems.",
+            [
+                "Inept",
+                "Incompetent",
+                "Clumsy"
+            ],
+            [
+                "Skilled",
+                "Proficient",
+                "Expert"
+            ]
+        ],
+        [
+            "Cogent",
+            "Clear, logical, and convincing",
+            "He presented a cogent argument.",
+            [
+                "Weak",
+                "Unconvincing",
+                "Illogical"
+            ],
+            [
+                "Persuasive",
+                "Compelling",
+                "Sound"
+            ]
+        ],
+        [
+            "Dearth",
+            "A scarcity or lack of something",
+            "There's a dearth of good restaurants here.",
+            [
+                "Abundance",
+                "Surplus",
+                "Excess"
+            ],
+            [
+                "Scarcity",
+                "Shortage",
+                "Deficiency"
+            ]
+        ],
+        [
+            "Fervent",
+            "Having or displaying passionate intensity",
+            "She's a fervent supporter of human rights.",
+            [
+                "Apathetic",
+                "Indifferent",
+                "Unenthusiastic"
+            ],
+            [
+                "Passionate",
+                "Ardent",
+                "Zealous"
+            ]
+        ],
+        [
+            "Gregarious",
+            "Fond of company; sociable",
+            "His gregarious nature makes him popular.",
+            [
+                "Reserved",
+                "Introverted",
+                "Unsociable"
+            ],
+            [
+                "Sociable",
+                "Outgoing",
+                "Convivial"
+            ]
+        ],
+        [
+            "Empathetic",
+            "Showing ability to understand others' feelings",
+            "Good leaders are typically empathetic.",
+            [
+                "Unfeeling",
+                "Insensitive",
+                "Callous"
+            ],
+            [
+                "Compassionate",
+                "Understanding",
+                "Sympathetic"
+            ]
+        ],
+        [
+            "Arid",
+            "Having little or no rain",
+            "Cacti thrive in arid climates.",
+            [
+                "Wet",
+                "Humid",
+                "Marshy"
+            ],
+            [
+                "Dry",
+                "Parched",
+                "Waterless"
+            ]
+        ],
+        [
+            "Nocturnal",
+            "Active at night",
+            "Owls are nocturnal hunters.",
+            [
+                "Diurnal",
+                "Daytime",
+                "Morning"
+            ],
+            [
+                "Nighttime",
+                "Dark-active",
+                "Moonlit"
+            ]
+        ],
+        [
+            "Kinetic",
+            "Relating to motion",
+            "The kinetic energy powered the device.",
+            [
+                "Static",
+                "Stationary",
+                "Still"
+            ],
+            [
+                "Moving",
+                "Dynamic",
+                "Active"
+            ]
+        ],
+        [
+            "Synthetic",
+            "Man-made, not natural",
+            "The jacket was made of synthetic fibers.",
+            [
+                "Natural",
+                "Organic",
+                "Genuine"
+            ],
+            [
+                "Artificial",
+                "Fabricated",
+                "Manufactured"
+            ]
+        ],
+        [
+            "Charismatic",
+            "Compelling attractiveness",
+            "The charismatic leader inspired many.",
+            [
+                "Unimpressive",
+                "Boring",
+                "Forgettable"
+            ],
+            [
+                "Charming",
+                "Magnetic",
+                "Engaging"
+            ]
+        ],
+        [
+            "Tenacious",
+            "Persistent and determined",
+            "Tenacious athletes never give up.",
+            [
+                "Weak",
+                "Yielding",
+                "Quitting"
+            ],
+            [
+                "Persistent",
+                "Dogged",
+                "Resolute"
+            ]
+        ],
+        [
+            "Metaphor",
+            "Figure of speech comparing unlike things",
+            "Life is a journey is a metaphor.",
+            [
+                "Literal",
+                "Plain",
+                "Direct"
+            ],
+            [
+                "Symbol",
+                "Analogy",
+                "Figure"
+            ]
+        ],
+        [
+            "Nuance",
+            "A subtle difference",
+            "The actor captured every nuance.",
+            [
+                "Oversimplification",
+                "Generalization",
+                "Bluntness"
+            ],
+            [
+                "Subtlety",
+                "Shade",
+                "Gradation"
+            ]
+        ],
+        [
+            "Liquidate",
+            "Convert assets into cash",
+            "The store liquidated its inventory.",
+            [
+                "Acquire",
+                "Purchase",
+                "Invest"
+            ],
+            [
+                "Sell off",
+                "Cash in",
+                "Convert"
+            ]
+        ],
+        [
+            "Innovate",
+            "Introduce new methods",
+            "Tech companies must innovate.",
+            [
+                "Stagnate",
+                "Preserve",
+                "Maintain"
+            ],
+            [
+                "Pioneer",
+                "Modernize",
+                "Revolutionize"
+            ]
+        ],
+        [
+            "Litigate",
+            "To take legal action",
+            "They decided to litigate the dispute.",
+            [
+                "Settle",
+                "Mediate",
+                "Reconcile"
+            ],
+            [
+                "Sue",
+                "Prosecute",
+                "Challenge"
+            ]
+        ],
+        [
+            "Injunction",
+            "Court order to stop an action",
+            "The judge issued an injunction.",
+            [
+                "Permission",
+                "Allowance",
+                "Consent"
+            ],
+            [
+                "Restriction",
+                "Ban",
+                "Prohibition"
+            ]
+        ],
+        [
+            "Benign",
+            "Not harmful or cancerous",
+            "The tumor was benign.",
+            [
+                "Malignant",
+                "Cancerous",
+                "Deadly"
+            ],
+            [
+                "Harmless",
+                "Noncancerous",
+                "Innocuous"
+            ]
+        ],
+        [
+            "Prognosis",
+            "Likely course of a disease",
+            "The doctor gave a good prognosis.",
+            [
+                "Diagnosis",
+                "Assessment",
+                "Analysis"
+            ],
+            [
+                "Outlook",
+                "Forecast",
+                "Projection"
+            ]
+        ],
+        [
+            "Feudal",
+            "Relating to medieval landholding system",
+            "Feudal societies had strict hierarchies.",
+            [
+                "Modern",
+                "Egalitarian",
+                "Democratic"
+            ],
+            [
+                "Manorial",
+                "Seigniorial",
+                "Vassal-based"
+            ]
+        ],
+        [
+            "Decolonization",
+            "Process of colonies gaining independence",
+            "Decolonization accelerated after WWII.",
+            [
+                "Colonization",
+                "Imperialism",
+                "Annexation"
+            ],
+            [
+                "Liberation",
+                "Independence",
+                "Self-rule"
+            ]
+        ],
+        [
+            "Umami",
+            "Savory 'fifth taste'",
+            "Mushrooms are rich in umami.",
+            [
+                "Bland",
+                "Tasteless",
+                "Flat"
+            ],
+            [
+                "Savory",
+                "Meaty",
+                "Brothy"
+            ]
+        ],
+        [
+            "Braise",
+            "To cook slowly in liquid",
+            "She braised the beef for hours.",
+            [
+                "Grill",
+                "Fry",
+                "Roast"
+            ],
+            [
+                "Stew",
+                "Simmer",
+                "Casserole"
+            ]
+        ],
+        [
+            "Cognitive",
+            "Relating to mental processes",
+            "Aging affects cognitive abilities.",
+            [
+                "Physical",
+                "Bodily",
+                "Motor"
+            ],
+            [
+                "Mental",
+                "Intellectual",
+                "Cerebral"
+            ]
+        ],
+        [
+            "Neuroplasticity",
+            "Brain's ability to reorganize itself",
+            "Neuroplasticity helps recovery from injury.",
+            [
+                "Rigidity",
+                "Fixedness",
+                "Inflexibility"
+            ],
+            [
+                "Brain adaptability",
+                "Neural flexibility",
+                "Cerebral malleability"
+            ]
+        ],
+        [
+            "Fenestration",
+            "Arrangement of windows in a building",
+            "The church's fenestration created beautiful light.",
+            [
+                "Blank wall",
+                "Opaque surface",
+                "Barrier"
+            ],
+            [
+                "Window design",
+                "Glazing pattern",
+                "Opening layout"
+            ]
+        ],
+        [
+            "Cantilever",
+            "Beam anchored at only one end",
+            "The cantilever bridge appeared to float.",
+            [
+                "Supported",
+                "Buttressed",
+                "Propped"
+            ],
+            [
+                "Overhang",
+                "Projection",
+                "Extension"
+            ]
+        ],
+        [
+            "Counterpoint",
+            "Relationship between musical voices",
+            "Bach mastered Baroque counterpoint.",
+            [
+                "Unison",
+                "Monophony",
+                "Homophony"
+            ],
+            [
+                "Polyphony",
+                "Contrapuntal",
+                "Interplay"
+            ]
+        ],
+        [
+            "Hemiola",
+            "3-beat rhythm over 2-beat meter",
+            "The hemiola created rhythmic tension.",
+            [
+                "Regular",
+                "Straight",
+                "Simple"
+            ],
+            [
+                "Cross-rhythm",
+                "Polyrhythm",
+                "Metric shift"
+            ]
+        ],
+        [
+            "Nebula",
+            "Interstellar cloud of gas and dust",
+            "The Orion Nebula is visible to the naked eye.",
+            [
+                "Vacuum",
+                "Void",
+                "Empty space"
+            ],
+            [
+                "Cloud",
+                "Stellar nursery",
+                "Galactic dust"
+            ]
+        ],
+        [
+            "Redshift",
+            "Light stretching indicating cosmic expansion",
+            "Redshift proves the universe is expanding.",
+            [
+                "Blueshift",
+                "Compression",
+                "Approach"
+            ],
+            [
+                "Doppler effect",
+                "Wavelength stretch",
+                "Cosmic recession"
+            ]
+        ],
+        [
+            "Lee shore",
+            "Coast toward which wind blows",
+            "The storm drove them toward a lee shore.",
+            [
+                "Windward",
+                "Safe harbor",
+                "Protected coast"
+            ],
+            [
+                "Danger coast",
+                "Weather shore",
+                "Hazard beach"
+            ]
+        ],
+        [
+            "Morpheme",
+            "Smallest meaningful language unit",
+            "'Unbreakable' contains three morphemes.",
+            [
+                "Word",
+                "Sentence",
+                "Phrase"
+            ],
+            [
+                "Language unit",
+                "Semantic element",
+                "Grammar component"
+            ]
+        ],
+        [
+            "Theorem",
+            "Mathematically proven statement",
+            "Pythagorean theorem relates triangle sides.",
+            [
+                "Conjecture",
+                "Guess",
+                "Hypothesis"
+            ],
+            [
+                "Law",
+                "Principle",
+                "Formula"
+            ]
+        ],
+        [
+            "Integer",
+            "Whole number (positive/negative/zero)",
+            "-3, 0, and 7 are integers.",
+            [
+                "Fraction",
+                "Decimal",
+                "Irrational"
+            ],
+            [
+                "Whole number",
+                "Counting number",
+                "Digit"
+            ]
+        ],
+        [
+            "Proscenium",
+            "Arch framing the stage",
+            "The proscenium separated actors from audience.",
+            [
+                "Arena",
+                "Thrust",
+                "Black box"
+            ],
+            [
+                "Stage arch",
+                "Theater frame",
+                "Performance opening"
+            ]
+        ],
+        [
+            "Blocking",
+            "Planning actors' stage movements",
+            "The director finalized the blocking.",
+            [
+                "Improvise",
+                "Wander",
+                "Stray"
+            ],
+            [
+                "Staging",
+                "Choreography",
+                "Positioning"
+            ]
+        ],
+        [
+            "Torque",
+            "Rotational force measurement",
+            "Higher torque means better towing capacity.",
+            [
+                "Linear force",
+                "Push",
+                "Pull"
+            ],
+            [
+                "Twist",
+                "Rotational power",
+                "Moment"
+            ]
+        ],
+        [
+            "Tolerance",
+            "Permissible variation in measurements",
+            "The part must be made to 0.1mm tolerance.",
+            [
+                "Exactness",
+                "Precision",
+                "Perfection"
+            ],
+            [
+                "Allowance",
+                "Margin",
+                "Leeway"
+            ]
+        ],
+        [
+            "Parabola",
+            "U-shaped symmetric curve",
+            "The ball's path formed a parabola.",
+            [
+                "Line",
+                "Circle",
+                "Ellipse"
+            ],
+            [
+                "Arc",
+                "Trajectory",
+                "Curve"
+            ]
+        ],
+        [
+            "Apron",
+            "Stage area in front of curtain",
+            "The comedian performed on the apron.",
+            [
+                "Backstage",
+                "Wings",
+                "Gallery"
+            ],
+            [
+                "Forestage",
+                "Extension",
+                "Front area"
+            ]
+        ],
+        [
+            "Ambivalent",
+            "Having mixed feelings",
+            "She felt ambivalent about the job offer.",
+            [
+                "Certain",
+                "Decided",
+                "Resolute"
+            ],
+            [
+                "Uncertain",
+                "Torn",
+                "Conflicted"
+            ]
+        ],
+        [
+            "Brusque",
+            "Abrupt or blunt in manner",
+            "His brusque reply seemed rude.",
+            [
+                "Polite",
+                "Gracious",
+                "Courteous"
+            ],
+            [
+                "Curt",
+                "Terse",
+                "Abrupt"
+            ]
+        ],
+        [
+            "Dwindle",
+            "To gradually diminish",
+            "Our supplies began to dwindle.",
+            [
+                "Increase",
+                "Grow",
+                "Expand"
+            ],
+            [
+                "Shrink",
+                "Decline",
+                "Diminish"
+            ]
+        ],
+        [
+            "Fickle",
+            "Likely to change frequently",
+            "The weather here is fickle.",
+            [
+                "Constant",
+                "Steady",
+                "Reliable"
+            ],
+            [
+                "Changeable",
+                "Unpredictable",
+                "Capricious"
+            ]
+        ],
+        [
+            "Gumption",
+            "Initiative and resourcefulness",
+            "It took gumption to start her own business.",
+            [
+                "Laziness",
+                "Apathy",
+                "Timidity"
+            ],
+            [
+                "Drive",
+                "Spunk",
+                "Enterprise"
+            ]
+        ],
+        [
+            "Ergonomic",
+            "Designed for efficiency/comfort",
+            "The ergonomic chair helped her back.",
+            [
+                "Uncomfortable",
+                "Awkward",
+                "Straining"
+            ],
+            [
+                "User-friendly",
+                "Comfort-designed",
+                "Body-conscious"
+            ]
+        ],
+        [
+            "Procrastinate",
+            "Delay or postpone action",
+            "He tends to procrastinate on chores.",
+            [
+                "Expedite",
+                "Advance",
+                "Accelerate"
+            ],
+            [
+                "Delay",
+                "Postpone",
+                "Dawdle"
+            ]
+        ],
+        [
+            "Impulse buy",
+            "Unplanned purchase",
+            "The candy display triggered an impulse buy.",
+            [
+                "Planned purchase",
+                "Budgeted item",
+                "Necessity"
+            ],
+            [
+                "Spur-of-the-moment",
+                "Whim purchase",
+                "Unplanned buy"
+            ]
+        ],
+        [
+            "Bulk purchase",
+            "Buying large quantities",
+            "We save money with bulk purchases.",
+            [
+                "Single purchase",
+                "Retail buy",
+                "Small quantity"
+            ],
+            [
+                "Wholesale",
+                "Mass buy",
+                "Volume order"
+            ]
+        ],
+        [
+            "Gridlock",
+            "Complete traffic standstill",
+            "Accidents cause morning gridlock.",
+            [
+                "Free flow",
+                "Clear road",
+                "Open highway"
+            ],
+            [
+                "Jam",
+                "Bottleneck",
+                "Standstill"
+            ]
+        ],
+        [
+            "Fare evasion",
+            "Avoiding transport payment",
+            "Fare evasion results in fines.",
+            [
+                "Payment",
+                "Fare compliance",
+                "Ticket validation"
+            ],
+            [
+                "Dodging",
+                "Skipping fare",
+                "Free riding"
+            ]
+        ],
+        [
+            "Al dente",
+            "Pasta cooked firm to bite",
+            "Cook the spaghetti al dente.",
+            [
+                "Mushy",
+                "Overcooked",
+                "Soft"
+            ],
+            [
+                "Firm",
+                "Toothsome",
+                "Perfectly cooked"
+            ]
+        ],
+        [
+            "Marinate",
+            "Soak food in flavorful liquid",
+            "Marinate the chicken overnight.",
+            [
+                "Dry rub",
+                "Quick cook",
+                "Untreated"
+            ],
+            [
+                "Soak",
+                "Infuse",
+                "Season"
+            ]
+        ],
+        [
+            "Brainstorm",
+            "Group idea generation",
+            "Let's brainstorm marketing ideas.",
+            [
+                "Finalize",
+                "Execute",
+                "Implement"
+            ],
+            [
+                "Ideate",
+                "Think up",
+                "Conceptualize"
+            ]
+        ],
+        [
+            "Micromanage",
+            "Excessive control over details",
+            "Nobody likes being micromanaged.",
+            [
+                "Delegate",
+                "Empower",
+                "Trust"
+            ],
+            [
+                "Over-control",
+                "Hover",
+                "Nitpick"
+            ]
+        ],
+        [
+            "Banter",
+            "Playful teasing conversation",
+            "Their friendly banter amused everyone.",
+            [
+                "Serious talk",
+                "Formal discussion",
+                "Silence"
+            ],
+            [
+                "Repartee",
+                "Witty exchange",
+                "Joking"
+            ]
+        ],
+        [
+            "Passive-aggressive",
+            "Indirect resistance or anger",
+            "His passive-aggressive comments annoyed us.",
+            [
+                "Direct",
+                "Forthright",
+                "Honest"
+            ],
+            [
+                "Backhanded",
+                "Veiled hostility",
+                "Indirect anger"
+            ]
+        ],
+        [
+            "Co-pay",
+            "Fixed payment for medical service",
+            "My co-pay for the doctor is $20.",
+            [
+                "Full payment",
+                "Uncovered",
+                "Self-pay"
+            ],
+            [
+                "Patient share",
+                "Fixed fee",
+                "Contribution"
+            ]
+        ],
+        [
+            "Benign",
+            "Not harmful (medical condition)",
+            "The biopsy showed a benign tumor.",
+            [
+                "Malignant",
+                "Cancerous",
+                "Dangerous"
+            ],
+            [
+                "Harmless",
+                "Non-threatening",
+                "Safe"
+            ]
+        ],
+        [
+            "Sleep regression",
+            "Baby's temporary sleep disruption",
+            "The 4-month sleep regression is exhausting.",
+            [
+                "Sleep routine",
+                "Restful night",
+                "Deep sleep"
+            ],
+            [
+                "Sleep setback",
+                "Disruption",
+                "Phase"
+            ]
+        ],
+        [
+            "Time-out",
+            "A brief suspension of activity",
+            "The opposite team asked for a time-out.",
+            [
+                "Reward",
+                "Praise",
+                "Freedom"
+            ],
+            [
+                "Cool-down",
+                "Pause",
+                "Break"
+            ]
+        ],
+        [
+            "Firewall",
+            "Network security system",
+            "The firewall blocked suspicious traffic.",
+            [
+                "Open access",
+                "Unsecured",
+                "Vulnerable"
+            ],
+            [
+                "Barrier",
+                "Shield",
+                "Protection"
+            ]
+        ],
+        [
+            "Cache",
+            "Temporary storage for faster access",
+            "Clear your cache to fix loading issues.",
+            [
+                "Slow load",
+                "Uncached",
+                "Direct fetch"
+            ],
+            [
+                "Memory",
+                "Storage",
+                "Reserve"
+            ]
+        ],
+        [
+            "Interest",
+            "Cost of borrowing money",
+            "The loan has 5% annual interest.",
+            [
+                "Principal",
+                "Base",
+                "Original"
+            ],
+            [
+                "Rate",
+                "Percentage",
+                "Fee"
+            ]
+        ],
+        [
+            "Equity",
+            "Ownership value in property",
+            "They built equity in their home.",
+            [
+                "Debt",
+                "Liability",
+                "Loan"
+            ],
+            [
+                "Value",
+                "Stake",
+                "Share"
+            ]
+        ],
+        [
+            "Dividend",
+            "Share of company profits",
+            "The stock pays quarterly dividends.",
+            [
+                "Loss",
+                "Debt",
+                "Expense"
+            ],
+            [
+                "Payout",
+                "Return",
+                "Profit"
+            ]
+        ],
+        [
+            "Plagiarism",
+            "Using others' work as your own",
+            "Plagiarism can get you expelled.",
+            [
+                "Original",
+                "Authentic",
+                "Genuine"
+            ],
+            [
+                "Copying",
+                "Cheating",
+                "Theft"
+            ]
+        ],
+        [
+            "Syllabus",
+            "Course outline",
+            "Check the syllabus for due dates.",
+            [
+                "Lesson",
+                "Lecture",
+                "Class"
+            ],
+            [
+                "Plan",
+                "Schedule",
+                "Curriculum"
+            ]
+        ],
+        [
+            "Thesis",
+            "Long research paper",
+            "She defended her master's thesis.",
+            [
+                "Summary",
+                "Abstract",
+                "Brief"
+            ],
+            [
+                "Dissertation",
+                "Paper",
+                "Study"
+            ]
+        ],
+        [
+            "Glaze",
+            "Glass-like pottery coating",
+            "The potter applied a blue glaze.",
+            [
+                "Unfinished",
+                "Bare",
+                "Raw"
+            ],
+            [
+                "Finish",
+                "Coating",
+                "Varnish"
+            ]
+        ],
+        [
+            "Chord",
+            "Musical notes played together",
+            "Practice switching guitar chords.",
+            [
+                "Note",
+                "Single",
+                "Tone"
+            ],
+            [
+                "Harmony",
+                "Triad",
+                "Progression"
+            ]
+        ],
+        [
+            "Birdie",
+            "Golf score under par",
+            "He scored a birdie on hole 5.",
+            [
+                "Bogey",
+                "Over par",
+                "Loss"
+            ],
+            [
+                "Under par",
+                "Score",
+                "Achievement"
+            ]
+        ]
+    ],
+    "hard": [
+        [
+            "Ubiquitous",
+            "Present, appearing, or found everywhere",
+            "Mobile phones have become ubiquitous in modern society.",
+            [
+                "Rare",
+                "Scarce",
+                "Uncommon"
+            ],
+            [
+                "Omnipresent",
+                "Pervasive",
+                "Universal"
+            ]
+        ],
+        [
+            "Sycophant",
+            "A person who acts obsequiously toward someone important to gain advantage",
+            "The CEO was surrounded by sycophants who never challenged his ideas.",
+            [
+                "Straightforward",
+                "Honest",
+                "Frank"
+            ],
+            [
+                "Flatterer",
+                "Yes-man",
+                "Toady"
+            ]
+        ],
+        [
+            "Pernicious",
+            "Having a harmful effect, especially in a gradual or subtle way",
+            "The pernicious influence of social media on self-esteem is concerning.",
+            [
+                "Beneficial",
+                "Harmless",
+                "Innocent"
+            ],
+            [
+                "Destructive",
+                "Damaging",
+                "Deleterious"
+            ]
+        ],
+        [
+            "Circumspect",
+            "Wary and unwilling to take risks",
+            "The diplomat was circumspect in his comments.",
+            [
+                "Reckless",
+                "Rash",
+                "Impulsive"
+            ],
+            [
+                "Cautious",
+                "Prudent",
+                "Discreet"
+            ]
+        ],
+        [
+            "Disparate",
+            "Essentially different in kind",
+            "The group contained disparate opinions.",
+            [
+                "Similar",
+                "Alike",
+                "Homogeneous"
+            ],
+            [
+                "Distinct",
+                "Diverse",
+                "Divergent"
+            ]
+        ],
+        [
+            "Iconoclast",
+            "Person who attacks cherished beliefs",
+            "The scientist was an iconoclast in his field.",
+            [
+                "Conformist",
+                "Traditionalist",
+                "Conservative"
+            ],
+            [
+                "Rebel",
+                "Radical",
+                "Innovator"
+            ]
+        ],
+        [
+            "Obfuscate",
+            "To deliberately make unclear",
+            "Politicians often obfuscate the truth.",
+            [
+                "Clarify",
+                "Explain",
+                "Illuminate"
+            ],
+            [
+                "Confuse",
+                "Bewilder",
+                "Muddle"
+            ]
+        ],
+        [
+            "Recalcitrant",
+            "Stubbornly resistant to authority",
+            "The recalcitrant employee refused to follow rules.",
+            [
+                "Compliant",
+                "Obedient",
+                "Amenable"
+            ],
+            [
+                "Stubborn",
+                "Defiant",
+                "Uncooperative"
+            ]
+        ],
+        [
+            "Acrimonious",
+            "Angry and bitter",
+            "Their divorce became acrimonious.",
+            [
+                "Friendly",
+                "Harmonious",
+                "Peaceful"
+            ],
+            [
+                "Bitter",
+                "Hostile",
+                "Caustic"
+            ]
+        ],
+        [
+            "Bombastic",
+            "High-sounding but with little meaning",
+            "The politician's bombastic speech annoyed many.",
+            [
+                "Simple",
+                "Unpretentious",
+                "Modest"
+            ],
+            [
+                "Pompous",
+                "Grandiloquent",
+                "Overblown"
+            ]
+        ],
+        [
+            "Disabuse",
+            "To persuade someone that an idea is false",
+            "I had to disabuse him of that notion.",
+            [
+                "Deceive",
+                "Misinform",
+                "Delude"
+            ],
+            [
+                "Enlighten",
+                "Correct",
+                "Undecieve"
+            ]
+        ],
+        [
+            "Exculpate",
+            "To clear from blame",
+            "New evidence exculpated the suspect.",
+            [
+                "Accuse",
+                "Blame",
+                "Condemn"
+            ],
+            [
+                "Absolve",
+                "Acquit",
+                "Vindicate"
+            ]
+        ],
+        [
+            "Fastidious",
+            "Very attentive to accuracy and detail",
+            "Her fastidious approach ensured perfection.",
+            [
+                "Sloppy",
+                "Careless",
+                "Negligent"
+            ],
+            [
+                "Meticulous",
+                "Punctilious",
+                "Scrupulous"
+            ]
+        ],
+        [
+            "Limpid",
+            "Clear and transparent",
+            "The limpid waters revealed colorful fish.",
+            [
+                "Murky",
+                "Cloudy",
+                "Opaque"
+            ],
+            [
+                "Clear",
+                "Translucent",
+                "Crystal-clear"
+            ]
+        ],
+        [
+            "Sylvan",
+            "Relating to forests",
+            "The sylvan retreat was perfect for meditation.",
+            [
+                "Urban",
+                "Industrial",
+                "City"
+            ],
+            [
+                "Wooded",
+                "Forest",
+                "Arboreal"
+            ]
+        ],
+        [
+            "Quantum",
+            "Relating to subatomic particles",
+            "Quantum physics explains tiny particles.",
+            [
+                "Macro",
+                "Large-scale",
+                "Classical"
+            ],
+            [
+                "Subatomic",
+                "Particle",
+                "Microscopic"
+            ]
+        ],
+        [
+            "Algorithm",
+            "Step-by-step procedure",
+            "The app uses an algorithm to recommend songs.",
+            [
+                "Chaos",
+                "Randomness",
+                "Disorder"
+            ],
+            [
+                "Formula",
+                "Process",
+                "Method"
+            ]
+        ],
+        [
+            "Sanguine",
+            "Optimistic in difficult situations",
+            "He remained sanguine despite setbacks.",
+            [
+                "Pessimistic",
+                "Gloomy",
+                "Hopeless"
+            ],
+            [
+                "Optimistic",
+                "Confident",
+                "Upbeat"
+            ]
+        ],
+        [
+            "Obdurate",
+            "Stubbornly refusing to change",
+            "The obdurate official blocked progress.",
+            [
+                "Flexible",
+                "Yielding",
+                "Amenable"
+            ],
+            [
+                "Stubborn",
+                "Unyielding",
+                "Inflexible"
+            ]
+        ],
+        [
+            "Penumbra",
+            "Partial shadow in an eclipse",
+            "The moon's penumbra created twilight.",
+            [
+                "Umbra",
+                "Full shadow",
+                "Darkness"
+            ],
+            [
+                "Partial shadow",
+                "Fringe",
+                "Border"
+            ]
+        ],
+        [
+            "Desiccate",
+            "To dry out thoroughly",
+            "The sun will desiccate the laundry.",
+            [
+                "Moisten",
+                "Hydrate",
+                "Dampen"
+            ],
+            [
+                "Dehydrate",
+                "Parch",
+                "Sear"
+            ]
+        ],
+        [
+            "Ubiquitous",
+            "Present everywhere simultaneously",
+            "Smartphones have become ubiquitous.",
+            [
+                "Rare",
+                "Scarce",
+                "Uncommon"
+            ],
+            [
+                "Omnipresent",
+                "Pervasive",
+                "Universal"
+            ]
+        ],
+        [
+            "Verisimilitude",
+            "Appearance of being true",
+            "The novel's verisimilitude felt real.",
+            [
+                "Falseness",
+                "Unreality",
+                "Fabrication"
+            ],
+            [
+                "Realism",
+                "Authenticity",
+                "Plausibility"
+            ]
+        ],
+        [
+            "Oligopoly",
+            "Market dominated by few sellers",
+            "The telecom industry is an oligopoly.",
+            [
+                "Monopoly",
+                "Free market",
+                "Competition"
+            ],
+            [
+                "Limited competition",
+                "Cartel",
+                "Dominance"
+            ]
+        ],
+        [
+            "Disintermediation",
+            "Removing intermediaries",
+            "Online shopping causes disintermediation.",
+            [
+                "Intermediation",
+                "Brokering",
+                "Mediation"
+            ],
+            [
+                "Direct selling",
+                "Cutting out middlemen",
+                "Streamlining"
+            ]
+        ],
+        [
+            "Habeas Corpus",
+            "Right against unlawful detention",
+            "The lawyer filed a writ of habeas corpus.",
+            [
+                "Detention",
+                "Confinement",
+                "Incarceration"
+            ],
+            [
+                "Release order",
+                "Liberty writ",
+                "Freedom petition"
+            ]
+        ],
+        [
+            "Tortious",
+            "Involving a wrongful act",
+            "His tortious behavior led to a lawsuit.",
+            [
+                "Lawful",
+                "Proper",
+                "Ethical"
+            ],
+            [
+                "Wrongful",
+                "Delictual",
+                "Culpable"
+            ]
+        ],
+        [
+            "Iatrogenic",
+            "Illness caused by medical treatment",
+            "The infection was iatrogenic.",
+            [
+                "Natural",
+                "Spontaneous",
+                "Endogenous"
+            ],
+            [
+                "Treatment-induced",
+                "Doctor-caused",
+                "Clinical-origin"
+            ]
+        ],
+        [
+            "Anticoagulant",
+            "Substance preventing blood clots",
+            "He takes anticoagulant medication.",
+            [
+                "Coagulant",
+                "Clotting agent",
+                "Thickener"
+            ],
+            [
+                "Blood-thinner",
+                "Clot-preventer",
+                "Anti-clotting"
+            ]
+        ],
+        [
+            "Hegemony",
+            "Dominance of one group over others",
+            "The Roman Empire maintained hegemony.",
+            [
+                "Equality",
+                "Balance",
+                "Parity"
+            ],
+            [
+                "Dominance",
+                "Supremacy",
+                "Preeminence"
+            ]
+        ],
+        [
+            "Paleolithic",
+            "Relating to the Stone Age",
+            "Paleolithic humans used simple tools.",
+            [
+                "Neolithic",
+                "Modern",
+                "Industrial"
+            ],
+            [
+                "Old Stone Age",
+                "Primitive",
+                "Prehistoric"
+            ]
+        ],
+        [
+            "Sous-vide",
+            "Precision cooking in vacuum bags",
+            "The chef used sous-vide for perfect steak.",
+            [
+                "Boil",
+                "Overcook",
+                "Char"
+            ],
+            [
+                "Vacuum-cook",
+                "Precision-cook",
+                "Low-temp"
+            ]
+        ],
+        [
+            "Mirepoix",
+            "Chopped vegetables for flavor base",
+            "The mirepoix included carrots and celery.",
+            [
+                "Bland",
+                "Unseasoned",
+                "Plain"
+            ],
+            [
+                "Aromatics",
+                "Flavor base",
+                "Holy trinity"
+            ]
+        ],
+        [
+            "Diathesis-Stress",
+            "Predisposition + stress causes disorder",
+            "Schizophrenia follows a diathesis-stress model.",
+            [
+                "Single-cause",
+                "Simple",
+                "Direct"
+            ],
+            [
+                "Predisposition-stress",
+                "Vulnerability-stress",
+                "Dual-factor"
+            ]
+        ],
+        [
+            "Onomatomania",
+            "Obsession with particular words",
+            "His onomatomania focused on 'justice'.",
+            [
+                "Indifference",
+                "Aversion",
+                "Disregard"
+            ],
+            [
+                "Word-fixation",
+                "Verbal obsession",
+                "Linguistic compulsion"
+            ]
+        ],
+        [
+            "Pendentive",
+            "Curved triangle supporting a dome",
+            "Hagia Sophia's pendentives are architectural marvels.",
+            [
+                "Flat surface",
+                "Right angle",
+                "Square base"
+            ],
+            [
+                "Dome transition",
+                "Arch support",
+                "Squinch"
+            ]
+        ],
+        [
+            "Piloti",
+            "Ground-level supporting columns",
+            "The building stood on slender piloti.",
+            [
+                "Foundation",
+                "Solid base",
+                "Ground floor"
+            ],
+            [
+                "Stilts",
+                "Support pillars",
+                "Raised columns"
+            ]
+        ],
+        [
+            "Neapolitan",
+            "Major chord built on flattened supertonic",
+            "The Neapolitan sixth added drama.",
+            [
+                "Diatonic",
+                "Tonic",
+                "Primary"
+            ],
+            [
+                "Phrygian",
+                "Flattened",
+                "Secondary dominant"
+            ]
+        ],
+        [
+            "Sprechstimme",
+            "Speech-like singing technique",
+            "Schoenberg used Sprechstimme in Pierrot.",
+            [
+                "Legato",
+                "Bel canto",
+                "Coloratura"
+            ],
+            [
+                "Speech-song",
+                "Parlando",
+                "Recitative"
+            ]
+        ],
+        [
+            "Magnetar",
+            "Neutron star with powerful magnetic field",
+            "A magnetar's flare could affect Earth.",
+            [
+                "Black hole",
+                "Pulsar",
+                "White dwarf"
+            ],
+            [
+                "Magnetic star",
+                "Neutron variant",
+                "Cosmic magnet"
+            ]
+        ],
+        [
+            "Zodiacal Light",
+            "Sunlight scattered by interplanetary dust",
+            "We saw zodiacal light before dawn.",
+            [
+                "Dark matter",
+                "Black hole shadow",
+                "Cosmic void"
+            ],
+            [
+                "False dawn",
+                "Solar glow",
+                "Dust reflection"
+            ]
+        ],
+        [
+            "Doldrums",
+            "Ocean area with little wind",
+            "Sailors feared being stuck in the doldrums.",
+            [
+                "Trade winds",
+                "Westerlies",
+                "Gales"
+            ],
+            [
+                "Calm belt",
+                "Equatorial calm",
+                "Windless zone"
+            ]
+        ],
+        [
+            "Allophone",
+            "Variant pronunciation of a phoneme",
+            "English 'p' in 'pin' vs 'spin' are allophones.",
+            [
+                "Phoneme",
+                "Distinct sound",
+                "Separate letter"
+            ],
+            [
+                "Sound variant",
+                "Contextual pronunciation",
+                "Phonetic alternant"
+            ]
+        ],
+        [
+            "Eigenvalue",
+            "Scalar associated with linear transformation",
+            "Eigenvalues reveal matrix properties.",
+            [
+                "Determinant",
+                "Trace",
+                "Normal form"
+            ],
+            [
+                "Characteristic value",
+                "Latent root",
+                "Proper number"
+            ]
+        ],
+        [
+            "Homeomorphism",
+            "Continuous deformation between shapes",
+            "A donut and coffee cup are homeomorphic.",
+            [
+                "Discontinuity",
+                "Break",
+                "Rupture"
+            ],
+            [
+                "Topological equivalence",
+                "Shape-morphing",
+                "Continuous map"
+            ]
+        ],
+        [
+            "Scenography",
+            "Integrated design of theatrical space",
+            "The scenography transformed the stage.",
+            [
+                "Plain stage",
+                "Empty space",
+                "Undecorated"
+            ],
+            [
+                "Stage design",
+                "Theatrical environment",
+                "Performance space"
+            ]
+        ],
+        [
+            "Periaktoi",
+            "Triangular rotating scene-changing device",
+            "Ancient Greeks used periaktoi for quick changes.",
+            [
+                "Flat scenery",
+                "Static backdrop",
+                "Fixed set"
+            ],
+            [
+                "Turning triangle",
+                "Revolving prism",
+                "Rotating scene"
+            ]
+        ],
+        [
+            "Tribology",
+            "Study of friction/wear/lubrication",
+            "Tribology improves engine efficiency.",
+            [
+                "Fluid dynamics",
+                "Thermodynamics",
+                "Statics"
+            ],
+            [
+                "Friction science",
+                "Wear analysis",
+                "Lubrication study"
+            ]
+        ],
+        [
+            "Hysteresis",
+            "Lag between input and response",
+            "Magnetic materials show hysteresis.",
+            [
+                "Linearity",
+                "Instant response",
+                "Proportionality"
+            ],
+            [
+                "Lag effect",
+                "Memory effect",
+                "Delay loop"
+            ]
+        ],
+        [
+            "Manifold",
+            "Topological space resembling Euclidean",
+            "The universe may be a 4D manifold.",
+            [
+                "Flat plane",
+                "Simple space",
+                "Linear"
+            ],
+            [
+                "Complex surface",
+                "Multi-dimensional space",
+                "Geometric object"
+            ]
+        ],
+        [
+            "Gobo",
+            "Template controlling stage light shape",
+            "The gobo projected leaf patterns.",
+            [
+                "Open beam",
+                "Flood light",
+                "Raw light"
+            ],
+            [
+                "Stencil",
+                "Pattern plate",
+                "Light mask"
+            ]
+        ],
+        [
+            "Fastidious",
+            "Very attentive to details",
+            "His fastidious cleaning impressed everyone.",
+            [
+                "Sloppy",
+                "Careless",
+                "Negligent"
+            ],
+            [
+                "Meticulous",
+                "Punctilious",
+                "Exacting"
+            ]
+        ],
+        [
+            "Iconoclast",
+            "Person who challenges traditions",
+            "The artist was an iconoclast in her field.",
+            [
+                "Conformist",
+                "Traditionalist",
+                "Conservative"
+            ],
+            [
+                "Rebel",
+                "Radical",
+                "Innovator"
+            ]
+        ],
+        [
+            "Lugubrious",
+            "Looking or sounding sad",
+            "His lugubrious expression worried us.",
+            [
+                "Cheerful",
+                "Joyful",
+                "Upbeat"
+            ],
+            [
+                "Mournful",
+                "Gloomy",
+                "Melancholy"
+            ]
+        ],
+        [
+            "Obfuscate",
+            "To deliberately confuse",
+            "Politicians often obfuscate the truth.",
+            [
+                "Clarify",
+                "Explain",
+                "Illuminate"
+            ],
+            [
+                "Bewilder",
+                "Muddle",
+                "Confuse"
+            ]
+        ],
+        [
+            "Recalcitrant",
+            "Stubbornly resistant",
+            "The recalcitrant child refused to eat.",
+            [
+                "Compliant",
+                "Obedient",
+                "Agreeable"
+            ],
+            [
+                "Stubborn",
+                "Defiant",
+                "Uncooperative"
+            ]
+        ],
+        [
+            "Predatory pricing",
+            "Undercutting to eliminate competition",
+            "Big chains use predatory pricing.",
+            [
+                "Fair pricing",
+                "Ethical rates",
+                "Standard cost"
+            ],
+            [
+                "Anti-competitive",
+                "Cutthroat pricing",
+                "Price war"
+            ]
+        ],
+        [
+            "Conspicuous consumption",
+            "Lavish spending to show wealth",
+            "Designer bags represent conspicuous consumption.",
+            [
+                "Frugality",
+                "Modesty",
+                "Thrift"
+            ],
+            [
+                "Ostentatious",
+                "Showy spending",
+                "Status purchase"
+            ]
+        ],
+        [
+            "Vehicular cyclogenesis",
+            "Traffic wave formation",
+            "Sudden braking causes vehicular cyclogenesis.",
+            [
+                "Smooth flow",
+                "Steady traffic",
+                "Clear road"
+            ],
+            [
+                "Traffic waves",
+                "Shockwave jams",
+                "Phantom traffic"
+            ]
+        ],
+        [
+            "Intermodal transport",
+            "Using multiple transport types",
+            "The trip required intermodal transport.",
+            [
+                "Single mode",
+                "Direct route",
+                "Unchanged vehicle"
+            ],
+            [
+                "Multimodal",
+                "Combined transport",
+                "Switched transit"
+            ]
+        ],
+        [
+            "Maillard reaction",
+            "Browning during cooking",
+            "The steak's crust comes from Maillard reaction.",
+            [
+                "Boiling",
+                "Steaming",
+                "Raw"
+            ],
+            [
+                "Browning",
+                "Flavor development",
+                "Caramelization"
+            ]
+        ],
+        [
+            "Sous-vide",
+            "Precision low-temperature cooking",
+            "Sous-vide ensures perfect doneness.",
+            [
+                "Boil",
+                "Overcook",
+                "Char"
+            ],
+            [
+                "Vacuum-cook",
+                "Precision cook",
+                "Water bath"
+            ]
+        ],
+        [
+            "Presenteeism",
+            "Working while unproductively ill",
+            "Presenteeism reduces overall productivity.",
+            [
+                "Absenteeism",
+                "Leave",
+                "Recovery"
+            ],
+            [
+                "Working sick",
+                "Unproductive presence",
+                "Ill-at-work"
+            ]
+        ],
+        [
+            "Goldbricking",
+            "Pretending to work while idle",
+            "Remote work increased goldbricking.",
+            [
+                "Diligence",
+                "Productivity",
+                "Focus"
+            ],
+            [
+                "Slacking",
+                "Shirking",
+                "Feigning work"
+            ]
+        ],
+        [
+            "Gaslighting",
+            "Psychological manipulation tactic",
+            "Her gaslighting made him doubt reality.",
+            [
+                "Validating",
+                "Supporting",
+                "Affirming"
+            ],
+            [
+                "Mind games",
+                "Manipulation",
+                "Psychological abuse"
+            ]
+        ],
+        [
+            "Hiraeth",
+            "Nostalgic longing for home",
+            "Immigrants often feel hiraeth.",
+            [
+                "Contentment",
+                "Satisfaction",
+                "Comfort"
+            ],
+            [
+                "Homesickness",
+                "Longing",
+                "Yearning"
+            ]
+        ],
+        [
+            "Phishing",
+            "Fraudulent attempt to steal data",
+            "The email was a phishing scam.",
+            [
+                "Legitimate",
+                "Genuine",
+                "Authentic"
+            ],
+            [
+                "Scam",
+                "Spoofing",
+                "Fraud"
+            ]
+        ],
+        [
+            "Zero-day exploit",
+            "Attack before a vulnerability is fixed",
+            "Hackers used a zero-day exploit.",
+            [
+                "Patched",
+                "Fixed",
+                "Secure"
+            ],
+            [
+                "Unpatched flaw",
+                "New vulnerability",
+                "Unknown attack"
+            ]
+        ],
+        [
+            "Amortization",
+            "Gradual debt repayment",
+            "The mortgage amortization takes 30 years.",
+            [
+                "Lump sum",
+                "Balloon payment",
+                "Bullet"
+            ],
+            [
+                "Repayment",
+                "Schedule",
+                "Reduction"
+            ]
+        ],
+        [
+            "Arbitrage",
+            "Profiting from price differences",
+            "They used arbitrage in forex trading.",
+            [
+                "Loss",
+                "Static",
+                "Fixed"
+            ],
+            [
+                "Exploit",
+                "Difference",
+                "Gap"
+            ]
+        ],
+        [
+            "Liquidity",
+            "Ease of converting to cash",
+            "Stocks offer more liquidity than real estate.",
+            [
+                "Illiquidity",
+                "Frozen",
+                "Tied up"
+            ],
+            [
+                "Fluidity",
+                "Cash flow",
+                "Convertibility"
+            ]
+        ],
+        [
+            "Pedagogy",
+            "Method of teaching",
+            "Modern pedagogy emphasizes interaction.",
+            [
+                "Ignorance",
+                "Unlearning",
+                "Neglect"
+            ],
+            [
+                "Instruction",
+                "Didactics",
+                "Education"
+            ]
+        ],
+        [
+            "Heuristic",
+            "Problem-solving approach",
+            "The teacher used heuristic methods.",
+            [
+                "Algorithmic",
+                "Formulaic",
+                "Rote"
+            ],
+            [
+                "Discovery",
+                "Exploratory",
+                "Trial"
+            ]
+        ],
+        [
+            "Ontology",
+            "Study of existence in philosophy",
+            "The thesis discussed digital ontology.",
+            [
+                "Epistemology",
+                "Methodology",
+                "Theory"
+            ],
+            [
+                "Being",
+                "Existence",
+                "Reality"
+            ]
+        ]
+    ]
 }
-
-
-
-
