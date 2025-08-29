@@ -921,9 +921,6 @@
 {"question":"Which organ helps us see?","answers":["eye","eyes"],"hint":"Located on the face"},
 {"question":"Which part of the body has the smallest bone?","answers":["ear","stapes"],"hint":"Inside the ear"},
 {"question":"Which is the longest railway in the world?","answers":["trans-siberian railway"],"hint":"Across Russia"},
-
-
-
 {"question":"Which planet is called the Red Planet?","answers":["mars"],"hint":"Fourth planet from the Sun"},
 {"question":"What gas do plants release during photosynthesis?","answers":["oxygen"],"hint":"Humans need it to breathe"},
 {"question":"How many hours are there in two days?","answers":["48"],"hint":"24 × 2"},
@@ -1600,5 +1597,6 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
 
 
