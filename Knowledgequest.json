@@ -1407,7 +1407,7 @@
 {"question":"Which Italian city is the home of the Leaning Tower?","answers":["pisa"],"hint":"Famous tilted landmark"},
 {"question":"Which scientist introduced the concept of natural selection along with Darwin?","answers":["alfred russel wallace","wallace"],"hint":"Independently conceived the idea"},
 {"question":"Which U.S. state is known as the Aloha State?","answers":["hawaii"],"hint":"Pacific islands"},
-{"question":"Which ty pe of energy is stored in an object due to its position?","answers":["potential energy"],"hint":"Like a raised weight"},
+{"question":"Which type of energy is stored in an object due to its position?","answers":["potential energy"],"hint":"Like a raised weight"},
 {"question":"Which African country is known for the Nile’s source near Lake Victoria?","answers":["uganda"],"hint":"Capital is kampala"},
 {"question":"Which river flows through Baghdad?","answers":["tigris"],"hint":"Twin with the euphrates"},
 {"question":"Which device measures air temperature?","answers":["thermometer"],"hint":"Can be digital or mercury"},
@@ -1596,4 +1596,5 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
 
