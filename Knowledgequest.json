@@ -1220,7 +1220,6 @@
 {"question":"Which organ is called the 'brain of the computer'?","answers":["cpu","central processing unit"],"hint":"Performs calculations"},
 {"question":"Which organ in the body filters blood?","answers":["kidney"],"hint":"Humans have two of them"},
 {"question":"Which element has the symbol Fe?","answers":["iron"],"hint":"Used to make steel"},
-{"question":"Who is the Greek god of the sea?","answers":["poseidon"],"hint":"Brother of Zeus"},
 {"question":"Which is the largest land carnivore?","answers":["polar bear"],"hint":"Lives in the Arctic"},
 {"question":"Which element has the symbol H?","answers":["hydrogen"],"hint":"Lightest element"},
 {"question":"Who was the British Prime Minister during World War II?","answers":["winston churchill"],"hint":"Known for speeches"},
@@ -1597,3 +1596,4 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
