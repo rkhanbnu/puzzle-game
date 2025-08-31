@@ -937,7 +937,6 @@
 {"question":"What is the opposite of 'Hot'?","answers":["cold"],"hint":"Temperature extreme"},
 {"question":"Which shape has no corners?","answers":["circle"],"hint":"Round and smooth"},
 {"question":"What is the boiling point of water?","answers":["100","100°c","100 celsius"],"hint":"Three digits"},
-{"question":"Which animal barks?","answers":["dog"],"hint":"Man’s best friend"},
 {"question":"Which is the smallest month of the year?","answers":["february"],"hint":"28 days, sometimes 29"},
 {"question":"How many stripes are on the American flag?","answers":["13"],"hint":"Represents the original colonies"},
 {"question":"Which part of your body helps you to see?","answers":["eyes","eye"],"hint":"Windows to the world"},
@@ -1591,6 +1590,7 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
 
 
 
