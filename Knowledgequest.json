@@ -930,7 +930,6 @@
 {"question":"Which festival is known as the Festival of Lights?","answers":["diwali"],"hint":"Celebrated with lamps and fireworks"},
 {"question":"Which is the largest ocean on Earth?","answers":["pacific ocean","pacific"],"hint":"Covers about one-third of Earth"},
 {"question":"What do bees collect from flowers?","answers":["nectar"],"hint":"They turn it into honey"},
-{"question":"What is the first letter of the English alphabet?","answers":["a"],"hint":"Begins the alphabet"},
 {"question":"How many wheels does a tricycle have?","answers":["3"],"hint":"One more than a bicycle"},
 {"question":"Which is the tallest mountain in the world?","answers":["mount everest","everest"],"hint":"In the Himalayas"},
 {"question":"What is the color of an emerald?","answers":["green"],"hint":"Same as grass"},
@@ -964,7 +963,6 @@
 {"question":"How many seconds are there in one minute?","answers":["60"],"hint":"Same as 60 ticks of a clock"},
 {"question":"What is the name of the galaxy we live in?","answers":["milky way"],"hint":"Named after a white band in the sky"},
 {"question":"Which insect has colorful wings?","answers":["butterfly"],"hint":"Starts life as a caterpillar"},
-{"question":"How many letters are there in the English alphabet?","answers":["26"],"hint":"From A to Z"},
 {"question":"Which animal is known as King of the Jungle?","answers":["lion"],"hint":"Roaring big cat"},
 {"question":"How many sides does a square have?","answers":["4"],"hint":"All equal"},
 {"question":"How many states are there in the USA?","answers":["50"],"hint":"Stars on the flag"},
@@ -981,7 +979,7 @@
 {"question":"Which insect can lift many times its body weight?","answers":["ant"],"hint":"Tiny but strong"},
 {"question":"Who discovered America in 1492?","answers":["christopher columbus","columbus"],"hint":"Italian explorer"},
 {"question":"Which gas is most abundant in Earth’s atmosphere?","answers":["nitrogen"],"hint":"About 78%"},
-{"question":"Who wrote Hamlet?","answers":["william shakespeare","shakespeare"],"hint":"Famous playwright"},
+{"question":"Who wrote the famous play Hamlet?","answers":["william shakespeare","shakespeare"],"hint":"Famous playwright"},
 {"question":"Which part of the body helps us see?","answers":["eyes"],"hint":"Pair on face"},
 {"question":"What is the fastest train in the world?","answers":["maglev","shanghai maglev"],"hint":"In China"},
 {"question":"Which planet is called the Morning Star?","answers":["venus"],"hint":"Also called Evening Star"},
@@ -1088,8 +1086,6 @@
 {"question":"Which continent is completely covered in ice?","answers":["antarctica"],"hint":"Coldest place on Earth"},
 {"question":"Which gas do humans breathe in to survive?","answers":["oxygen"],"hint":"Essential for life"},
 {"question":"Which country is famous for the Eiffel Tower?","answers":["france"],"hint":"City of Paris"},
-{"question":"What is the capital of England?","answers":["london"],"hint":"Famous Big Ben"},
-{"question":"How many hours are there in a day?","answers":["24"],"hint":"Same as number of letters in the Greek alphabet"},
 {"question":"How many teeth does an adult human usually have?","answers":["32"],"hint":"More than 30"},
 {"question":"Which planet is called the Blue Planet?","answers":["earth"],"hint":"We live here"},
 {"question":"Which month has 28 or 29 days?","answers":["february"],"hint":"Shortest month"},
@@ -1105,7 +1101,6 @@
 {"question":"Which is the tallest animal?","answers":["giraffe"],"hint":"Long neck"},
 {"question":"Which planet is called Earth’s twin?","answers":["venus"],"hint":"Similar size"},
 {"question":"Which gas do fire extinguishers use?","answers":["carbon dioxide","co2"],"hint":"Same we exhale"},
-{"question":"How many letters are in the English alphabet?","answers":["26"],"hint":"From A to Z"},
 {"question":"Which organ helps to filter blood?","answers":["kidney","kidneys"],"hint":"Pair of organs"},
 {"question":"Which insect spreads malaria?","answers":["mosquito"],"hint":"Buzzing pest"},
 {"question":"Which organ allows us to see?","answers":["eye","eyes"],"hint":"Pair in face"},
@@ -1596,5 +1591,6 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
 
 
