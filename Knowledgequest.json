@@ -2150,7 +2150,7 @@
 {"question":"Which company created the first computer with a mouse?","answers":["xerox"],"hint":"Xerox Star in 1981"},
 {"question":"Which company created the first computer game console?","answers":["magnavox"],"hint":"Odyssey in 1972"},
 {"question":"Which programming language is used for system programming?","answers":["c"],"hint":"Developed at Bell Labs"},
-{"question":"Which company created the first computer with a hard drive?","answers":["ibm"],"hint":"IBM 305 RAMAC in 1956"}
+{"question":"Which company created the first computer with a hard drive?","answers":["ibm"],"hint":"305 RAMAC in 1956"}
 ],
   "trick_questions": [
     {"question":"What has keys but can't open locks?","answers":["piano","keyboard"],"hint":"Musical instrument"},
@@ -2174,3 +2174,4 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
