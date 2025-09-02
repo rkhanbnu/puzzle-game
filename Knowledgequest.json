@@ -385,7 +385,7 @@
 {"question":"What is the main gas found in Earth's atmosphere?","answers":["nitrogen"],"hint":"Makes up about 78% of the air"},
 {"question":"Who wrote 'The Great Gatsby'?","answers":["f. scott fitzgerald"],"hint":"American author of the Jazz Age"},
 {"question":"What planet is known for its prominent rings?","answers":["saturn"],"hint":"Second largest planet in our solar system"},
-{"question":"Which desert is the largest in the world?","answers":["antarctic desert","sahara desert"],"hint":"Both polar and hot deserts qualify"},
+{"question":"Which desert is the largest in the world?","answers":["antarctica","sahara"],"hint":"Both polar and hot deserts qualify"},
 {"question":"What is the study of fossils called?","answers":["paleontology"],"hint":"Scientists study ancient life forms"},
 {"question":"Which Shakespeare play features the character Ophelia?","answers":["hamlet"],"hint":"The tragedy of the Danish prince"},
 {"question":"Which country has the most natural lakes?","answers":["canada"],"hint":"North American country"},
@@ -535,7 +535,7 @@
 {"question":"What is the capital city of Italy?","answers":["rome"],"hint":"Known as the Eternal City"},
 {"question":"Who wrote 'The Hobbit'?","answers":["j.r.r. tolkien"],"hint":"English author and professor"},
 {"question":"What unit do we use to measure electric resistance?","answers":["ohm"],"hint":"Symbol is Ω"},
-{"question":"Which desert is the coldest in the world?","answers":["antarctic desert"],"hint":"Located at the South Pole"},
+{"question":"Which desert is the coldest in the world?","answers":["antarctica"],"hint":"Located at the South Pole"},
 {"question":"What do we call a scientist who studies rocks?","answers":["geologist"],"hint":"Studies Earth's materials"},
 {"question":"Who wrote 'Alice's Adventures in Wonderland'?","answers":["lewis carroll"],"hint":"English author and mathematician"},
 {"question":"What is the largest internal organ in the human body?","answers":["liver"],"hint":"Helps with digestion and detoxification"},
@@ -2738,3 +2738,4 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
