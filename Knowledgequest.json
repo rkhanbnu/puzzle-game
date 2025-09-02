@@ -2395,7 +2395,7 @@
 {"question":"What has a language but no speakers?","answers":["programming language"],"hint":"Used by computers"},
 {"question":"What has a code but no secrets?","answers":["zip code"],"hint":"Postal designation"},
 {"question":"What has a number but no quantity?","answers":["phone number"],"hint":"Used for calling"},
-{"question":"What has a date but no calendar?","answers":["fruit"],"hint":"A sweet fruit"},
+{"question":"What has a date but no calendar?","answers":["fruit"],"hint":"Sweet in taste"},
 {"question":"What has a time but no clock?","answers":["lifetime"],"hint":"Duration of existence"},
 {"question":"What has a season but no weather?","answers":["tv season"],"hint":"Series of episodes"},
 {"question":"What has a period but no time?","answers":["sentence"],"hint":"In grammar"},
@@ -2738,4 +2738,5 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
 
