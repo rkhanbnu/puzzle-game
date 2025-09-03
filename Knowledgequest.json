@@ -2577,7 +2577,7 @@
 {"question":"What has an injury but no wound, and is to pride?","answers":["injury"],"hint":"As in 'injury to pride'"},
 {"question":"What has a wound but no cut, and is a clock?","answers":["wound clock"],"hint":"Mechanical clock"},
 {"question":"What has a cut but no knife, and is in film?","answers":["film cut"],"hint":"Edit in a movie"},
-{"question":"What has a knife but no blade, and is a paper knife?","answers":["paper knife"],"hint":"Letter opener"},
+{"question":"What has a knife but no blade?","answers":["paper knife"],"hint":"Letter opener"},
 {"question":"What has a blade but no knife, and is of grass?","answers":["blade of grass"],"hint":"Single grass leaf"},
 {"question":"What has grass but no lawn, and is marijuana?","answers":["grass"],"hint":"Slang term"},
 {"question":"What has a lawn but no grass, and is a tennis lawn?","answers":["lawn tennis"],"hint":"Sport played on grass"},
@@ -2738,5 +2738,6 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
 
 
