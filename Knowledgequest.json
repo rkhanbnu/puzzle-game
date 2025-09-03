@@ -2522,8 +2522,8 @@
 {"question":"What has a place but no space, and is first place?","answers":["first place"],"hint":"Winning position"},
 {"question":"What has a space but no room, and is outer space?","answers":["outer space"],"hint":"The cosmos"},
 {"question":"What has a room but no doors, and is a mushroom?","answers":["mushroom"],"hint":"A fungus"},
-{"question":"What has a door but no room, and is a trapdoor?","answers":["trapdoor"],"hint":"Hidden entrance"},
-{"question":"What has a window but no view, and is on a computer?","answers":["computer window"],"hint":"On a screen"},
+{"question":"What has a door but no room?","answers":["trapdoor"],"hint":"Hidden entrance"},
+{"question":"What has a window but no view?","answers":["computer window"],"hint":"On a screen"},
 {"question":"What has a view but no window, and is an opinion?","answers":["point of view"],"hint":"Perspective"},
 {"question":"What has a perspective but no view, and is in art?","answers":["perspective"],"hint":"Drawing technique"},
 {"question":"What has a frame but no picture, and is a time frame?","answers":["time frame"],"hint":"Duration"},
@@ -2738,6 +2738,7 @@
     {"explanation":"Batteries store chemical energy converted to electricity."}
   ]
 }
+
 
 
 
