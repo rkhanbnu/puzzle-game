@@ -16,7 +16,7 @@
   "EYE", "FAD", "FAN", "FAR", "FAT", "FAX", "FED", "FEW", "FIG", "FIN",
   "FIR", "FIT", "FLU", "FLY", "FOB", "FOE", "FOG", "FOP", "FOR", "FOX",
   "FRO", "FRY", "FUG", "FUN", "FUR", "GAB", "GAD", "GAG", "GAL", "GAP",
-  "GAS", "GAY", "GEL", "GEM", "GET", "GIG", "GIN", "GNU", "GOB", "GOD",
+  "GAS", "PAY", "GEL", "GEM", "GET", "GIG", "GIN", "GNU", "GOB", "GOD",
   "GOO", "GOT", "GUM", "GUN", "GUT", "GUY", "GYM", "HAD", "HAG", "HAM",
   "HAS", "HAT", "HAW", "HAY", "HEM", "HEN", "HER", "HEW", "HEX", "HEY",
   "HID", "HIM", "HIP", "HIS", "HIT", "HOB", "HOD", "HOE", "HOG", "HON",
@@ -73,7 +73,7 @@
   "FIN", "FIR", "FIT", "FIX", "FLU", "FLY", "FOB", "FOE", "FOG", "FOH",
   "FON", "FOP", "FOR", "FOX", "FOY", "FRO", "FRY", "FUG", "FUN", "FUR",
   "GAB", "GAD", "GAG", "GAL", "GAM", "GAN", "GAP", "GAR", "GAS", "GAT",
-  "GAY", "GED", "GEE", "GEL", "GEM", "GEN", "GET", "GIG", "GIN", "GIP",
+  "PAY", "GED", "GEE", "GEL", "GEM", "GEN", "GET", "GIG", "GIN", "GIP",
   "GIT", "GNU", "GOA", "GOB", "GOD", "GOO", "GOR", "GOT", "GUM", "GUN",
   "GUT", "GUY", "GYM", "HAD", "HAE", "HAG", "HAH", "HAM", "HAN", "HAP",
   "HAS", "HAT", "HAW", "HAY", "HEH", "HEM", "HEN", "HER", "HES", "HEW",
@@ -249,7 +249,7 @@
         "FROZE", "FRUIT", "FUDGE", "FUGUE", "FULLY", "FUNGI", "FUNKY", "FUNNY",
         "FUROR", "FURRY", "FUSSY", "FUZZY", "GAFFE", "GAILY", "GAMER", "GAMMA",
         "GAMUT", "GASSY", "GAUDY", "GAUGE", "GAUNT", "GAUZE", "GAVEL", "GAWKY",
-        "GAYER", "GAYLY", "GAZER", "GECKO", "GEEKY", "GEESE", "GENIE", "GENRE",
+        "PAYER", "GAILY", "GAZER", "GECKO", "GEEKY", "GEESE", "GENIE", "GENRE",
         "GHOST", "GHOUL", "GIANT", "GIDDY", "GIPSY", "GIRLY", "GIRTH", "GIVEN",
         "GIVER", "GLADE", "GLAND", "GLARE", "GLASS", "GLAZE", "GLEAM", "GLEAN",
         "GLIDE", "GLINT", "GLOAT", "GLOBE", "GLOOM", "GLORY", "GLOSS", "GLOVE",
@@ -824,3 +824,4 @@
         "YOUTH", "YUCCA", "ZEBRA", "ZENITH", "ZEPHYR", "ZIPPER", "ZODIAC", "ZOMBIE", "ZONAL"
             ]
         }
+
