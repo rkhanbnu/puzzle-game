@@ -297,7 +297,8 @@
     [
       "Who was the famous leader of the Civil Rights Movement?",
       [
-        "martin luther king jr"
+        "martin luther king jr",
+        "martin luther king junior"
       ],
       "'I Have a Dream' speech"
     ],
@@ -13831,7 +13832,8 @@
     [
       "Which civil rights leader gave the 'I Have a Dream' speech?",
       [
-        "martin luther king jr"
+        "martin luther king jr",
+        "martin luther king junior"
       ],
       "Assassinated in 1968"
     ],
