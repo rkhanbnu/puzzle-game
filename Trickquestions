@@ -1,0 +1,2952 @@
+{
+  "trick_questions": [
+    [
+      "What has keys but can't open locks?",
+      [
+        "piano",
+        "keyboard"
+      ],
+      "Musical instrument"
+    ],
+    [
+      "What comes once in a minute, twice in a moment, but never in a thousand years?",
+      [
+        "m"
+      ],
+      "Think about spelling"
+    ],
+    [
+      "What has a neck but no head?",
+      [
+        "bottle",
+        "guitar",
+        "violin"
+      ],
+      "Can hold liquid or make music"
+    ],
+    [
+      "What has hands but can't clap?",
+      [
+        "clock",
+        "watch"
+      ],
+      "Tells time"
+    ],
+    [
+      "What has an eye but cannot see?",
+      [
+        "needle",
+        "storm",
+        "hurricane",
+        "cyclone"
+      ],
+      "Used for sewing or weather phenomenon"
+    ],
+    [
+      "What has a thumb and four fingers but is not alive?",
+      [
+        "glove"
+      ],
+      "Worn on hands"
+    ],
+    [
+      "What gets wetter as it dries?",
+      [
+        "towel"
+      ],
+      "Used after bathing"
+    ],
+    [
+      "What goes up but never comes down?",
+      [
+        "age"
+      ],
+      "Increases each year"
+    ],
+    [
+      "What has a face but no eyes, hands but no arms?",
+      [
+        "clock",
+        "watch"
+      ],
+      "Tells time"
+    ],
+    [
+      "What has a ring but no finger?",
+      [
+        "phone",
+        "telephone",
+        "saturn"
+      ],
+      "Used for communication or a planet"
+    ],
+    [
+      "What has a bottom at the top?",
+      [
+        "leg",
+        "pants"
+      ],
+      "Part of the body or clothing"
+    ],
+    [
+      "What is full of holes but still holds water?",
+      [
+        "sponge"
+      ],
+      "Used for cleaning"
+    ],
+    [
+      "What can travel around the world while staying in a corner?",
+      [
+        "stamp"
+      ],
+      "Used on mail"
+    ],
+    [
+      "What has words but never speaks?",
+      [
+        "book"
+      ],
+      "Contains pages"
+    ],
+    [
+      "What has a heart that doesn't beat?",
+      [
+        "artichoke",
+        "deck of cards"
+      ],
+      "A vegetable or playing cards"
+    ],
+    [
+      "What has a bed but never sleeps?",
+      [
+        "river"
+      ],
+      "Flows with water"
+    ],
+    [
+      "What has a bank but no money?",
+      [
+        "river"
+      ],
+      "Has two sides"
+    ],
+    [
+      "What has a head and a tail but no body?",
+      [
+        "coin"
+      ],
+      "Used as currency"
+    ],
+    [
+      "What is always in front of you but can't be seen?",
+      [
+        "future"
+      ],
+      "What is to come"
+    ],
+    [
+      "What can be broken but never held?",
+      [
+        "promise"
+      ],
+      "A commitment"
+    ],
+    [
+      "What has a mouth but never eats?",
+      [
+        "river"
+      ],
+      "Flows to the sea"
+    ],
+    [
+      "What has a foot but no legs?",
+      [
+        "mountain",
+        "snail"
+      ],
+      "Natural formation or animal"
+    ],
+    [
+      "What has a tongue but cannot talk?",
+      [
+        "shoe"
+      ],
+      "Worn on feet"
+    ],
+    [
+      "What has teeth but cannot bite?",
+      [
+        "comb"
+      ],
+      "Used for hair"
+    ],
+    [
+      "What has ears but cannot hear?",
+      [
+        "corn"
+      ],
+      "A vegetable"
+    ],
+    [
+      "What has a face that doesn't frown, smile, or look surprised?",
+      [
+        "clock"
+      ],
+      "Tells time"
+    ],
+    [
+      "What has a single eye but cannot see?",
+      [
+        "needle"
+      ],
+      "Used for sewing"
+    ],
+    [
+      "What runs but never walks?",
+      [
+        "river",
+        "water"
+      ],
+      "Flows downstream"
+    ],
+    [
+      "What has a bark but no bite?",
+      [
+        "tree"
+      ],
+      "Has leaves or needles"
+    ],
+    [
+      "What has a sole but no soul?",
+      [
+        "shoe"
+      ],
+      "Worn on feet"
+    ],
+    [
+      "What has a spine but no bones?",
+      [
+        "book"
+      ],
+      "Contains pages"
+    ],
+    [
+      "What has a wave but no water?",
+      [
+        "hair"
+      ],
+      "On your head"
+    ],
+    [
+      "What has a crown but no head?",
+      [
+        "tooth"
+      ],
+      "In your mouth"
+    ],
+    [
+      "What has a button but no shirt?",
+      [
+        "doorbell"
+      ],
+      "Pressed to announce arrival"
+    ],
+    [
+      "What has a wing but cannot fly?",
+      [
+        "building",
+        "house"
+      ],
+      "A part of a structure"
+    ],
+    [
+      "What has a light but no electricity?",
+      [
+        "firefly"
+      ],
+      "An insect"
+    ],
+    [
+      "What has a key but no lock?",
+      [
+        "piano",
+        "keyboard",
+        "map"
+      ],
+      "Musical instrument or guide"
+    ],
+    [
+      "What has a page but no words?",
+      [
+        "webpage",
+        "website"
+      ],
+      "On the internet"
+    ],
+    [
+      "What has a screen but no movies?",
+      [
+        "window",
+        "door"
+      ],
+      "In a house or building"
+    ],
+    [
+      "What has a needle but doesn't sew?",
+      [
+        "compass"
+      ],
+      "Used for navigation"
+    ],
+    [
+      "What has a belt but no pants?",
+      [
+        "asteroid belt"
+      ],
+      "In space"
+    ],
+    [
+      "What has a ring but no phone?",
+      [
+        "circus",
+        "tree"
+      ],
+      "Entertainment venue or plant"
+    ],
+    [
+      "What has a pool but no water?",
+      [
+        "car pool"
+      ],
+      "Transportation arrangement"
+    ],
+    [
+      "What has a court but no judge?",
+      [
+        "tennis court"
+      ],
+      "Sports area"
+    ],
+    [
+      "What has a net but no fish?",
+      [
+        "internet",
+        "tennis net"
+      ],
+      "Digital network or sports equipment"
+    ],
+    [
+      "What has a box but no contents?",
+      [
+        "dialog box"
+      ],
+      "On a computer screen"
+    ],
+    [
+      "What has a card but no game?",
+      [
+        "birthday card"
+      ],
+      "Given on special occasions"
+    ],
+    [
+      "What has a note but no music?",
+      [
+        "bank note"
+      ],
+      "Paper money"
+    ],
+    [
+      "What has a watch but no time?",
+      [
+        "watchtower"
+      ],
+      "A tall structure"
+    ],
+    [
+      "What has a lock but no key?",
+      [
+        "lock of hair"
+      ],
+      "On your head"
+    ],
+    [
+      "What has a chain but no links?",
+      [
+        "mountain chain"
+      ],
+      "A series of mountains"
+    ],
+    [
+      "What has a plate but no food?",
+      [
+        "license plate"
+      ],
+      "On a vehicle"
+    ],
+    [
+      "What has a horn but doesn't beep?",
+      [
+        "rhinoceros"
+      ],
+      "An animal"
+    ],
+    [
+      "What has a coat but no arms?",
+      [
+        "paint coat"
+      ],
+      "A layer of paint"
+    ],
+    [
+      "What has a cap but no head?",
+      [
+        "bottle cap"
+      ],
+      "On a container"
+    ],
+    [
+      "What has a point but no tip?",
+      [
+        "compass point"
+      ],
+      "Direction indicator"
+    ],
+    [
+      "What has a match but no fire?",
+      [
+        "tennis match"
+      ],
+      "Sports competition"
+    ],
+    [
+      "What has a board but no nails?",
+      [
+        "dartboard"
+      ],
+      "Used in a game"
+    ],
+    [
+      "What has a stick but no wood?",
+      [
+        "hockey stick"
+      ],
+      "Sports equipment"
+    ],
+    [
+      "What has a ball but no play?",
+      [
+        "snowball"
+      ],
+      "Made of snow"
+    ],
+    [
+      "What has a line but no end?",
+      [
+        "circle"
+      ],
+      "A round shape"
+    ],
+    [
+      "What has a corner but no edges?",
+      [
+        "circle"
+      ],
+      "A round shape"
+    ],
+    [
+      "What has a center but no middle?",
+      [
+        "circle"
+      ],
+      "A round shape"
+    ],
+    [
+      "What has a beginning and end but no middle?",
+      [
+        "ring",
+        "donut"
+      ],
+      "Circular shape with a hole"
+    ],
+    [
+      "What has a top and bottom but no sides?",
+      [
+        "record",
+        "album"
+      ],
+      "Played on a turntable"
+    ],
+    [
+      "What has a front and back but no middle?",
+      [
+        "coin"
+      ],
+      "Used as currency"
+    ],
+    [
+      "What has a left and right but no up or down?",
+      [
+        "corridor",
+        "hallway"
+      ],
+      "Passage in a building"
+    ],
+    [
+      "What has an inside and outside but no substance?",
+      [
+        "hole"
+      ],
+      "An empty space"
+    ],
+    [
+      "What has a name but no identity?",
+      [
+        "placeholder"
+      ],
+      "Temporary designation"
+    ],
+    [
+      "What has a value but no worth?",
+      [
+        "null"
+      ],
+      "In programming"
+    ],
+    [
+      "What has a sound but no voice?",
+      [
+        "echo"
+      ],
+      "Reflection of sound"
+    ],
+    [
+      "What has a shadow but no light?",
+      [
+        "cloud"
+      ],
+      "In the sky"
+    ],
+    [
+      "What has a reflection but no mirror?",
+      [
+        "water"
+      ],
+      "In a lake or pond"
+    ],
+    [
+      "What has a weight but no mass?",
+      [
+        "idea"
+      ],
+      "Conceptual"
+    ],
+    [
+      "What has a size but no dimensions?",
+      [
+        "number"
+      ],
+      "Mathematical concept"
+    ],
+    [
+      "What has a length but no width?",
+      [
+        "line"
+      ],
+      "In geometry"
+    ],
+    [
+      "What has a width but no length?",
+      [
+        "point"
+      ],
+      "In geometry"
+    ],
+    [
+      "What has a height but no depth?",
+      [
+        "shadow"
+      ],
+      "Cast by an object"
+    ],
+    [
+      "What has a depth but no height?",
+      [
+        "well"
+      ],
+      "In the ground"
+    ],
+    [
+      "What has a past but no future?",
+      [
+        "yesterday"
+      ],
+      "The day before today"
+    ],
+    [
+      "What has a future but no past?",
+      [
+        "tomorrow"
+      ],
+      "The day after today"
+    ],
+    [
+      "What has a present but no time?",
+      [
+        "gift"
+      ],
+      "Given on special occasions"
+    ],
+    [
+      "What has a history but no story?",
+      [
+        "history book"
+      ],
+      "Contains facts about the past"
+    ],
+    [
+      "What has a plot but no story?",
+      [
+        "cemetery",
+        "graveyard"
+      ],
+      "Where people are buried"
+    ],
+    [
+      "What has a character but no personality?",
+      [
+        "letter",
+        "alphabet"
+      ],
+      "Used in writing"
+    ],
+    [
+      "What has a word but no meaning?",
+      [
+        "nonsense word"
+      ],
+      "Like 'supercalifragilisticexpialidocious'"
+    ],
+    [
+      "What has a sentence but no words?",
+      [
+        "prison sentence"
+      ],
+      "Legal punishment"
+    ],
+    [
+      "What has a language but no speakers?",
+      [
+        "programming language"
+      ],
+      "Used by computers"
+    ],
+    [
+      "What has a code but no secrets?",
+      [
+        "zip code"
+      ],
+      "Postal designation"
+    ],
+    [
+      "What has a number but no quantity?",
+      [
+        "phone number"
+      ],
+      "Used for calling"
+    ],
+    [
+      "What has a date but no calendar?",
+      [
+        "fruit"
+      ],
+      "Sweet in taste"
+    ],
+    [
+      "What has a time but no clock?",
+      [
+        "lifetime"
+      ],
+      "Duration of existence"
+    ],
+    [
+      "What has a season but no weather?",
+      [
+        "tv season"
+      ],
+      "Series of episodes"
+    ],
+    [
+      "What has a period but no time?",
+      [
+        "sentence"
+      ],
+      "In grammar"
+    ],
+    [
+      "What has a comma but no pause?",
+      [
+        "comma butterfly"
+      ],
+      "An insect"
+    ],
+    [
+      "What has a colon but no intestines?",
+      [
+        "punctuation mark"
+      ],
+      "Used in writing"
+    ],
+    [
+      "What has a question but no answer?",
+      [
+        "riddle"
+      ],
+      "Like this one"
+    ],
+    [
+      "What has an answer but no question?",
+      [
+        "42"
+      ],
+      "From Hitchhiker's Guide to the Galaxy"
+    ],
+    [
+      "What has a solution but no problem?",
+      [
+        "solution"
+      ],
+      "In chemistry"
+    ],
+    [
+      "What has a problem but no solution?",
+      [
+        "math problem"
+      ],
+      "In a textbook"
+    ],
+    [
+      "What has a mystery but no clues?",
+      [
+        "mystery novel"
+      ],
+      "A book genre"
+    ],
+    [
+      "What has a secret but no knowledge?",
+      [
+        "secret agent"
+      ],
+      "Spy"
+    ],
+    [
+      "What has a clue but no mystery?",
+      [
+        "clue"
+      ],
+      "Board game"
+    ],
+    [
+      "What has a game but no players?",
+      [
+        "game theory"
+      ],
+      "Mathematical concept"
+    ],
+    [
+      "What has a player but no game?",
+      [
+        "record player"
+      ],
+      "Plays vinyl records"
+    ],
+    [
+      "What has a team but no players?",
+      [
+        "team spirit"
+      ],
+      "Group enthusiasm"
+    ],
+    [
+      "What has a coach but no team?",
+      [
+        "stagecoach"
+      ],
+      "Historical transportation"
+    ],
+    [
+      "What has a field but no grass?",
+      [
+        "magnetic field"
+      ],
+      "Physical phenomenon"
+    ],
+    [
+      "What has a track but no train?",
+      [
+        "race track"
+      ],
+      "For running or racing"
+    ],
+    [
+      "What has a station but no trains?",
+      [
+        "police station"
+      ],
+      "Law enforcement building"
+    ],
+    [
+      "What has a road but no cars?",
+      [
+        "road map"
+      ],
+      "For navigation"
+    ],
+    [
+      "What has a street but no address?",
+      [
+        "walstreet"
+      ],
+      "Famous financial district"
+    ],
+    [
+      "What has a address but no location?",
+      [
+        "web address"
+      ],
+      "URL"
+    ],
+    [
+      "What has a location but no place?",
+      [
+        "GPS location"
+      ],
+      "Coordinates"
+    ],
+    [
+      "What has a place but no space?",
+      [
+        "first place"
+      ],
+      "Winning position"
+    ],
+    [
+      "What has a space but no room?",
+      [
+        "outer space"
+      ],
+      "Beyond Earth's atmosphere"
+    ],
+    [
+      "What has a room but no doors?",
+      [
+        "mushroom"
+      ],
+      "A fungus"
+    ],
+    [
+      "What has a door but no room?",
+      [
+        "trap door"
+      ],
+      "Hidden entrance"
+    ],
+    [
+      "What has a window but no view?",
+      [
+        "computer window"
+      ],
+      "On a screen"
+    ],
+    [
+      "What has a view but no window?",
+      [
+        "point of view"
+      ],
+      "Perspective"
+    ],
+    [
+      "What has a perspective but no view?",
+      [
+        "art perspective"
+      ],
+      "Drawing technique"
+    ],
+    [
+      "What has a frame but no picture?",
+      [
+        "time frame"
+      ],
+      "Duration"
+    ],
+    [
+      "What has a picture but no frame?",
+      [
+        "mental picture"
+      ],
+      "Imagination"
+    ],
+    [
+      "What has an image but no form?",
+      [
+        "digital image"
+      ],
+      "On a computer"
+    ],
+    [
+      "What has a form but no shape?",
+      [
+        "application form"
+      ],
+      "Document to fill out"
+    ],
+    [
+      "What has a shape but no form?",
+      [
+        "geometric shape"
+      ],
+      "In mathematics"
+    ],
+    [
+      "What has a bed you can't sleep in?",
+      [
+        "river"
+      ],
+      "Flows through landscapes"
+    ],
+    [
+      "What has a mouth but never eats, and a bed but never sleeps?",
+      [
+        "river"
+      ],
+      "Flows to the sea"
+    ],
+    [
+      "What has a foot on each side but no legs?",
+      [
+        "compass"
+      ],
+      "Used for navigation"
+    ],
+    [
+      "What has a head, can't think, and travels all over?",
+      [
+        "coin"
+      ],
+      "Jingles in pockets"
+    ],
+    [
+      "What has a neck but no head, and wears a cap?",
+      [
+        "bottle"
+      ],
+      "Holds liquids"
+    ],
+    [
+      "What has an eye but can't see, and a point but can't stab?",
+      [
+        "needle"
+      ],
+      "Used with thread"
+    ],
+    [
+      "What has a tongue but can't talk, and a sole but can't walk?",
+      [
+        "shoe"
+      ],
+      "Worn on feet"
+    ],
+    [
+      "What has teeth but can't bite, and helps with hair?",
+      [
+        "comb"
+      ],
+      "Has many prongs"
+    ],
+    [
+      "What has arms but can't hug, and tells time?",
+      [
+        "clock"
+      ],
+      "On the wall"
+    ],
+    [
+      "What has a ring but no finger, and can be answered?",
+      [
+        "phone"
+      ],
+      "Used for calls"
+    ],
+    [
+      "What has a key but no lock, and makes music?",
+      [
+        "piano"
+      ],
+      "Has black and white keys"
+    ],
+    [
+      "What has a screen but doesn't show movies, and can be opened?",
+      [
+        "window"
+      ],
+      "In a house"
+    ],
+    [
+      "What has a page but no words, and is digital?",
+      [
+        "webpage"
+      ],
+      "Viewed online"
+    ],
+    [
+      "What has a light but no bulb, and flies at night?",
+      [
+        "firefly"
+      ],
+      "An insect"
+    ],
+    [
+      "What has a wing but can't fly, and is part of a building?",
+      [
+        "wing"
+      ],
+      "Of a hospital or theater"
+    ],
+    [
+      "What has a button but no shirt, and rings?",
+      [
+        "doorbell"
+      ],
+      "Pressed by visitors"
+    ],
+    [
+      "What has a belt but no pants, and is in space?",
+      [
+        "asteroid belt"
+      ],
+      "Between Mars and Jupiter"
+    ],
+    [
+      "What has a pool but no water, and involves sharing rides?",
+      [
+        "car pool"
+      ],
+      "Transportation arrangement"
+    ],
+    [
+      "What has a court but no judge, and has a net?",
+      [
+        "tennis court"
+      ],
+      "Sports venue"
+    ],
+    [
+      "What has a net but no fish, and is worldwide?",
+      [
+        "internet"
+      ],
+      "Digital network"
+    ],
+    [
+      "What has a card but no game, and is given on birthdays?",
+      [
+        "birthday card"
+      ],
+      "Greeting card"
+    ],
+    [
+      "What has a note but no music, and is currency?",
+      [
+        "banknote"
+      ],
+      "Paper money"
+    ],
+    [
+      "What has a watch but no time, and is a tall structure?",
+      [
+        "watchtower"
+      ],
+      "For observation"
+    ],
+    [
+      "What has a lock but no key, and is on your head?",
+      [
+        "lock of hair"
+      ],
+      "A strand of hair"
+    ],
+    [
+      "What has a chain but no links, and is a mountain range?",
+      [
+        "mountain chain"
+      ],
+      "Series of mountains"
+    ],
+    [
+      "What has a plate but no food, and is on a vehicle?",
+      [
+        "license plate"
+      ],
+      "Identification tag"
+    ],
+    [
+      "What has a horn but doesn't beep, and is an animal?",
+      [
+        "rhinoceros"
+      ],
+      "Has a large horn"
+    ],
+    [
+      "What has a coat but no arms, and is a layer of paint?",
+      [
+        "coat of paint"
+      ],
+      "Applied to surfaces"
+    ],
+    [
+      "What has a cap but no head, and is on a bottle?",
+      [
+        "bottle cap"
+      ],
+      "Seals containers"
+    ],
+    [
+      "What has a point but no tip, and shows direction?",
+      [
+        "compass point"
+      ],
+      "North, South, East, or West"
+    ],
+    [
+      "What has a match but no fire, and is a game?",
+      [
+        "tennis match"
+      ],
+      "Sports competition"
+    ],
+    [
+      "What has a board but no nails, and is used in darts?",
+      [
+        "dartboard"
+      ],
+      "Target for darts"
+    ],
+    [
+      "What has a stick but no wood, and is used in hockey?",
+      [
+        "hockey stick"
+      ],
+      "Sports equipment"
+    ],
+    [
+      "What has a ball but no play, and is made of snow?",
+      [
+        "snowball"
+      ],
+      "Thrown in winter"
+    ],
+    [
+      "What has a line but no end, and is round?",
+      [
+        "circle"
+      ],
+      "A shape"
+    ],
+    [
+      "What has a corner but no edges, and is circular?",
+      [
+        "circle"
+      ],
+      "No straight sides"
+    ],
+    [
+      "What has a center but no middle, and is a ring?",
+      [
+        "circle"
+      ],
+      "Geometric figure"
+    ],
+    [
+      "What has a beginning and end but no middle, and is edible?",
+      [
+        "donut"
+      ],
+      "A sweet treat"
+    ],
+    [
+      "What has a top and bottom but no sides, and plays music?",
+      [
+        "record"
+      ],
+      "Vinyl disc"
+    ],
+    [
+      "What has a front and back but no middle, and is currency?",
+      [
+        "coin"
+      ],
+      "Metal money"
+    ],
+    [
+      "What has a left and right but no up or down, and is a hallway?",
+      [
+        "corridor"
+      ],
+      "Passage in a building"
+    ],
+    [
+      "What has an inside and outside but no substance, and is a hole?",
+      [
+        "hole"
+      ],
+      "Empty space"
+    ],
+    [
+      "What has a name but no identity, and is a placeholder?",
+      [
+        "placeholder"
+      ],
+      "Temporary name"
+    ],
+    [
+      "What has a value but no worth, and is null?",
+      [
+        "null"
+      ],
+      "In programming"
+    ],
+    [
+      "What has a sound but no voice, and bounces back?",
+      [
+        "echo"
+      ],
+      "Sound reflection"
+    ],
+    [
+      "What has a shadow but no light, and is in the sky?",
+      [
+        "cloud"
+      ],
+      "Weather formation"
+    ],
+    [
+      "What has a reflection but no mirror, and is water?",
+      [
+        "water"
+      ],
+      "In a lake"
+    ],
+    [
+      "What has a weight but no mass, and is an idea?",
+      [
+        "idea"
+      ],
+      "Conceptual thought"
+    ],
+    [
+      "What has a size but no dimensions, and is a number?",
+      [
+        "number"
+      ],
+      "Mathematical value"
+    ],
+    [
+      "What has a length but no width, and is straight?",
+      [
+        "line"
+      ],
+      "In geometry"
+    ],
+    [
+      "What has a width but no length, and is a dot?",
+      [
+        "point"
+      ],
+      "In geometry"
+    ],
+    [
+      "What has a height but no depth, and is cast by light?",
+      [
+        "shadow"
+      ],
+      "Dark area"
+    ],
+    [
+      "What has a depth but no height, and is a well?",
+      [
+        "well"
+      ],
+      "In the ground"
+    ],
+    [
+      "What has a past but no future, and was yesterday?",
+      [
+        "yesterday"
+      ],
+      "The day before today"
+    ],
+    [
+      "What has a future but no past, and is tomorrow?",
+      [
+        "tomorrow"
+      ],
+      "The day after today"
+    ],
+    [
+      "What has a present but no time, and is a gift?",
+      [
+        "gift"
+      ],
+      "Given on occasions"
+    ],
+    [
+      "What has a history but no story, and is a book?",
+      [
+        "history book"
+      ],
+      "Contains facts"
+    ],
+    [
+      "What has a plot but no story, and is a cemetery?",
+      [
+        "cemetery"
+      ],
+      "Burial ground"
+    ],
+    [
+      "What has a character but no personality, and is a letter?",
+      [
+        "letter"
+      ],
+      "Alphabet symbol"
+    ],
+    [
+      "What has a word but no meaning, and is nonsense?",
+      [
+        "nonsense word"
+      ],
+      "Like 'supercalifragilistic'"
+    ],
+    [
+      "What has a sentence but no words, and is a prison term?",
+      [
+        "prison sentence"
+      ],
+      "Legal punishment"
+    ],
+    [
+      "What has a language but no speakers, and is code?",
+      [
+        "programming language"
+      ],
+      "Used by computers"
+    ],
+    [
+      "What has a code but no secrets, and is a zip code?",
+      [
+        "zip code"
+      ],
+      "Postal code"
+    ],
+    [
+      "What has a number but no quantity, and is a phone number?",
+      [
+        "phone number"
+      ],
+      "For calling"
+    ],
+    [
+      "What has a date but no calendar, and is a fruit?",
+      [
+        "date"
+      ],
+      "Sweet fruit"
+    ],
+    [
+      "What has a time but no clock, and is a lifetime?",
+      [
+        "lifetime"
+      ],
+      "Duration of life"
+    ],
+    [
+      "What has a season but no weather, and is a TV show?",
+      [
+        "TV season"
+      ],
+      "Series of episodes"
+    ],
+    [
+      "What has a period but no time, and ends a sentence?",
+      [
+        "period"
+      ],
+      "Punctuation mark"
+    ],
+    [
+      "What has a comma but no pause, and is a butterfly?",
+      [
+        "comma butterfly"
+      ],
+      "An insect"
+    ],
+    [
+      "What has a colon but no intestines, and is punctuation?",
+      [
+        "colon"
+      ],
+      "Punctuation mark"
+    ],
+    [
+      "What has a question but no answer, and is a riddle?",
+      [
+        "riddle"
+      ],
+      "Puzzling question"
+    ],
+    [
+      "What has an answer but no question, and is 42?",
+      [
+        "42"
+      ],
+      "From Hitchhiker's Guide"
+    ],
+    [
+      "What has a solution but no problem, and is chemical?",
+      [
+        "solution"
+      ],
+      "In chemistry"
+    ],
+    [
+      "What has a problem but no solution, and is math?",
+      [
+        "math problem"
+      ],
+      "In a textbook"
+    ],
+    [
+      "What has a mystery but no clues, and is a novel?",
+      [
+        "mystery novel"
+      ],
+      "Book genre"
+    ],
+    [
+      "What has a secret but no knowledge, and is an agent?",
+      [
+        "secret agent"
+      ],
+      "Spy"
+    ],
+    [
+      "What has a clue but no mystery, and is a board game?",
+      [
+        "Clue"
+      ],
+      "Detective game"
+    ],
+    [
+      "What has a game but no players, and is theory?",
+      [
+        "game theory"
+      ],
+      "Mathematical study"
+    ],
+    [
+      "What has a player but no game, and plays records?",
+      [
+        "record player"
+      ],
+      "Plays vinyl"
+    ],
+    [
+      "What has a team but no players, and is spirit?",
+      [
+        "team spirit"
+      ],
+      "Group morale"
+    ],
+    [
+      "What has a coach but no team, and is a carriage?",
+      [
+        "stagecoach"
+      ],
+      "Historical transport"
+    ],
+    [
+      "What has a field but no grass, and is magnetic?",
+      [
+        "magnetic field"
+      ],
+      "Physical force"
+    ],
+    [
+      "What has a track but no train, and is for racing?",
+      [
+        "race track"
+      ],
+      "For cars or runners"
+    ],
+    [
+      "What has a station but no trains, and is for police?",
+      [
+        "police station"
+      ],
+      "Law enforcement base"
+    ],
+    [
+      "What has a road but no cars, and is a map?",
+      [
+        "road map"
+      ],
+      "For navigation"
+    ],
+    [
+      "What has a street but no address, and is Wall Street?",
+      [
+        "Wall Street"
+      ],
+      "Financial district"
+    ],
+    [
+      "What has an address but no location, and is a URL?",
+      [
+        "web address"
+      ],
+      "Internet location"
+    ],
+    [
+      "What has a location but no place, and is GPS?",
+      [
+        "GPS location"
+      ],
+      "Coordinates"
+    ],
+    [
+      "What has a place but no space, and is first place?",
+      [
+        "first place"
+      ],
+      "Winning position"
+    ],
+    [
+      "What has a space but no room, and is outer space?",
+      [
+        "outer space"
+      ],
+      "The cosmos"
+    ],
+    [
+      "What has a room but no doors, and is a mushroom?",
+      [
+        "mushroom"
+      ],
+      "A fungus"
+    ],
+    [
+      "What has a door but no room?",
+      [
+        "trapdoor"
+      ],
+      "Hidden entrance"
+    ],
+    [
+      "What has a window but no view?",
+      [
+        "computer window"
+      ],
+      "On a screen"
+    ],
+    [
+      "What has a view but no window, and is an opinion?",
+      [
+        "point of view"
+      ],
+      "Perspective"
+    ],
+    [
+      "What has a perspective but no view, and is in art?",
+      [
+        "perspective"
+      ],
+      "Drawing technique"
+    ],
+    [
+      "What has a frame but no picture, and is a time frame?",
+      [
+        "time frame"
+      ],
+      "Duration"
+    ],
+    [
+      "What has a picture but no frame, and is mental?",
+      [
+        "mental picture"
+      ],
+      "Imagination"
+    ],
+    [
+      "What has an image but no form, and is digital?",
+      [
+        "digital image"
+      ],
+      "On a device"
+    ],
+    [
+      "What has a form but no shape, and is a document?",
+      [
+        "form"
+      ],
+      "To fill out"
+    ],
+    [
+      "What has a shape but no form, and is geometric?",
+      [
+        "geometric shape"
+      ],
+      "Circle, square, etc."
+    ],
+    [
+      "What has a state but no people, and is matter?",
+      [
+        "state of matter"
+      ],
+      "Solid, liquid, gas"
+    ],
+    [
+      "What has a country but no citizens, and is the countryside?",
+      [
+        "country"
+      ],
+      "Rural area"
+    ],
+    [
+      "What has a city but no buildings, and is a circuit?",
+      [
+        "integrated circuit"
+      ],
+      "In electronics"
+    ],
+    [
+      "What has a town but no residents, and is on a clock?",
+      [
+        "town"
+      ],
+      "As in '12 o'clock town'"
+    ],
+    [
+      "What has a village but no people, and is green?",
+      [
+        "village green"
+      ],
+      "Common area"
+    ],
+    [
+      "What has a house but no residents, and is of cards?",
+      [
+        "house of cards"
+      ],
+      "Unstable structure"
+    ],
+    [
+      "What has a home but no family, and is a homepage?",
+      [
+        "homepage"
+      ],
+      "Website main page"
+    ],
+    [
+      "What has a family but no relatives, and is in math?",
+      [
+        "family of curves"
+      ],
+      "In mathematics"
+    ],
+    [
+      "What has a tree but no leaves, and is a family tree?",
+      [
+        "family tree"
+      ],
+      "Genealogy chart"
+    ],
+    [
+      "What has a root but no plant, and is in math?",
+      [
+        "square root"
+      ],
+      "Mathematical operation"
+    ],
+    [
+      "What has a branch but no tree, and is of government?",
+      [
+        "branch of government"
+      ],
+      "Executive, legislative, judicial"
+    ],
+    [
+      "What has a leaf but no tree, and is in a book?",
+      [
+        "leaf"
+      ],
+      "Page in a book"
+    ],
+    [
+      "What has a stem but no flower, and is in grammar?",
+      [
+        "word stem"
+      ],
+      "Root of a word"
+    ],
+    [
+      "What has a flower but no petals, and is in cooking?",
+      [
+        "cauliflower"
+      ],
+      "A vegetable"
+    ],
+    [
+      "What has a fruit but no seeds, and is a banana?",
+      [
+        "banana"
+      ],
+      "Yellow fruit"
+    ],
+    [
+      "What has a seed but no plant, and is in a database?",
+      [
+        "seed data"
+      ],
+      "Initial data"
+    ],
+    [
+      "What has a plant but no growth, and is a factory?",
+      [
+        "manufacturing plant"
+      ],
+      "Industrial facility"
+    ],
+    [
+      "What has a factory but no workers, and is a dream?",
+      [
+        "dream factory"
+      ],
+      "Hollywood"
+    ],
+    [
+      "What has a dream but no sleep, and is an aspiration?",
+      [
+        "dream"
+      ],
+      "Goal or ambition"
+    ],
+    [
+      "What has a sleep but no bed, and is eternal?",
+      [
+        "eternal sleep"
+      ],
+      "Death"
+    ],
+    [
+      "What has a death but no life, and is a date?",
+      [
+        "death date"
+      ],
+      "Date of passing"
+    ],
+    [
+      "What has a life but no breath, and is a battery?",
+      [
+        "battery life"
+      ],
+      "Duration of charge"
+    ],
+    [
+      "What has a breath but no air, and is a pause?",
+      [
+        "breath"
+      ],
+      "As in 'take a breath'"
+    ],
+    [
+      "What has air but no atmosphere, and is a tune?",
+      [
+        "air"
+      ],
+      "Melody or song"
+    ],
+    [
+      "What has an atmosphere but no air, and is a mood?",
+      [
+        "atmosphere"
+      ],
+      "Ambience or feeling"
+    ],
+    [
+      "What has a mood but no emotion, and is in grammar?",
+      [
+        "grammatical mood"
+      ],
+      "Indicative, imperative, etc."
+    ],
+    [
+      "What has an emotion but no feeling, and is a meme?",
+      [
+        "emoticon"
+      ],
+      "Digital expression"
+    ],
+    [
+      "What has a feeling but no touch, and is intuition?",
+      [
+        "feeling"
+      ],
+      "Gut sense"
+    ],
+    [
+      "What has a touch but no contact, and is a screen?",
+      [
+        "touch screen"
+      ],
+      "On devices"
+    ],
+    [
+      "What has contact but no touch, and is a lens?",
+      [
+        "contact lens"
+      ],
+      "For vision"
+    ],
+    [
+      "What has a lens but no camera, and is in the eye?",
+      [
+        "eye lens"
+      ],
+      "Part of the eye"
+    ],
+    [
+      "What has a camera but no film, and is digital?",
+      [
+        "digital camera"
+      ],
+      "Takes photos"
+    ],
+    [
+      "What has a film but no movie, and is thin layer?",
+      [
+        "film"
+      ],
+      "Thin coating"
+    ],
+    [
+      "What has a movie but no theater, and is a film?",
+      [
+        "movie"
+      ],
+      "Motion picture"
+    ],
+    [
+      "What has a theater but no stage, and is of war?",
+      [
+        "theater of war"
+      ],
+      "Battle area"
+    ],
+    [
+      "What has a stage but no actors, and is a phase?",
+      [
+        "stage"
+      ],
+      "Developmental phase"
+    ],
+    [
+      "What has actors but no play, and is in a network?",
+      [
+        "actors"
+      ],
+      "In a social network"
+    ],
+    [
+      "What has a play but no fun, and is in sports?",
+      [
+        "play"
+      ],
+      "In football or theater"
+    ],
+    [
+      "What has fun but no enjoyment, and is a function?",
+      [
+        "function"
+      ],
+      "In programming"
+    ],
+    [
+      "What has enjoyment but no pleasure, and is a right?",
+      [
+        "enjoyment"
+      ],
+      "As in 'right to enjoyment'"
+    ],
+    [
+      "What has pleasure but no pain, and is a island?",
+      [
+        "Pleasure Island"
+      ],
+      "From Pinocchio"
+    ],
+    [
+      "What has pain but no hurt, and is French?",
+      [
+        "pain"
+      ],
+      "French for bread"
+    ],
+    [
+      "What has hurt but no injury, and is a feeling?",
+      [
+        "hurt"
+      ],
+      "Emotional pain"
+    ],
+    [
+      "What has an injury but no wound, and is to pride?",
+      [
+        "injury"
+      ],
+      "As in 'injury to pride'"
+    ],
+    [
+      "What has a wound but no cut, and is a clock?",
+      [
+        "wound clock"
+      ],
+      "Mechanical clock"
+    ],
+    [
+      "What has a cut but no knife, and is in film?",
+      [
+        "film cut"
+      ],
+      "Edit in a movie"
+    ],
+    [
+      "What has a knife but no blade?",
+      [
+        "paper knife"
+      ],
+      "Letter opener"
+    ],
+    [
+      "What has a blade but no knife, and is of grass?",
+      [
+        "blade of grass"
+      ],
+      "Single grass leaf"
+    ],
+    [
+      "What has grass but no lawn, and is marijuana?",
+      [
+        "grass"
+      ],
+      "Slang term"
+    ],
+    [
+      "What has a lawn but no grass, and is a tennis lawn?",
+      [
+        "lawn tennis"
+      ],
+      "Sport played on grass"
+    ],
+    [
+      "What has tennis but no net, and is elbow?",
+      [
+        "tennis elbow"
+      ],
+      "Medical condition"
+    ],
+    [
+      "What has a net but no tennis, and is safety?",
+      [
+        "safety net"
+      ],
+      "Protection"
+    ],
+    [
+      "What has safety but no security, and is pin?",
+      [
+        "safety pin"
+      ],
+      "Fastener"
+    ],
+    [
+      "What has security but no safety, and is social security?",
+      [
+        "social security"
+      ],
+      "Government program"
+    ],
+    [
+      "What has social but no society, and is a social?",
+      [
+        "social"
+      ],
+      "Event or gathering"
+    ],
+    [
+      "What has society but no people, and is high society?",
+      [
+        "high society"
+      ],
+      "Upper class"
+    ],
+    [
+      "What has class but no students, and is first class?",
+      [
+        "first class"
+      ],
+      "High quality or travel"
+    ],
+    [
+      "What has students but no school, and is of thought?",
+      [
+        "students of thought"
+      ],
+      "Followers of a philosophy"
+    ],
+    [
+      "What has a school but no teachers, and is of fish?",
+      [
+        "school of fish"
+      ],
+      "Group of fish"
+    ],
+    [
+      "What has teachers but no pupils, and is pets?",
+      [
+        "teachers' pets"
+      ],
+      "Favorite students"
+    ],
+    [
+      "What has pupils but no eyes, and are students?",
+      [
+        "pupils"
+      ],
+      "Learners in school"
+    ],
+    [
+      "What has eyes but no sight, and is a storm?",
+      [
+        "eye of the storm"
+      ],
+      "Center of a hurricane"
+    ],
+    [
+      "What has sight but no vision, and is a sight?",
+      [
+        "sight"
+      ],
+      "Something seen"
+    ],
+    [
+      "What has vision but no eyes, and is a dream?",
+      [
+        "vision"
+      ],
+      "Future aspiration"
+    ],
+    [
+      "What has a dream but no sleep, and is a goal?",
+      [
+        "dream"
+      ],
+      "Ambition"
+    ],
+    [
+      "What has sleep but no dreams, and is a mode?",
+      [
+        "sleep mode"
+      ],
+      "On electronic devices"
+    ],
+    [
+      "What has a bank but no money, a bed but never sleeps, and a mouth but never eats?",
+      [
+        "river"
+      ],
+      "A natural flowing watercourse"
+    ],
+    [
+      "I have a heart that doesn't beat, a mouth that doesn't speak, and a bed I never sleep in. What am I?",
+      [
+        "artichoke"
+      ],
+      "A edible thistle"
+    ],
+    [
+      "What has a face but no head, hands but no arms, and tells you the time?",
+      [
+        "clock"
+      ],
+      "Found on walls or wrists"
+    ],
+    [
+      "What has a head and a tail but no body, and can flip but never somersault?",
+      [
+        "coin"
+      ],
+      "Used in decision-making"
+    ],
+    [
+      "What has a foot on each side but no legs, and points the way but never moves?",
+      [
+        "compass"
+      ],
+      "Navigation tool"
+    ],
+    [
+      "What has a ring but no finger, a number but no value, and can be answered but never asks?",
+      [
+        "phone"
+      ],
+      "Communication device"
+    ],
+    [
+      "What has keys but no locks, space but no room, and can enter but never leave?",
+      [
+        "keyboard"
+      ],
+      "Computer peripheral"
+    ],
+    [
+      "What has a screen but doesn't show movies, a button but no shirt, and rings but isn't a bell?",
+      [
+        "smartphone"
+      ],
+      "Modern communication device"
+    ],
+    [
+      "What has a page but no words, a link but no chain, and is visited but never traveled to?",
+      [
+        "website"
+      ],
+      "Digital destination"
+    ],
+    [
+      "What has a light but no bulb, a fly but no wings, and glows but doesn't produce heat?",
+      [
+        "firefly"
+      ],
+      "Bioluminescent insect"
+    ],
+    [
+      "What has a wing but no feathers, a flight but no pilot, and a building but no doors?",
+      [
+        "airplane wing"
+      ],
+      "Aircraft component"
+    ],
+    [
+      "What has a tooth but no mouth, a chain but no links, and cuts but never sharpens?",
+      [
+        "saw"
+      ],
+      "Cutting tool"
+    ],
+    [
+      "What has a face but no expression, a number but no quantity, and hands but no fingers?",
+      [
+        "clock"
+      ],
+      "Time-telling device"
+    ],
+    [
+      "What has a leg but no foot, a seat but no cushion, and can be folded but never bent?",
+      [
+        "tripod"
+      ],
+      "Camera support"
+    ],
+    [
+      "What has a needle but doesn't sew, a north but no south, and points but doesn't judge?",
+      [
+        "compass"
+      ],
+      "Direction-finding instrument"
+    ],
+    [
+      "What has a crown but no ruler, a root but no plant, and can be pulled but never pushed?",
+      [
+        "tooth"
+      ],
+      "Part of your mouth"
+    ],
+    [
+      "What has a wave but no water, a part but no whole, and can be permanent but never temporary?",
+      [
+        "hair"
+      ],
+      "On your head"
+    ],
+    [
+      "What has a note but no music, a value but no worth, and can be spent but never saved?",
+      [
+        "banknote"
+      ],
+      "Paper currency"
+    ],
+    [
+      "What has a stamp but no envelope, a address but no location, and can be sent but never received?",
+      [
+        "postage stamp"
+      ],
+      "Mail accessory"
+    ],
+    [
+      "What has a date but no calendar, a stone but no rock, and can be eaten but never cooked?",
+      [
+        "date fruit"
+      ],
+      "Sweet fruit"
+    ],
+    [
+      "What has a time but no clock, a limit but no boundary, and can be saved but never spent?",
+      [
+        "daylight saving time"
+      ],
+      "Seasonal time adjustment"
+    ],
+    [
+      "What has a second but no minute, a hand but no arm, and can be stopped but never started?",
+      [
+        "stopwatch"
+      ],
+      "Timing device"
+    ],
+    [
+      "What has a minute but no hour, a record but no music, and can be kept but never played?",
+      [
+        "meeting minutes"
+      ],
+      "Official notes"
+    ],
+    [
+      "What has an hour but no time, a glass but no window, and can be turned but never flipped?",
+      [
+        "hourglass"
+      ],
+      "Time-measuring device"
+    ],
+    [
+      "What has a day but no night, a light but no bulb, and can be saved but never lost?",
+      [
+        "day"
+      ],
+      "24-hour period"
+    ],
+    [
+      "What has a night but no day, a vision but no eyes, and can be mare but never horse?",
+      [
+        "nightmare"
+      ],
+      "Bad dream"
+    ],
+    [
+      "What has a dream but no sleep, a job but no work, and can be achieved but never completed?",
+      [
+        "american dream"
+      ],
+      "Cultural ideal"
+    ],
+    [
+      "What has a sleep but no bed, a mode but no setting, and can be activated but never deactivated?",
+      [
+        "computer sleep mode"
+      ],
+      "Power-saving state"
+    ],
+    [
+      "What has a bed but no bedroom, a river but no water, and can be made but never slept in?",
+      [
+        "flowerbed"
+      ],
+      "Garden feature"
+    ],
+    [
+      "What has a room but no walls, a chat but no talking, and can be joined but never entered?",
+      [
+        "chat room"
+      ],
+      "Online space"
+    ],
+    [
+      "What has a wall but no bricks, a post but no mail, and can be liked but never loved?",
+      [
+        "social media wall"
+      ],
+      "Online profile feature"
+    ],
+    [
+      "What has a post but no office, a date but no calendar, and can be shared but never kept?",
+      [
+        "social media post"
+      ],
+      "Online content"
+    ],
+    [
+      "What has a share but no stock, a button but no shirt, and can be clicked but never pressed?",
+      [
+        "social media share button"
+      ],
+      "Online interaction"
+    ],
+    [
+      "What has a like but no dislike, a heart but no organ, and can be given but never received?",
+      [
+        "social media like"
+      ],
+      "Online approval"
+    ],
+    [
+      "What has a heart but no beat, a follow but no leader, and can be broken but never fixed?",
+      [
+        "social media heart"
+      ],
+      "Digital symbol"
+    ],
+    [
+      "What has a cloud but no weather, a storage but no warehouse, and can be accessed but never touched?",
+      [
+        "cloud storage"
+      ],
+      "Digital data storage"
+    ],
+    [
+      "What has a rain but no water, a bow but no arrow, and can be seen but never felt?",
+      [
+        "color spectrum"
+      ],
+      "ROYGBIV"
+    ],
+    [
+      "What has a bow but no violin, a tie but no suit, and can be wrapped but never worn?",
+      [
+        "gift bow"
+      ],
+      "Decoration"
+    ],
+    [
+      "What has a gift but no giver, a card but no game, and can be present but never future?",
+      [
+        "natural gift"
+      ],
+      "Talent or ability"
+    ],
+    [
+      "What has a present but no past, a tense but no stress, and can be perfect but never flawed?",
+      [
+        "grammatical present tense"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a past but no history, a participle but no verb, and can be perfect but never complete?",
+      [
+        "grammatical past tense"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a future but no time, a tense but no anxiety, and can be continuous but never broken?",
+      [
+        "grammatical future tense"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a tense but no stress, a mood but no emotion, and can be subjunctive but never certain?",
+      [
+        "grammatical mood"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a voice but no sound, a passive but no aggressive, and can be heard but never listened to?",
+      [
+        "grammatical voice"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a case but no court, a nominative but no judge, and can be objective but never subjective?",
+      [
+        "grammatical case"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a number but no quantity, a singular but no plural, and can be counted but never measured?",
+      [
+        "grammatical number"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a gender but no sex, a masculine but no male, and can be feminine but never female?",
+      [
+        "grammatical gender"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a person but no body, a first but no second, and can be third but never fourth?",
+      [
+        "grammatical person"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a degree but no university, a comparative but no comparison, and can be superlative but never average?",
+      [
+        "grammatical degree"
+      ],
+      "Language concept"
+    ],
+    [
+      "What has a figure but no shape, a speech but no talking, and can be of speech but never silent?",
+      [
+        "figure of speech"
+      ],
+      "Rhetorical device"
+    ],
+    [
+      "What has a metaphor but no comparison, a simile but no like, and can be literal but never figurative?",
+      [
+        "literal language"
+      ],
+      "Direct meaning"
+    ],
+    [
+      "What has a hyperbole but no exaggeration, a irony but no sarcasm, and can be understated but never overrated?",
+      [
+        "understatement"
+      ],
+      "Rhetorical device"
+    ],
+    [
+      "What has a oxymoron but no contradiction, a paradox but no puzzle, and can be true but never false?",
+      [
+        "apparent paradox"
+      ],
+      "Seeming contradiction"
+    ],
+    [
+      "What has a pun but no joke, a word but no meaning, and can be played but never enjoyed?",
+      [
+        "wordplay"
+      ],
+      "Verbal humor"
+    ],
+    [
+      "What has a rhyme but no reason, a scheme but no plot, and can be free but never expensive?",
+      [
+        "free verse"
+      ],
+      "Poetic form"
+    ],
+    [
+      "What has a meter but no measurement, a foot but no shoe, and can be iambic but never trochaic?",
+      [
+        "poetic meter"
+      ],
+      "Poetry rhythm"
+    ],
+    [
+      "What has a stanza but no room, a verse but no bible, and can be couplet but never single?",
+      [
+        "poetic stanza"
+      ],
+      "Poetry division"
+    ],
+    [
+      "What has a line but no end, a break but no repair, and can be enjambed but never broken?",
+      [
+        "poetic line"
+      ],
+      "Verse element"
+    ],
+    [
+      "What has a rhythm but no music, a beat but no drum, and can be scanned but never played?",
+      [
+        "poetic rhythm"
+      ],
+      "Verse pattern"
+    ],
+    [
+      "What has a theme but no party, a motif but no pattern, and can be developed but never completed?",
+      [
+        "literary theme"
+      ],
+      "Story message"
+    ],
+    [
+      "What has a plot but no land, a twist but no turn, and can be thickened but never thinned?",
+      [
+        "story plot"
+      ],
+      "Narrative structure"
+    ],
+    [
+      "What has a character but no personality, a development but no growth, and can be round but never flat?",
+      [
+        "literary character"
+      ],
+      "Story person"
+    ],
+    [
+      "What has a setting but no environment, a time but no clock, and can be established but never built?",
+      [
+        "story setting"
+      ],
+      "Narrative context"
+    ],
+    [
+      "What has a conflict but no fight, a resolution but no solution, and can be internal but never external?",
+      [
+        "internal conflict"
+      ],
+      "Character struggle"
+    ],
+    [
+      "What has a point of view but no opinion, a perspective but no view, and can be first-person but never second-person?",
+      [
+        "narrative perspective"
+      ],
+      "Story viewpoint"
+    ],
+    [
+      "What has a tone but no sound, a mood but no emotion, and can be set but never heard?",
+      [
+        "literary tone"
+      ],
+      "Author's attitude"
+    ],
+    [
+      "What has a style but no fashion, a voice but no sound, and can be unique but never copied?",
+      [
+        "authorial voice"
+      ],
+      "Writer's distinctive style"
+    ],
+    [
+      "What has a symbol but no meaning, a imagery but no images, and can be interpreted but never seen?",
+      [
+        "literary symbol"
+      ],
+      "Representative object"
+    ],
+    [
+      "What has a allegory but no story, a parable but no lesson, and can be understood but never explained?",
+      [
+        "extended metaphor"
+      ],
+      "Literary device"
+    ],
+    [
+      "What has a allusion but no reference, a echo but no sound, and can be literary but never audible?",
+      [
+        "literary allusion"
+      ],
+      "Indirect reference"
+    ],
+    [
+      "What has a irony but no sarcasm, a dramatic but no theater, and can be situational but never verbal?",
+      [
+        "situational irony"
+      ],
+      "Unexpected outcome"
+    ],
+    [
+      "What has a foreshadowing but no shadow, a hint but no clue, and can be planted but never grown?",
+      [
+        "narrative foreshadowing"
+      ],
+      "Story warning"
+    ],
+    [
+      "What has a flashback but no memory, a forward but no future, and can be written but never experienced?",
+      [
+        "narrative device"
+      ],
+      "Story technique"
+    ],
+    [
+      "What has a climax but no excitement, a resolution but no solution, and can be reached but never surpassed?",
+      [
+        "story climax"
+      ],
+      "Narrative peak"
+    ],
+    [
+      "What has a denouement but no untying, a ending but no beginning, and can be satisfying but never complete?",
+      [
+        "story conclusion"
+      ],
+      "Narrative resolution"
+    ],
+    [
+      "What has a genre but no category, a type but no kind, and can be classified but never defined?",
+      [
+        "literary genre"
+      ],
+      "Writing category"
+    ],
+    [
+      "What has a fiction but no lies, a non-fiction but no truth, and can be creative but never factual?",
+      [
+        "creative non-fiction"
+      ],
+      "Literary genre"
+    ],
+    [
+      "What has a poetry but no poems, a prose but no sentences, and can be written but never spoken?",
+      [
+        "experimental literature"
+      ],
+      "Avant-garde writing"
+    ],
+    [
+      "What has a drama but no theater, a tragedy but no sadness, and can be performed but never watched?",
+      [
+        "closet drama"
+      ],
+      "Play meant to be read"
+    ],
+    [
+      "What has a comedy but no humor, a farce but no exaggeration, and can be dark but never light?",
+      [
+        "dark comedy"
+      ],
+      "Humorous treatment of serious subjects"
+    ],
+    [
+      "What has a mystery but no solution, a thriller but no excitement, and can be solved but never resolved?",
+      [
+        "unsolved mystery"
+      ],
+      "Puzzling phenomenon"
+    ],
+    [
+      "What has a romance but no love, a relationship but no connection, and can be developed but never consummated?",
+      [
+        "literary romance"
+      ],
+      "Genre focusing on relationships"
+    ],
+    [
+      "What has a science fiction but no science, a fantasy but no magic, and can be speculative but never certain?",
+      [
+        "speculative fiction"
+      ],
+      "Genre exploring alternative realities"
+    ],
+    [
+      "What has a horror but no fear, a terror but no panic, and can be psychological but never physical?",
+      [
+        "psychological horror"
+      ],
+      "Genre focusing on mental terror"
+    ],
+    [
+      "What has a historical but no history, a fiction but no facts, and can be accurate but never true?",
+      [
+        "historical fiction"
+      ],
+      "Genre set in the past"
+    ],
+    [
+      "What has a biography but no life, a autobiography but no self, and can be written but never lived?",
+      [
+        "authorized biography"
+      ],
+      "Approved life story"
+    ],
+    [
+      "What has a memoir but no memories, a recollection but no remembrance, and can be personal but never private?",
+      [
+        "fictionalized memoir"
+      ],
+      "Partly invented life story"
+    ],
+    [
+      "What has a essay but no test, a thesis but no argument, and can be persuasive but never convincing?",
+      [
+        "personal essay"
+      ],
+      "Reflective writing"
+    ],
+    [
+      "What has a review but no criticism, a analysis but no examination, and can be critical but never negative?",
+      [
+        "positive review"
+      ],
+      "Favorable evaluation"
+    ],
+    [
+      "What has a criticism but no critique, a theory but no practice, and can be literary but never practical?",
+      [
+        "literary theory"
+      ],
+      "Analytical approach"
+    ],
+    [
+      "What has a deconstruction but no destruction, a construction but no building, and can be postmodern but never modern?",
+      [
+        "deconstructionism"
+      ],
+      "Philosophical approach"
+    ],
+    [
+      "What has a structuralism but no structure, a post-structuralism but no post, and can be analyzed but never understood?",
+      [
+        "post-structuralism"
+      ],
+      "Theoretical framework"
+    ],
+    [
+      "What has a feminism but no women, a Marxism but no Marx, and can be applied but never practiced?",
+      [
+        "literary feminism"
+      ],
+      "Critical approach"
+    ],
+    [
+      "What has a psychoanalysis but no psychology, a Freudian but no Freud, and can be interpreted but never diagnosed?",
+      [
+        "Freudian criticism"
+      ],
+      "Psychological analysis"
+    ],
+    [
+      "What has a reader-response but no reader, a theory but no practice, and can be subjective but never objective?",
+      [
+        "reader-response theory"
+      ],
+      "Literary criticism approach"
+    ],
+    [
+      "What has a new criticism but no criticism, a close reading but no reading, and can be formal but never informal?",
+      [
+        "New Criticism"
+      ],
+      "20th century critical movement"
+    ],
+    [
+      "What has a historicism but no history, a new historicism but no new history, and can be contextual but never textual?",
+      [
+        "New Historicism"
+      ],
+      "Critical approach"
+    ],
+    [
+      "What has a cultural studies but no culture, a materialism but no material, and can be studied but never learned?",
+      [
+        "cultural materialism"
+      ],
+      "Theoretical approach"
+    ],
+    [
+      "What has a postcolonialism but no colonies, a theory but no practice, and can be written but never spoken?",
+      [
+        "postcolonial theory"
+      ],
+      "Literary analysis approach"
+    ],
+    [
+      "What has a queer theory but no LGBTQ, a reading but no text, and can be subversive but never mainstream?",
+      [
+        "queer theory"
+      ],
+      "Critical approach"
+    ],
+    [
+      "What has a ecocriticism but no ecology, a green but no color, and can be environmental but never natural?",
+      [
+        "ecocriticism"
+      ],
+      "Literary and environmental study"
+    ],
+    [
+      "What has a narrative theory but no narratives, a discourse but no conversation, and can be analyzed but never told?",
+      [
+        "narratology"
+      ],
+      "Study of narrative structure"
+    ],
+    [
+      "What has a semiotics but no signs, a meaning but no significance, and can be decoded but never encoded?",
+      [
+        "semiotic theory"
+      ],
+      "Study of signs and symbols"
+    ],
+    [
+      "What has a intertextuality but no texts, a reference but no referral, and can be connected but never separated?",
+      [
+        "intertextuality"
+      ],
+      "Relationship between texts"
+    ],
+    [
+      "What has a authorship but no author, a death but no life, and can be proclaimed but never proven?",
+      [
+        "death of the author"
+      ],
+      "Critical concept"
+    ],
+    [
+      "What has a intentionality but no intention, a fallacy but no error, and can be avoided but never committed?",
+      [
+        "intentional fallacy"
+      ],
+      "Critical concept"
+    ],
+    [
+      "What has a affective but no effect, a fallacy but no mistake, and can be emotional but never logical?",
+      [
+        "affective fallacy"
+      ],
+      "Critical concept"
+    ],
+    [
+      "What has a hermeneutics but no interpretation, a circle but no shape, and can be entered but never exited?",
+      [
+        "hermeneutic circle"
+      ],
+      "Interpretive process"
+    ],
+    [
+      "What has a phenomenology but no phenomena, a consciousness but no awareness, and can be experienced but never described?",
+      [
+        "phenomenological criticism"
+      ],
+      "Reader-experience approach"
+    ],
+    [
+      "What has a reception theory but no reception, a aesthetics but no beauty, and can be responded to but never initiated?",
+      [
+        "reception theory"
+      ],
+      "Reader-focused approach"
+    ],
+    [
+      "What has a cognitive poetics but no cognition, a poetry but no poems, and can be processed but never created?",
+      [
+        "cognitive poetics"
+      ],
+      "Science-based literary approach"
+    ],
+    [
+      "What has a digital humanities but no digital, a humanities but no humans, and can be computed but never calculated?",
+      [
+        "digital humanities"
+      ],
+      "Technology-enhanced literary study"
+    ],
+    [
+      "What has a book but no pages, a history but no past, and can be burned but never read?",
+      [
+        "ebook"
+      ],
+      "Digital publication"
+    ],
+    [
+      "What has a library but no books, a database but no data, and can be accessed but never visited?",
+      [
+        "digital library"
+      ],
+      "Online collection"
+    ],
+    [
+      "What has a archive but no documents, a special collections but no special items, and can be preserved but never used?",
+      [
+        "digital archive"
+      ],
+      "Online repository"
+    ],
+    [
+      "What has a manuscript but no handwriting, a codex but no pages, and can be illuminated but never lit?",
+      [
+        "digital manuscript"
+      ],
+      "Electronic document"
+    ],
+    [
+      "What has a edition but no printing, a variorum but no variants, and can be critical but never criticized?",
+      [
+        "digital critical edition"
+      ],
+      "Electronic scholarly text"
+    ],
+    [
+      "What has a text but no words, a encoding but no codes, and can be marked up but never written on?",
+      [
+        "encoded text"
+      ],
+      "Digitally annotated content"
+    ],
+    [
+      "What has a metadata but no data, a description but no content, and can be harvested but never planted?",
+      [
+        "descriptive metadata"
+      ],
+      "Information about information"
+    ],
+    [
+      "What has a preservation but no saving, a migration but no movement, and can be digital but never physical?",
+      [
+        "digital preservation"
+      ],
+      "Long-term data storage"
+    ],
+    [
+      "What has a curation but no museum, a exhibition but no display, and can be virtual but never real?",
+      [
+        "digital curation"
+      ],
+      "Online collection management"
+    ],
+    [
+      "What has a scholarship but no scholars, an open access but no access, and can be digital but never analog?",
+      [
+        "digital scholarship"
+      ],
+      "Technology-enhanced research"
+    ],
+    [
+      "The more you take, the more you leave behind. What am I?",
+      [
+        "footsteps",
+        "steps"
+      ],
+      "Related to walking"
+    ],
+    [
+      "What can you catch but not throw?",
+      [
+        "cold",
+        "a cold"
+      ],
+      "Common illness"
+    ],
+    [
+      "What has a head, a tail, but no body?",
+      [
+        "coin",
+        "coins"
+      ],
+      "Used as money"
+    ]
+  ]
+}
