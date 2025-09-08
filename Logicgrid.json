@@ -1,0 +1,151 @@
+{
+  "puzzles": [
+    {
+      "id": 1,
+      "title": "The Breakfast Club",
+      "categories": {
+        "Person": ["Sarah", "John", "Emily", "Mike"],
+        "Food": ["Pancakes", "Omelette", "Cereal", "Toast"],
+        "Drink": ["Coffee", "Juice", "Tea", "Milk"]
+      },
+      "clues": [
+        "Sarah doesn't drink coffee",
+        "The omelette eater drinks juice",
+        "Mike is sitting next to the cereal eater",
+        "The toast eater doesn't drink tea"
+      ],
+      "solution": {
+        "Sarah": {"Food": "Cereal", "Drink": "Milk"},
+        "John": {"Food": "Toast", "Drink": "Coffee"},
+        "Emily": {"Food": "Omelette", "Drink": "Juice"},
+        "Mike": {"Food": "Pancakes", "Drink": "Tea"}
+      }
+    },
+    {
+      "id": 2,
+      "title": "Library Books",
+      "categories": {
+        "Student": ["Alex", "Maria", "David", "Lisa"],
+        "Book Genre": ["Mystery", "Science", "History", "Fantasy"],
+        "Due Date": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      "clues": [
+        "Alex's book is due on Tuesday",
+        "The mystery book is due before the science book",
+        "Maria doesn't like fantasy books",
+        "David's book is due the day after Lisa's"
+      ],
+      "solution": {
+        "Alex": {"Book Genre": "History", "Due Date": "Tuesday"},
+        "Maria": {"Book Genre": "Science", "Due Date": "Wednesday"},
+        "David": {"Book Genre": "Fantasy", "Due Date": "Thursday"},
+        "Lisa": {"Book Genre": "Mystery", "Due Date": "Monday"}
+      }
+    },
+    {
+      "id": 3,
+      "title": "Office Workers",
+      "categories": {
+        "Employee": ["Mr. Smith", "Ms. Johnson", "Mr. Brown", "Ms. Davis"],
+        "Department": ["Accounting", "Marketing", "IT", "HR"],
+        "Floor": ["1st", "2nd", "3rd", "4th"]
+      },
+      "clues": [
+        "Mr. Smith works on a higher floor than Ms. Johnson",
+        "The IT department is on the 3rd floor",
+        "Ms. Davis doesn't work in Accounting",
+        "Marketing is one floor below HR"
+      ],
+      "solution": {
+        "Mr. Smith": {"Department": "HR", "Floor": "4th"},
+        "Ms. Johnson": {"Department": "Accounting", "Floor": "1st"},
+        "Mr. Brown": {"Department": "IT", "Floor": "3rd"},
+        "Ms. Davis": {"Department": "Marketing", "Floor": "2nd"}
+      }
+    },
+    {
+      "id": 4,
+      "title": "Sports Tournament",
+      "categories": {
+        "Team": ["Lions", "Tigers", "Bears", "Wolves"],
+        "Sport": ["Soccer", "Basketball", "Volleyball", "Tennis"],
+        "Position": ["1st", "2nd", "3rd", "4th"]
+      },
+      "clues": [
+        "The volleyball team finished better than the soccer team",
+        "Tigers didn't get 1st or 4th place",
+        "Bears played basketball",
+        "Wolves finished immediately after Lions"
+      ],
+      "solution": {
+        "Lions": {"Sport": "Soccer", "Position": "3rd"},
+        "Tigers": {"Sport": "Volleyball", "Position": "2nd"},
+        "Bears": {"Sport": "Basketball", "Position": "1st"},
+        "Wolves": {"Sport": "Tennis", "Position": "4th"}
+      }
+    },
+    {
+      "id": 5,
+      "title": "Music Band",
+      "categories": {
+        "Musician": ["John", "Paul", "George", "Ringo"],
+        "Instrument": ["Guitar", "Bass", "Drums", "Keyboard"],
+        "Age": ["25", "28", "31", "34"]
+      },
+      "clues": [
+        "The drummer is older than the guitarist",
+        "Paul doesn't play bass",
+        "John is younger than George",
+        "The keyboard player is 28 years old"
+      ],
+      "solution": {
+        "John": {"Instrument": "Bass", "Age": "25"},
+        "Paul": {"Instrument": "Guitar", "Age": "31"},
+        "George": {"Instrument": "Keyboard", "Age": "28"},
+        "Ringo": {"Instrument": "Drums", "Age": "34"}
+      }
+    },
+    {
+      "id": 6,
+      "title": "Fruit Market",
+      "categories": {
+        "Customer": ["Alice", "Bob", "Carol", "Dave"],
+        "Fruit": ["Apples", "Bananas", "Oranges", "Grapes"],
+        "Weight": ["1kg", "2kg", "3kg", "4kg"]
+      },
+      "clues": [
+        "Alice bought more than 2kg of fruit",
+        "Bob didn't buy bananas",
+        "The orange buyer got exactly 2kg",
+        "Carol bought less than Dave but more than Bob"
+      ],
+      "solution": {
+        "Alice": {"Fruit": "Grapes", "Weight": "3kg"},
+        "Bob": {"Fruit": "Apples", "Weight": "1kg"},
+        "Carol": {"Fruit": "Oranges", "Weight": "2kg"},
+        "Dave": {"Fruit": "Bananas", "Weight": "4kg"}
+      }
+    },
+    {
+      "id": 7,
+      "title": "Weather Forecast",
+      "categories": {
+        "Day": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "Weather": ["Sunny", "Rainy", "Cloudy", "Windy"],
+        "Temperature": ["20°C", "22°C", "24°C", "26°C"]
+      },
+      "clues": [
+        "Monday was warmer than Wednesday",
+        "The rainy day was 22°C",
+        "Thursday wasn't cloudy or windy",
+        "Sunny day was the warmest"
+      ],
+      "solution": {
+        "Monday": {"Weather": "Sunny", "Temperature": "26°C"},
+        "Tuesday": {"Weather": "Cloudy", "Temperature": "22°C"},
+        "Wednesday": {"Weather": "Windy", "Temperature": "20°C"},
+        "Thursday": {"Weather": "Rainy", "Temperature": "24°C"}
+      }
+    }
+  ]
+}
