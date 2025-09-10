@@ -15290,12 +15290,27 @@
     [
       "Which company created the first computer virus?",
       [
-        "none",
-        "not a company"
-      ],
-      "First virus was created by a student"
+        "None",
+        "No company",
+        "Bob Thomas"
+     ],
+      "Created in 1971"
     ],
     [
+      "Who created the first computer virus?",
+      [
+         "Bob Thomas"
+     ],
+      "Created at BBN Technologies in 1971"
+    ],
+    [
+      "What was the name of the first computer virus?",
+      [
+        "creeper"        
+     ],
+      "A non-malicious self-replicating program"
+    ],
+       [
       "Which technology is used for wireless internet?",
       [
         "wi fi",
