@@ -2236,11 +2236,13 @@
       "Gold, silver, bronze"
     ],
     [
-      "Which sport features the 'World Series of Poker'?",
+      "Which sport features the 'World Series of Card Game'?",
       [
-        "poker"
+        "poker",
+        "Scrabble Game",
+        "Bridge"
       ],
-      "Card game competition"
+      "World Championship"
     ],
     [
       "What is the weight of a men's Olympic hammer?",
