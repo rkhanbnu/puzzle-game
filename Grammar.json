@@ -1,0 +1,113 @@
+{
+  "regular": [
+    {
+      "wrong": "She don't like apples.",
+      "correct": "She doesn't like apples.",
+      "explanation": "Third person singular requires 'doesn't' instead of 'don't'"
+    },
+    {
+      "wrong": "They was happy yesterday.",
+      "correct": "They were happy yesterday.",
+      "explanation": "Plural subject 'they' requires 'were' not 'was'"
+    },
+    {
+      "wrong": "I am going to school tomorrow.",
+      "correct": "I will go to school tomorrow.",
+      "explanation": "Future intention requires 'will + base verb'"
+    },
+    {
+      "wrong": "He play football every day.",
+      "correct": "He plays football every day.",
+      "explanation": "Third person singular requires verb with -s"
+    },
+    {
+      "wrong": "We doesn't have time.",
+      "correct": "We don't have time.",
+      "explanation": "Plural subject 'we' requires 'don't' not 'doesn't'"
+    },
+    {
+      "wrong": "Where you are going?",
+      "correct": "Where are you going?",
+      "explanation": "Questions require inversion of subject and verb"
+    },
+    {
+      "wrong": "She can sings very well.",
+      "correct": "She can sing very well.",
+      "explanation": "Modal verbs are followed by base form of verb"
+    }
+  ],
+  "passive": [
+    {
+      "wrong": "The song was sing by her.",
+      "correct": "The song was sung by her.",
+      "explanation": "Passive voice requires past participle 'sung'"
+    },
+    {
+      "wrong": "The cake is being baked by Mary.",
+      "correct": "The cake is being baked by Mary.",
+      "explanation": "This sentence is already correct"
+    },
+    {
+      "wrong": "The letter was wrote by John.",
+      "correct": "The letter was written by John.",
+      "explanation": "Passive voice requires past participle 'written'"
+    },
+    {
+      "wrong": "The house is build by workers.",
+      "correct": "The house is built by workers.",
+      "explanation": "Passive voice requires past participle 'built'"
+    },
+    {
+      "wrong": "The news were reported by the journalist.",
+      "correct": "The news was reported by the journalist.",
+      "explanation": "Uncountable noun 'news' requires singular verb"
+    },
+    {
+      "wrong": "The children are being teach by a new teacher.",
+      "correct": "The children are being taught by a new teacher.",
+      "explanation": "Passive voice requires past participle 'taught'"
+    },
+    {
+      "wrong": "A new road is being build in our city.",
+      "correct": "A new road is being built in our city.",
+      "explanation": "Passive voice requires past participle 'built'"
+    }
+  ],
+  "indirect": [
+    {
+      "wrong": "She said that she is tired.",
+      "correct": "She said that she was tired.",
+      "explanation": "Indirect speech requires backshifting of tenses"
+    },
+    {
+      "wrong": "He told me that he will come tomorrow.",
+      "correct": "He told me that he would come the next day.",
+      "explanation": "Indirect speech requires backshifting and time adjustment"
+    },
+    {
+      "wrong": "They said that they have finished.",
+      "correct": "They said that they had finished.",
+      "explanation": "Indirect speech requires backshifting of present perfect to past perfect"
+    },
+    {
+      "wrong": "She asked me where I am going.",
+      "correct": "She asked me where I was going.",
+      "explanation": "Indirect speech requires backshifting of tenses"
+    },
+    {
+      "wrong": "He said that he can help us.",
+      "correct": "He said that he could help us.",
+      "explanation": "Indirect speech requires backshifting of modals"
+    },
+    {
+      "wrong": "She asked what time is it.",
+      "correct": "She asked what time it was.",
+      "explanation": "Indirect questions use statement word order"
+    },
+    {
+      "wrong": "He told me to I should study harder.",
+      "correct": "He told me that I should study harder.",
+      "explanation": "Indirect speech requires proper reporting structure"
+    }
+  ]
+}
