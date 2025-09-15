@@ -1,0 +1,1208 @@
+{
+    "regular": [
+        {
+            "wrong": "She don't like apples.",
+            "correct": "She doesn't like apples.",
+            "explanation": "Third person singular requires 'doesn't' instead of 'don't'"
+        },
+        {
+            "wrong": "They was happy yesterday.",
+            "correct": "They were happy yesterday.",
+            "explanation": "Plural subject 'they' requires 'were' not 'was'"
+        },
+        {
+            "wrong": "I am going to school tomorrow.",
+            "correct": "I will go to school tomorrow.",
+            "explanation": "Future intention requires 'will + base verb'"
+        },
+        {
+            "wrong": "She are my best friend.",
+            "correct": "She is my best friend.",
+            "explanation": "Singular subject 'she' requires 'is'."
+        },
+        {
+            "wrong": "I can sings very loud.",
+            "correct": "I can sing very loud.",
+            "explanation": "After modal verbs, use base verb without 's'."
+        },
+        {
+            "wrong": "The man have a new car.",
+            "correct": "The man has a new car.",
+            "explanation": "Third person singular requires 'has'."
+        },
+        {
+            "wrong": "He didn’t wrote the letter.",
+            "correct": "He didn’t write the letter.",
+            "explanation": "After 'didn’t,' use base form 'write'."
+        },
+        {
+            "wrong": "She is more taller than him.",
+            "correct": "She is taller than him.",
+            "explanation": "Do not use 'more' with comparative adjectives ending in -er."
+        },
+        {
+            "wrong": "We was in the park yesterday.",
+            "correct": "We were in the park yesterday.",
+            "explanation": "Plural subject 'we' requires 'were'."
+        },
+        {
+            "wrong": "The book are on the table.",
+            "correct": "The book is on the table.",
+            "explanation": "Singular subject 'book' requires 'is'."
+        },
+        {
+            "wrong": "I enjoys reading at night.",
+            "correct": "I enjoy reading at night.",
+            "explanation": "First person singular uses base verb, not verb + 's'."
+        },
+        {
+            "wrong": "They doesn’t want to leave.",
+            "correct": "They don’t want to leave.",
+            "explanation": "Plural subject 'they' requires 'don’t'."
+        },
+        {
+            "wrong": "He was go to the office.",
+            "correct": "He was going to the office.",
+            "explanation": "Past continuous tense requires 'was + verb-ing'."
+        },
+        {
+            "wrong": "She can able to solve it.",
+            "correct": "She can solve it.",
+            "explanation": "Do not combine 'can' with 'able'."
+        },
+        {
+            "wrong": "The milk are fresh.",
+            "correct": "The milk is fresh.",
+            "explanation": "Uncountable nouns take singular verbs."
+        },
+        {
+            "wrong": "I didn’t bought anything.",
+            "correct": "I didn’t buy anything.",
+            "explanation": "After 'didn’t,' use base form 'buy'."
+        },
+        {
+            "wrong": "He don’t knows her name.",
+            "correct": "He doesn’t know her name.",
+            "explanation": "Use 'doesn’t' with base form of verb."
+        },
+        {
+            "wrong": "They is playing football.",
+            "correct": "They are playing football.",
+            "explanation": "Plural subject 'they' requires 'are'."
+        },
+        {
+            "wrong": "The children was tired.",
+            "correct": "The children were tired.",
+            "explanation": "Plural subject 'children' requires 'were'."
+        },
+        {
+            "wrong": "She is good in dancing.",
+            "correct": "She is good at dancing.",
+            "explanation": "Correct preposition is 'at' not 'in'."
+        },
+        {
+            "wrong": "He has ate already.",
+            "correct": "He has eaten already.",
+            "explanation": "Past participle of 'eat' is 'eaten'."
+        },
+        {
+            "wrong": "We was very late.",
+            "correct": "We were very late.",
+            "explanation": "Plural subject 'we' requires 'were'."
+        },
+        {
+            "wrong": "She doesn’t likes tea.",
+            "correct": "She doesn’t like tea.",
+            "explanation": "Use base verb after 'doesn’t'."
+        },
+        {
+            "wrong": "He go to work by bus.",
+            "correct": "He goes to work by bus.",
+            "explanation": "Third person singular requires 'goes'."
+        },
+        {
+            "wrong": "I am knowing her well.",
+            "correct": "I know her well.",
+            "explanation": "Stative verbs like 'know' are not used in continuous form."
+        },
+        {
+            "wrong": "She don’t understand the question.",
+            "correct": "She doesn’t understand the question.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "We was playing chess.",
+            "correct": "We were playing chess.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "The teacher give us homework.",
+            "correct": "The teacher gives us homework.",
+            "explanation": "Third person singular requires verb + 's'."
+        },
+        {
+            "wrong": "I am agree with you.",
+            "correct": "I agree with you.",
+            "explanation": "Verb 'agree' is not used with 'am'."
+        },
+        {
+            "wrong": "They was late to school.",
+            "correct": "They were late to school.",
+            "explanation": "Plural subject 'they' requires 'were'."
+        },
+        {
+            "wrong": "She don’t sings well.",
+            "correct": "She doesn’t sing well.",
+            "explanation": "Use 'doesn’t' with base form 'sing'."
+        },
+        {
+            "wrong": "He is junior than me.",
+            "correct": "He is junior to me.",
+            "explanation": "Correct preposition after 'junior' is 'to'."
+        },
+        {
+            "wrong": "She has write a letter.",
+            "correct": "She has written a letter.",
+            "explanation": "Past participle of 'write' is 'written'."
+        },
+        {
+            "wrong": "We was watching TV.",
+            "correct": "We were watching TV.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "He have two sisters.",
+            "correct": "He has two sisters.",
+            "explanation": "Third person singular requires 'has'."
+        },
+        {
+            "wrong": "The news are shocking.",
+            "correct": "The news is shocking.",
+            "explanation": "'News' is an uncountable singular noun."
+        },
+        {
+            "wrong": "I didn’t went outside.",
+            "correct": "I didn’t go outside.",
+            "explanation": "After 'didn’t,' use base form 'go'."
+        },
+        {
+            "wrong": "She are very kind.",
+            "correct": "She is very kind.",
+            "explanation": "Singular subject 'she' requires 'is'."
+        },
+        {
+            "wrong": "They enjoys swimming.",
+            "correct": "They enjoy swimming.",
+            "explanation": "Plural subjects do not take verb + 's'."
+        },
+        {
+            "wrong": "He was marry with her.",
+            "correct": "He was married to her.",
+            "explanation": "Correct form is 'married to,' not 'marry with'."
+        },
+        {
+            "wrong": "She don’t like chocolate.",
+            "correct": "She doesn’t like chocolate.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "We was sitting outside.",
+            "correct": "We were sitting outside.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "I am hear the music.",
+            "correct": "I hear the music.",
+            "explanation": "Verb 'hear' is not used in continuous tense."
+        },
+        {
+            "wrong": "He has broke his phone.",
+            "correct": "He has broken his phone.",
+            "explanation": "Past participle of 'break' is 'broken'."
+        },
+        {
+            "wrong": "She doesn’t knows him.",
+            "correct": "She doesn’t know him.",
+            "explanation": "Use base verb after 'doesn’t'."
+        },
+        {
+            "wrong": "They was laughing loudly.",
+            "correct": "They were laughing loudly.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "He have finished his work.",
+            "correct": "He has finished his work.",
+            "explanation": "Third person singular requires 'has'."
+        },
+        {
+            "wrong": "The furniture are expensive.",
+            "correct": "The furniture is expensive.",
+            "explanation": "'Furniture' is an uncountable singular noun."
+        },
+        {
+            "wrong": "She was go to market.",
+            "correct": "She was going to market.",
+            "explanation": "Past continuous requires 'was + verb-ing'."
+        },
+        {
+            "wrong": "He don’t play the guitar.",
+            "correct": "He doesn’t play the guitar.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "We was studying together.",
+            "correct": "We were studying together.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She is senior than him.",
+            "correct": "She is senior to him.",
+            "explanation": "Correct preposition after 'senior' is 'to'."
+        },
+        {
+            "wrong": "I have ate already.",
+            "correct": "I have eaten already.",
+            "explanation": "Past participle of 'eat' is 'eaten'."
+        },
+        {
+            "wrong": "They was happy today.",
+            "correct": "They were happy today.",
+            "explanation": "Plural subject 'they' requires 'were'."
+        },
+        {
+            "wrong": "He doesn’t knows the way.",
+            "correct": "He doesn’t know the way.",
+            "explanation": "Use base verb after 'doesn’t'."
+        },
+        {
+            "wrong": "The water are cold.",
+            "correct": "The water is cold.",
+            "explanation": "Uncountable noun 'water' takes singular verb."
+        },
+        {
+            "wrong": "She do her homework daily.",
+            "correct": "She does her homework daily.",
+            "explanation": "Third person singular requires 'does'."
+        },
+        {
+            "wrong": "I am not agree with him.",
+            "correct": "I do not agree with him.",
+            "explanation": "Verb 'agree' is not used with 'am'."
+        },
+        {
+            "wrong": "They doesn’t work here.",
+            "correct": "They don’t work here.",
+            "explanation": "Plural subject requires 'don’t'."
+        },
+        {
+            "wrong": "He was go yesterday.",
+            "correct": "He went yesterday.",
+            "explanation": "Past tense of 'go' is 'went'."
+        },
+        {
+            "wrong": "We was invited to the party.",
+            "correct": "We were invited to the party.",
+            "explanation": "Plural subject 'we' requires 'were'."
+        },
+        {
+            "wrong": "She don’t wants to stay.",
+            "correct": "She doesn’t want to stay.",
+            "explanation": "Use 'doesn’t' with base form 'want'."
+        },
+        {
+            "wrong": "He has drink the juice.",
+            "correct": "He has drunk the juice.",
+            "explanation": "Past participle of 'drink' is 'drunk'."
+        },
+        {
+            "wrong": "They was not ready.",
+            "correct": "They were not ready.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She is interested on painting.",
+            "correct": "She is interested in painting.",
+            "explanation": "Correct preposition is 'in'."
+        },
+        {
+            "wrong": "The informations are helpful.",
+            "correct": "The information is helpful.",
+            "explanation": "'Information' is uncountable and singular."
+        },
+        {
+            "wrong": "He don’t believe me.",
+            "correct": "He doesn’t believe me.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "We was playing cards.",
+            "correct": "We were playing cards.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She can sings beautifully.",
+            "correct": "She can sing beautifully.",
+            "explanation": "After modal verbs, use base verb."
+        },
+        {
+            "wrong": "They doesn’t live here.",
+            "correct": "They don’t live here.",
+            "explanation": "Plural subject requires 'don’t'."
+        },
+        {
+            "wrong": "I am hear birds outside.",
+            "correct": "I hear birds outside.",
+            "explanation": "Verb 'hear' is not used in continuous form."
+        },
+        {
+            "wrong": "She has wrote a book.",
+            "correct": "She has written a book.",
+            "explanation": "Past participle of 'write' is 'written'."
+        },
+        {
+            "wrong": "The advice are useful.",
+            "correct": "The advice is useful.",
+            "explanation": "'Advice' is uncountable and singular."
+        },
+        {
+            "wrong": "He don’t remember the address.",
+            "correct": "He doesn’t remember the address.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "We was at home last night.",
+            "correct": "We were at home last night.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She is better then me.",
+            "correct": "She is better than me.",
+            "explanation": "Correct word is 'than' not 'then'."
+        },
+        {
+            "wrong": "He have a laptop.",
+            "correct": "He has a laptop.",
+            "explanation": "Third person singular requires 'has'."
+        },
+        {
+            "wrong": "They was talking loudly.",
+            "correct": "They were talking loudly.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She doesn’t likes music.",
+            "correct": "She doesn’t like music.",
+            "explanation": "Use base verb after 'doesn’t'."
+        },
+        {
+            "wrong": "He has did the work.",
+            "correct": "He has done the work.",
+            "explanation": "Past participle of 'do' is 'done'."
+        },
+        {
+            "wrong": "I am understand this topic.",
+            "correct": "I understand this topic.",
+            "explanation": "Verb 'understand' is not used with 'am'."
+        },
+        {
+            "wrong": "The luggage are heavy.",
+            "correct": "The luggage is heavy.",
+            "explanation": "'Luggage' is uncountable and singular."
+        },
+        {
+            "wrong": "He don’t needs help.",
+            "correct": "He doesn’t need help.",
+            "explanation": "Use 'doesn’t' with base verb."
+        },
+        {
+            "wrong": "We was going home.",
+            "correct": "We were going home.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She is good in math.",
+            "correct": "She is good at math.",
+            "explanation": "Correct preposition is 'at'."
+        },
+        {
+            "wrong": "He didn’t knew the answer.",
+            "correct": "He didn’t know the answer.",
+            "explanation": "After 'didn’t,' use base form 'know'."
+        },
+        {
+            "wrong": "They was enjoying the party.",
+            "correct": "They were enjoying the party.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "The police is coming.",
+            "correct": "The police are coming.",
+            "explanation": "'Police' is treated as plural."
+        },
+        {
+            "wrong": "She don’t wants to play.",
+            "correct": "She doesn’t want to play.",
+            "explanation": "Use 'doesn’t' with base verb 'want'."
+        },
+        {
+            "wrong": "He has saw the film.",
+            "correct": "He has seen the film.",
+            "explanation": "Past participle of 'see' is 'seen'."
+        },
+        {
+            "wrong": "We was talking to him.",
+            "correct": "We were talking to him.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She are very talented.",
+            "correct": "She is very talented.",
+            "explanation": "Singular subject 'she' requires 'is'."
+        },
+        {
+            "wrong": "The news are good.",
+            "correct": "The news is good.",
+            "explanation": "'News' is an uncountable singular noun."
+        },
+        {
+            "wrong": "He don’t thinks so.",
+            "correct": "He doesn’t think so.",
+            "explanation": "Use 'doesn’t' with base verb."
+        },
+        {
+            "wrong": "I am see the stars.",
+            "correct": "I see the stars.",
+            "explanation": "Verb 'see' is not used in continuous form."
+        },
+        {
+            "wrong": "He go to market every day.",
+            "correct": "He goes to market every day.",
+            "explanation": "Third person singular subjects require verb + 's'."
+        },
+        {
+            "wrong": "We was playing football.",
+            "correct": "We were playing football.",
+            "explanation": "Plural subject 'we' requires 'were' not 'was'."
+        },
+        {
+            "wrong": "She can sings very well.",
+            "correct": "She can sing very well.",
+            "explanation": "After modal verbs like 'can,' the base form of the verb is used."
+        },
+        {
+            "wrong": "I didn’t went to the park.",
+            "correct": "I didn’t go to the park.",
+            "explanation": "After 'didn't,' the base form of the verb is used."
+        },
+        {
+            "wrong": "They enjoys playing chess.",
+            "correct": "They enjoy playing chess.",
+            "explanation": "Plural subjects do not take verb + 's'."
+        },
+        {
+            "wrong": "He don’t knows the answer.",
+            "correct": "He doesn’t know the answer.",
+            "explanation": "Use 'doesn’t' with third person singular and base form of the verb."
+        },
+        {
+            "wrong": "She is smarter then him.",
+            "correct": "She is smarter than him.",
+            "explanation": "'Than' is the correct word for comparison, not 'then'."
+        },
+        {
+            "wrong": "I have ate my lunch.",
+            "correct": "I have eaten my lunch.",
+            "explanation": "Past participle of 'eat' is 'eaten' in perfect tenses."
+        },
+        {
+            "wrong": "There is many problems in this plan.",
+            "correct": "There are many problems in this plan.",
+            "explanation": "Plural nouns require 'are,' not 'is'."
+        },
+        {
+            "wrong": "He speak English very good.",
+            "correct": "He speaks English very well.",
+            "explanation": "Adverbs (well) describe verbs, while 'good' is an adjective."
+        },
+        {
+            "wrong": "They was happy yesterday.",
+            "correct": "They were happy yesterday.",
+            "explanation": "Plural subject 'they' requires 'were' not 'was'."
+        },
+        {
+            "wrong": "I am going to school tomorrow.",
+            "correct": "I will go to school tomorrow.",
+            "explanation": "Future intention requires 'will + base verb'."
+        },
+        {
+            "wrong": "He go to market every day.",
+            "correct": "He goes to market every day.",
+            "explanation": "Third person singular subjects require verb + 's'."
+        },
+        {
+            "wrong": "We was playing football.",
+            "correct": "We were playing football.",
+            "explanation": "Plural subject 'we' requires 'were' not 'was'."
+        },
+        {
+            "wrong": "She can sings very well.",
+            "correct": "She can sing very well.",
+            "explanation": "After modal verbs like 'can,' the base form of the verb is used."
+        },
+        {
+            "wrong": "I didn’t went to the park.",
+            "correct": "I didn’t go to the park.",
+            "explanation": "After 'didn't,' the base form of the verb is used."
+        },
+        {
+            "wrong": "They enjoys playing chess.",
+            "correct": "They enjoy playing chess.",
+            "explanation": "Plural subjects do not take verb + 's'."
+        },
+        {
+            "wrong": "He don’t knows the answer.",
+            "correct": "He doesn’t know the answer.",
+            "explanation": "Use 'doesn’t' with third person singular and base form of the verb."
+        },
+        {
+            "wrong": "She is smarter then him.",
+            "correct": "She is smarter than him.",
+            "explanation": "'Than' is the correct word for comparison, not 'then'."
+        },
+        {
+            "wrong": "I have ate my lunch.",
+            "correct": "I have eaten my lunch.",
+            "explanation": "Past participle of 'eat' is 'eaten' in perfect tenses."
+        },
+        {
+            "wrong": "There is many problems in this plan.",
+            "correct": "There are many problems in this plan.",
+            "explanation": "Plural nouns require 'are,' not 'is'."
+        },
+        {
+            "wrong": "He speak English very good.",
+            "correct": "He speaks English very well.",
+            "explanation": "Adverbs (well) describe verbs, while 'good' is an adjective."
+        },
+        {
+            "wrong": "She run fast yesterday.",
+            "correct": "She ran fast yesterday.",
+            "explanation": "Past tense of 'run' is 'ran'."
+        },
+        {
+            "wrong": "He has wrote a letter.",
+            "correct": "He has written a letter.",
+            "explanation": "Past participle of 'write' is 'written'."
+        },
+        {
+            "wrong": "I am agree with you.",
+            "correct": "I agree with you.",
+            "explanation": "'Agree' is a verb and does not need 'am'."
+        },
+        {
+            "wrong": "He go to school by bus.",
+            "correct": "He goes to school by bus.",
+            "explanation": "Third person singular requires 'goes'."
+        },
+        {
+            "wrong": "We was at the park last night.",
+            "correct": "We were at the park last night.",
+            "explanation": "Plural subject 'we' requires 'were'."
+        },
+        {
+            "wrong": "She don't wants to come.",
+            "correct": "She doesn’t want to come.",
+            "explanation": "Use 'doesn’t' with third person singular, verb remains base form."
+        },
+        {
+            "wrong": "He have a big house.",
+            "correct": "He has a big house.",
+            "explanation": "Third person singular requires 'has' not 'have'."
+        },
+        {
+            "wrong": "The teacher give us homework yesterday.",
+            "correct": "The teacher gave us homework yesterday.",
+            "explanation": "Past tense of 'give' is 'gave'."
+        },
+        {
+            "wrong": "I has two brothers.",
+            "correct": "I have two brothers.",
+            "explanation": "Subject 'I' takes 'have,' not 'has'."
+        },
+        {
+            "wrong": "She going to the market now.",
+            "correct": "She is going to the market now.",
+            "explanation": "Present continuous tense requires 'is/are + verb+ing'."
+        },
+        {
+            "wrong": "He don't like tea.",
+            "correct": "He doesn’t like tea.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "The dog bark loud.",
+            "correct": "The dog barks loudly.",
+            "explanation": "Adverbs describe verbs; use 'loudly'."
+        },
+        {
+            "wrong": "They was studying all night.",
+            "correct": "They were studying all night.",
+            "explanation": "'They' requires 'were'."
+        },
+        {
+            "wrong": "He can able to solve the problem.",
+            "correct": "He can solve the problem.",
+            "explanation": "Do not use 'can' and 'able' together."
+        },
+        {
+            "wrong": "I am go to the shop.",
+            "correct": "I am going to the shop.",
+            "explanation": "Present continuous requires 'verb+ing'."
+        },
+        {
+            "wrong": "She have been to London.",
+            "correct": "She has been to London.",
+            "explanation": "Third person singular requires 'has'."
+        },
+        {
+            "wrong": "He didn't saw me.",
+            "correct": "He didn’t see me.",
+            "explanation": "After 'didn't,' use base form 'see'."
+        },
+        {
+            "wrong": "I was borned in 1990.",
+            "correct": "I was born in 1990.",
+            "explanation": "'Born' is correct; 'borned' is incorrect."
+        },
+        {
+            "wrong": "We goes to the gym every day.",
+            "correct": "We go to the gym every day.",
+            "explanation": "Plural subject 'we' takes base verb 'go'."
+        },
+        {
+            "wrong": "She is married with a doctor.",
+            "correct": "She is married to a doctor.",
+            "explanation": "Correct preposition is 'to' not 'with'."
+        },
+        {
+            "wrong": "He do his homework daily.",
+            "correct": "He does his homework daily.",
+            "explanation": "Third person singular requires 'does'."
+        },
+        {
+            "wrong": "I am reading a book yesterday.",
+            "correct": "I was reading a book yesterday.",
+            "explanation": "Past continuous requires 'was + verb+ing'."
+        },
+        {
+            "wrong": "She is afraid from dogs.",
+            "correct": "She is afraid of dogs.",
+            "explanation": "Correct preposition is 'of' not 'from'."
+        },
+        {
+            "wrong": "We was tired after the game.",
+            "correct": "We were tired after the game.",
+            "explanation": "'We' requires 'were'."
+        },
+        {
+            "wrong": "The children was noisy.",
+            "correct": "The children were noisy.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "She don't knows how to swim.",
+            "correct": "She doesn’t know how to swim.",
+            "explanation": "Use 'doesn’t' with base verb 'know'."
+        },
+        {
+            "wrong": "He is good in math.",
+            "correct": "He is good at math.",
+            "explanation": "Correct preposition is 'at'."
+        },
+        {
+            "wrong": "She go to office on Sundays.",
+            "correct": "She goes to office on Sundays.",
+            "explanation": "Third person singular requires 'goes'."
+        },
+        {
+            "wrong": "I didn't met him.",
+            "correct": "I didn’t meet him.",
+            "explanation": "After 'didn’t,' use base form 'meet'."
+        },
+        {
+            "wrong": "They was not ready.",
+            "correct": "They were not ready.",
+            "explanation": "Plural 'they' requires 'were'."
+        },
+        {
+            "wrong": "He has ate breakfast already.",
+            "correct": "He has eaten breakfast already.",
+            "explanation": "Past participle of 'eat' is 'eaten'."
+        },
+        {
+            "wrong": "We was friends in school.",
+            "correct": "We were friends in school.",
+            "explanation": "Plural subject 'we' requires 'were'."
+        },
+        {
+            "wrong": "The furniture are expensive.",
+            "correct": "The furniture is expensive.",
+            "explanation": "'Furniture' is uncountable and singular."
+        },
+        {
+            "wrong": "She don’t like swimming.",
+            "correct": "She doesn’t like swimming.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "I am knowing the answer.",
+            "correct": "I know the answer.",
+            "explanation": "Stative verbs like 'know' are not used in continuous tense."
+        },
+        {
+            "wrong": "She is married with three children.",
+            "correct": "She has three children.",
+            "explanation": "Use 'has' for possession, not 'married with'."
+        },
+        {
+            "wrong": "He don’t plays cricket.",
+            "correct": "He doesn’t play cricket.",
+            "explanation": "Third person singular requires 'doesn’t' and base verb."
+        },
+        {
+            "wrong": "We was waiting for the bus.",
+            "correct": "We were waiting for the bus.",
+            "explanation": "Plural subject 'we' requires 'were'."
+        },
+        {
+            "wrong": "She has went to the shop.",
+            "correct": "She has gone to the shop.",
+            "explanation": "Past participle of 'go' is 'gone'."
+        },
+        {
+            "wrong": "They doesn’t like coffee.",
+            "correct": "They don’t like coffee.",
+            "explanation": "Plural subject 'they' requires 'don’t'."
+        },
+        {
+            "wrong": "He is senior than me.",
+            "correct": "He is senior to me.",
+            "explanation": "Correct preposition after 'senior' is 'to'."
+        },
+        {
+            "wrong": "I am hear you.",
+            "correct": "I hear you.",
+            "explanation": "Verb 'hear' is not used in continuous form."
+        },
+        {
+            "wrong": "He is married with an engineer.",
+            "correct": "He is married to an engineer.",
+            "explanation": "Use 'married to' not 'married with'."
+        },
+        {
+            "wrong": "She don’t wants ice cream.",
+            "correct": "She doesn’t want ice cream.",
+            "explanation": "Use 'doesn’t' with base verb 'want'."
+        },
+        {
+            "wrong": "The team are winning.",
+            "correct": "The team is winning.",
+            "explanation": "Collective nouns like 'team' are treated as singular."
+        },
+        {
+            "wrong": "We was at home last night.",
+            "correct": "We were at home last night.",
+            "explanation": "'We' requires 'were'."
+        },
+        {
+            "wrong": "He have three pens.",
+            "correct": "He has three pens.",
+            "explanation": "Third person singular requires 'has'."
+        },
+        {
+            "wrong": "She can able to drive.",
+            "correct": "She can drive.",
+            "explanation": "Avoid using 'can' and 'able' together."
+        },
+        {
+            "wrong": "I didn’t done my homework.",
+            "correct": "I didn’t do my homework.",
+            "explanation": "After 'didn’t,' use base form 'do'."
+        },
+        {
+            "wrong": "He is junior than me.",
+            "correct": "He is junior to me.",
+            "explanation": "Correct preposition is 'to' not 'than'."
+        },
+        {
+            "wrong": "The information are useful.",
+            "correct": "The information is useful.",
+            "explanation": "'Information' is uncountable and singular."
+        },
+        {
+            "wrong": "She do yoga every morning.",
+            "correct": "She does yoga every morning.",
+            "explanation": "Third person singular requires 'does'."
+        },
+        {
+            "wrong": "I am like pizza.",
+            "correct": "I like pizza.",
+            "explanation": "Verb 'like' is not used with 'am'."
+        },
+        {
+            "wrong": "They was dancing together.",
+            "correct": "They were dancing together.",
+            "explanation": "'They' requires 'were'."
+        },
+        {
+            "wrong": "She sings good.",
+            "correct": "She sings well.",
+            "explanation": "Use adverb 'well' to describe the verb 'sings'."
+        },
+        {
+            "wrong": "He don’t need help.",
+            "correct": "He doesn’t need help.",
+            "explanation": "Third person singular requires 'doesn’t'."
+        },
+        {
+            "wrong": "The childrens are playing.",
+            "correct": "The children are playing.",
+            "explanation": "'Children' is already plural; do not add 's'."
+        },
+        {
+            "wrong": "He is married with two kids.",
+            "correct": "He has two kids.",
+            "explanation": "Use 'has' to show possession, not 'married with'."
+        },
+        {
+            "wrong": "The news are shocking.",
+            "correct": "The news is shocking.",
+            "explanation": "'News' is uncountable and singular."
+        },
+        {
+            "wrong": "I didn’t ate breakfast.",
+            "correct": "I didn’t eat breakfast.",
+            "explanation": "After 'didn’t,' use base form 'eat'."
+        },
+        {
+            "wrong": "She don’t likes books.",
+            "correct": "She doesn’t like books.",
+            "explanation": "Use 'doesn’t' with base form 'like'."
+        },
+        {
+            "wrong": "We was talking yesterday.",
+            "correct": "We were talking yesterday.",
+            "explanation": "Plural subject requires 'were'."
+        },
+        {
+            "wrong": "He is better then me.",
+            "correct": "He is better than me.",
+            "explanation": "Comparison requires 'than' not 'then'."
+        },
+        {
+            "wrong": "She has broke her phone.",
+            "correct": "She has broken her phone.",
+            "explanation": "Past participle of 'break' is 'broken'."
+        },
+        {
+            "wrong": "I am knowing him for years.",
+            "correct": "I have known him for years.",
+            "explanation": "Stative verbs like 'know' use perfect tense, not continuous."
+        },
+        {
+            "wrong": "He don’t listens carefully.",
+            "correct": "He doesn’t listen carefully.",
+            "explanation": "Use 'doesn’t' with base form 'listen'."
+        },
+        {
+            "wrong": "The furniture are new.",
+            "correct": "The furniture is new.",
+            "explanation": "'Furniture' is uncountable and singular."
+        },
+        {
+            "wrong": "She go swimming every day.",
+            "correct": "She goes swimming every day.",
+            "explanation": "Third person singular requires 'goes'."
+        },
+        {
+            "wrong": "He didn’t told me the truth.",
+            "correct": "He didn’t tell me the truth.",
+            "explanation": "After 'didn’t,' use base form 'tell'."
+        },
+        {
+            "wrong": "We was excited about the trip.",
+            "correct": "We were excited about the trip.",
+            "explanation": "'We' requires 'were'."
+        },
+        {
+            "wrong": "She is interested on art.",
+            "correct": "She is interested in art.",
+            "explanation": "Correct preposition is 'in' not 'on'."
+        },
+        {
+            "wrong": "They enjoys soccer.",
+            "correct": "They enjoy soccer.",
+            "explanation": "Plural subject 'they' requires base verb 'enjoy'."
+        },
+        {
+            "wrong": "He don’t looks happy.",
+            "correct": "He doesn’t look happy.",
+            "explanation": "Use 'doesn’t' with base form 'look'."
+        },
+        {
+            "wrong": "I am hear music.",
+            "correct": "I hear music.",
+            "explanation": "Verb 'hear' is not used in continuous form."
+        },
+        {
+            "wrong": "She was married with a teacher.",
+            "correct": "She was married to a teacher.",
+            "explanation": "Correct preposition is 'to' not 'with'."
+        },
+        {
+            "wrong": "He have finished the work.",
+            "correct": "He has finished the work.",
+            "explanation": "Third person singular requires 'has'."
+        },
+        {
+            "wrong": "We goes shopping every weekend.",
+            "correct": "We go shopping every weekend.",
+            "explanation": "Plural subject 'we' requires 'go'."
+        },
+        {
+            "wrong": "She didn’t saw the movie.",
+            "correct": "She didn’t see the movie.",
+            "explanation": "After 'didn’t,' use base form 'see'."
+        },
+        {
+            "wrong": "She has went home already.",
+            "correct": "She has gone home already.",
+            "explanation": "Past participle of 'go' is 'gone'."
+        },
+        {
+            "wrong": "He don’t studies hard.",
+            "correct": "He doesn’t study hard.",
+            "explanation": "Use 'doesn’t' with base form 'study'."
+        },
+        {
+            "wrong": "We was tired after work.",
+            "correct": "We were tired after work.",
+            "explanation": "Plural 'we' requires 'were'."
+        },
+        {
+            "wrong": "She is good in English.",
+            "correct": "She is good at English.",
+            "explanation": "Correct preposition is 'at'."
+        },
+        {
+            "wrong": "I didn’t knew the answer.",
+            "correct": "I didn’t know the answer.",
+            "explanation": "After 'didn’t,' use base form 'know'."
+        },
+        {
+            "wrong": "They was hungry after lunch.",
+            "correct": "They were hungry after lunch.",
+            "explanation": "Plural 'they' requires 'were'."
+        },
+        {
+            "wrong": "The childrens was laughing.",
+            "correct": "The children were laughing.",
+            "explanation": "Correct plural is 'children,' and it requires 'were'."
+        },
+        {
+            "wrong": "He play football every day.",
+            "correct": "He plays football every day.",
+            "explanation": "Third person singular requires verb with -s"
+        },
+        {
+            "wrong": "We doesn't have time.",
+            "correct": "We don't have time.",
+            "explanation": "Plural subject 'we' requires 'don't' not 'doesn't'"
+        },
+        {
+            "wrong": "Where you are going?",
+            "correct": "Where are you going?",
+            "explanation": "Questions require inversion of subject and verb"
+        },
+        {
+            "wrong": "She can sings very well.",
+            "correct": "She can sing very well.",
+            "explanation": "Modal verbs are followed by base form of verb"
+        },
+        {
+            "wrong": "The team are playing well this season.",
+            "correct": "The team is playing well this season.",
+            "explanation": "Collective noun 'team' is treated as a singular subject"
+        },
+        {
+            "wrong": "Neither of the boys have finished their homework.",
+            "correct": "Neither of the boys has finished his homework.",
+            "explanation": "'Neither' is singular and requires a singular verb and pronoun"
+        },
+        {
+            "wrong": "The data suggests that our hypothesis are correct.",
+            "correct": "The data suggest that our hypothesis is correct.",
+            "explanation": "'Data' is plural; 'hypothesis' is singular and requires 'is'"
+        },
+        {
+            "wrong": "If I was you, I would apologize.",
+            "correct": "If I were you, I would apologize.",
+            "explanation": "The subjunctive mood requires 'were' for hypothetical situations"
+        },
+        {
+            "wrong": "Each of the students have their own locker.",
+            "correct": "Each of the students has his or her own locker.",
+            "explanation": "'Each' is singular and requires a singular verb and pronoun"
+        },
+        {
+            "wrong": "She don't like apples.",
+            "correct": "She doesn't like apples.",
+            "explanation": "Third person singular requires 'doesn't' instead of 'don't'"
+        },
+        {
+            "wrong": "They was happy yesterday.",
+            "correct": "They were happy yesterday.",
+            "explanation": "Plural subject 'they' requires 'were' not 'was'"
+        },
+        {
+            "wrong": "I am going to school tomorrow.",
+            "correct": "I will go to school tomorrow.",
+            "explanation": "Future intention requires 'will + base verb'"
+        },
+        {
+            "wrong": "The cat is sleep on the sofa.",
+            "correct": "The cat is sleeping on the sofa.",
+            "explanation": "Present continuous tense requires verb + -ing"
+        },
+        {
+            "wrong": "He have two brothers.",
+            "correct": "He has two brothers.",
+            "explanation": "Third person singular requires 'has' not 'have'"
+        },
+        {
+            "wrong": "The committee is divided in their opinions.",
+            "correct": "The committee are divided in their opinions.",
+            "explanation": "When emphasizing individual members, a collective noun can take a plural verb"
+        },
+        {
+            "wrong": "It was me who called you last night.",
+            "correct": "It was I who called you last night.",
+            "explanation": "The pronoun should be in the subjective case after the verb 'to be'"
+        },
+        {
+            "wrong": "She is one of those people who is always late.",
+            "correct": "She is one of those people who are always late.",
+            "explanation": "The relative pronoun 'who' refers to 'people' (plural), so it requires a plural verb"
+        },
+        {
+            "wrong": "The reason for his failure is because he didn't study.",
+            "correct": "The reason for his failure is that he didn't study.",
+            "explanation": "'The reason is because' is redundant; use 'the reason is that' instead"
+        },
+        {
+            "wrong": "Neither the manager nor the employees was aware of the change.",
+            "correct": "Neither the manager nor the employees were aware of the change.",
+            "explanation": "With 'neither/nor', the verb agrees with the subject closer to it (employees)"
+        },
+        {
+            "wrong": "There is many reasons to be happy.",
+            "correct": "There are many reasons to be happy.",
+            "explanation": "The subject 'reasons' is plural and requires a plural verb"
+        },
+        {
+            "wrong": "The book, as well as the pen, are on the table.",
+            "correct": "The book, as well as the pen, is on the table.",
+            "explanation": "The subject is 'book' (singular); phrases like 'as well as' don't change the subject number"
+        },
+        {
+            "wrong": "He ran quick to catch the bus.",
+            "correct": "He ran quickly to catch the bus.",
+            "explanation": "Verbs are modified by adverbs (quickly), not adjectives (quick)"
+        },
+        {
+            "wrong": "She told that she would be late.",
+            "correct": "She said that she would be late.",
+            "explanation": "Use 'told' with an object (told me); use 'said' without a direct object or with a clause"
+        },
+        {
+            "wrong": "The children plays in the park every evening.",
+            "correct": "The children play in the park every evening.",
+            "explanation": "Plural subject 'children' requires a plural verb without -s"
+        }
+    ],
+    "passive": [
+        {
+            "wrong": "The song was sing by her.",
+            "correct": "The song was sung by her.",
+            "explanation": "Passive voice requires past participle 'sung'"
+        },
+        {
+            "wrong": "The cake is being baked by Mary.",
+            "correct": "The cake is being baked by Mary.",
+            "explanation": "This sentence is already correct"
+        },
+        {
+            "wrong": "The letter was wrote by John.",
+            "correct": "The letter was written by John.",
+            "explanation": "Passive voice requires past participle 'written'"
+        },
+        {
+            "wrong": "The house is build by workers.",
+            "correct": "The house is built by workers.",
+            "explanation": "Passive voice requires past participle 'built'"
+        },
+        {
+            "wrong": "The news were reported by the journalist.",
+            "correct": "The news was reported by the journalist.",
+            "explanation": "Uncountable noun 'news' requires singular verb"
+        },
+        {
+            "wrong": "The children are being teach by a new teacher.",
+            "correct": "The children are being taught by a new teacher.",
+            "explanation": "Passive voice requires past participle 'taught'"
+        },
+        {
+            "wrong": "A new road is being build in our city.",
+            "correct": "A new road is being built in our city.",
+            "explanation": "Passive voice requires past participle 'built'"
+        }
+    ],
+    "indirect": [
+        {
+            "wrong": "She said that she is tired.",
+            "correct": "She said that she was tired.",
+            "explanation": "Indirect speech requires backshifting of tenses"
+        },
+        {
+            "wrong": "He told me that he will come tomorrow.",
+            "correct": "He told me that he would come the next day.",
+            "explanation": "Indirect speech requires backshifting and time adjustment"
+        },
+        {
+            "wrong": "They said that they have finished.",
+            "correct": "They said that they had finished.",
+            "explanation": "Indirect speech requires backshifting of present perfect to past perfect"
+        },
+        {
+            "wrong": "She asked me where I am going.",
+            "correct": "She asked me where I was going.",
+            "explanation": "Indirect speech requires backshifting of tenses"
+        },
+        {
+            "wrong": "He said that he can help us.",
+            "correct": "He said that he could help us.",
+            "explanation": "Indirect speech requires backshifting of modals"
+        },
+        {
+            "wrong": "She asked what time is it.",
+            "correct": "She asked what time it was.",
+            "explanation": "Indirect questions use statement word order"
+        },
+        {
+            "wrong": "He told me to I should study harder.",
+            "correct": "He told me that I should study harder.",
+            "explanation": "Indirect speech requires proper reporting structure"
+        }
+    ]
+}
