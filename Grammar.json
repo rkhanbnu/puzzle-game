@@ -1,113 +1,1208 @@
 {
-  "regular": [
-    {
-      "wrong": "She don't like apples.",
-      "correct": "She doesn't like apples.",
-      "explanation": "Third person singular requires 'doesn't' instead of 'don't'"
-    },
-    {
-      "wrong": "They was happy yesterday.",
-      "correct": "They were happy yesterday.",
-      "explanation": "Plural subject 'they' requires 'were' not 'was'"
-    },
-    {
-      "wrong": "I am going to school tomorrow.",
-      "correct": "I will go to school tomorrow.",
-      "explanation": "Future intention requires 'will + base verb'"
-    },
-    {
-      "wrong": "He play football every day.",
-      "correct": "He plays football every day.",
-      "explanation": "Third person singular requires verb with -s"
-    },
-    {
-      "wrong": "We doesn't have time.",
-      "correct": "We don't have time.",
-      "explanation": "Plural subject 'we' requires 'don't' not 'doesn't'"
-    },
-    {
-      "wrong": "Where you are going?",
-      "correct": "Where are you going?",
-      "explanation": "Questions require inversion of subject and verb"
-    },
-    {
-      "wrong": "She can sings very well.",
-      "correct": "She can sing very well.",
-      "explanation": "Modal verbs are followed by base form of verb"
-    }
-  ],
-  "passive": [
-    {
-      "wrong": "The song was sing by her.",
-      "correct": "The song was sung by her.",
-      "explanation": "Passive voice requires past participle 'sung'"
-    },
-    {
-      "wrong": "The cake is being baked by Mary.",
-      "correct": "The cake is being baked by Mary.",
-      "explanation": "This sentence is already correct"
-    },
-    {
-      "wrong": "The letter was wrote by John.",
-      "correct": "The letter was written by John.",
-      "explanation": "Passive voice requires past participle 'written'"
-    },
-    {
-      "wrong": "The house is build by workers.",
-      "correct": "The house is built by workers.",
-      "explanation": "Passive voice requires past participle 'built'"
-    },
-    {
-      "wrong": "The news were reported by the journalist.",
-      "correct": "The news was reported by the journalist.",
-      "explanation": "Uncountable noun 'news' requires singular verb"
-    },
-    {
-      "wrong": "The children are being teach by a new teacher.",
-      "correct": "The children are being taught by a new teacher.",
-      "explanation": "Passive voice requires past participle 'taught'"
-    },
-    {
-      "wrong": "A new road is being build in our city.",
-      "correct": "A new road is being built in our city.",
-      "explanation": "Passive voice requires past participle 'built'"
-    }
-  ],
-  "indirect": [
-    {
-      "wrong": "She said that she is tired.",
-      "correct": "She said that she was tired.",
-      "explanation": "Indirect speech requires backshifting of tenses"
-    },
-    {
-      "wrong": "He told me that he will come tomorrow.",
-      "correct": "He told me that he would come the next day.",
-      "explanation": "Indirect speech requires backshifting and time adjustment"
-    },
-    {
-      "wrong": "They said that they have finished.",
-      "correct": "They said that they had finished.",
-      "explanation": "Indirect speech requires backshifting of present perfect to past perfect"
-    },
-    {
-      "wrong": "She asked me where I am going.",
-      "correct": "She asked me where I was going.",
-      "explanation": "Indirect speech requires backshifting of tenses"
-    },
-    {
-      "wrong": "He said that he can help us.",
-      "correct": "He said that he could help us.",
-      "explanation": "Indirect speech requires backshifting of modals"
-    },
-    {
-      "wrong": "She asked what time is it.",
-      "correct": "She asked what time it was.",
-      "explanation": "Indirect questions use statement word order"
-    },
-    {
-      "wrong": "He told me to I should study harder.",
-      "correct": "He told me that I should study harder.",
-      "explanation": "Indirect speech requires proper reporting structure"
-    }
-  ]
+    "regular": [
+        [
+            "She don't like apples.",
+            "She doesn't like apples.",
+            "Third person singular requires 'doesn't' instead of 'don't'"
+        ],
+        [
+            "They was happy yesterday.",
+            "They were happy yesterday.",
+            "Plural subject 'they' requires 'were' not 'was'"
+        ],
+        [
+            "I am going to school tomorrow.",
+            "I will go to school tomorrow.",
+            "Future intention requires 'will + base verb'"
+        ],
+        [
+            "She are my best friend.",
+            "She is my best friend.",
+            "Singular subject 'she' requires 'is'."
+        ],
+        [
+            "I can sings very loud.",
+            "I can sing very loud.",
+            "After modal verbs, use base verb without 's'."
+        ],
+        [
+            "The man have a new car.",
+            "The man has a new car.",
+            "Third person singular requires 'has'."
+        ],
+        [
+            "He didn’t wrote the letter.",
+            "He didn’t write the letter.",
+            "After 'didn’t,' use base form 'write'."
+        ],
+        [
+            "She is more taller than him.",
+            "She is taller than him.",
+            "Do not use 'more' with comparative adjectives ending in -er."
+        ],
+        [
+            "We was in the park yesterday.",
+            "We were in the park yesterday.",
+            "Plural subject 'we' requires 'were'."
+        ],
+        [
+            "The book are on the table.",
+            "The book is on the table.",
+            "Singular subject 'book' requires 'is'."
+        ],
+        [
+            "I enjoys reading at night.",
+            "I enjoy reading at night.",
+            "First person singular uses base verb, not verb + 's'."
+        ],
+        [
+            "They doesn’t want to leave.",
+            "They don’t want to leave.",
+            "Plural subject 'they' requires 'don’t'."
+        ],
+        [
+            "He was go to the office.",
+            "He was going to the office.",
+            "Past continuous tense requires 'was + verb-ing'."
+        ],
+        [
+            "She can able to solve it.",
+            "She can solve it.",
+            "Do not combine 'can' with 'able'."
+        ],
+        [
+            "The milk are fresh.",
+            "The milk is fresh.",
+            "Uncountable nouns take singular verbs."
+        ],
+        [
+            "I didn’t bought anything.",
+            "I didn’t buy anything.",
+            "After 'didn’t,' use base form 'buy'."
+        ],
+        [
+            "He don’t knows her name.",
+            "He doesn’t know her name.",
+            "Use 'doesn’t' with base form of verb."
+        ],
+        [
+            "They is playing football.",
+            "They are playing football.",
+            "Plural subject 'they' requires 'are'."
+        ],
+        [
+            "The children was tired.",
+            "The children were tired.",
+            "Plural subject 'children' requires 'were'."
+        ],
+        [
+            "She is good in dancing.",
+            "She is good at dancing.",
+            "Correct preposition is 'at' not 'in'."
+        ],
+        [
+            "He has ate already.",
+            "He has eaten already.",
+            "Past participle of 'eat' is 'eaten'."
+        ],
+        [
+            "We was very late.",
+            "We were very late.",
+            "Plural subject 'we' requires 'were'."
+        ],
+        [
+            "She doesn’t likes tea.",
+            "She doesn’t like tea.",
+            "Use base verb after 'doesn’t'."
+        ],
+        [
+            "He go to work by bus.",
+            "He goes to work by bus.",
+            "Third person singular requires 'goes'."
+        ],
+        [
+            "I am knowing her well.",
+            "I know her well.",
+            "Stative verbs like 'know' are not used in continuous form."
+        ],
+        [
+            "She don’t understand the question.",
+            "She doesn’t understand the question.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "We was playing chess.",
+            "We were playing chess.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "The teacher give us homework.",
+            "The teacher gives us homework.",
+            "Third person singular requires verb + 's'."
+        ],
+        [
+            "I am agree with you.",
+            "I agree with you.",
+            "Verb 'agree' is not used with 'am'."
+        ],
+        [
+            "They was late to school.",
+            "They were late to school.",
+            "Plural subject 'they' requires 'were'."
+        ],
+        [
+            "She don’t sings well.",
+            "She doesn’t sing well.",
+            "Use 'doesn’t' with base form 'sing'."
+        ],
+        [
+            "He is junior than me.",
+            "He is junior to me.",
+            "Correct preposition after 'junior' is 'to'."
+        ],
+        [
+            "She has write a letter.",
+            "She has written a letter.",
+            "Past participle of 'write' is 'written'."
+        ],
+        [
+            "We was watching TV.",
+            "We were watching TV.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "He have two sisters.",
+            "He has two sisters.",
+            "Third person singular requires 'has'."
+        ],
+        [
+            "The news are shocking.",
+            "The news is shocking.",
+            "'News' is an uncountable singular noun."
+        ],
+        [
+            "I didn’t went outside.",
+            "I didn’t go outside.",
+            "After 'didn’t,' use base form 'go'."
+        ],
+        [
+            "She are very kind.",
+            "She is very kind.",
+            "Singular subject 'she' requires 'is'."
+        ],
+        [
+            "They enjoys swimming.",
+            "They enjoy swimming.",
+            "Plural subjects do not take verb + 's'."
+        ],
+        [
+            "He was marry with her.",
+            "He was married to her.",
+            "Correct form is 'married to,' not 'marry with'."
+        ],
+        [
+            "She don’t like chocolate.",
+            "She doesn’t like chocolate.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "We was sitting outside.",
+            "We were sitting outside.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "I am hear the music.",
+            "I hear the music.",
+            "Verb 'hear' is not used in continuous tense."
+        ],
+        [
+            "He has broke his phone.",
+            "He has broken his phone.",
+            "Past participle of 'break' is 'broken'."
+        ],
+        [
+            "She doesn’t knows him.",
+            "She doesn’t know him.",
+            "Use base verb after 'doesn’t'."
+        ],
+        [
+            "They was laughing loudly.",
+            "They were laughing loudly.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "He have finished his work.",
+            "He has finished his work.",
+            "Third person singular requires 'has'."
+        ],
+        [
+            "The furniture are expensive.",
+            "The furniture is expensive.",
+            "'Furniture' is an uncountable singular noun."
+        ],
+        [
+            "She was go to market.",
+            "She was going to market.",
+            "Past continuous requires 'was + verb-ing'."
+        ],
+        [
+            "He don’t play the guitar.",
+            "He doesn’t play the guitar.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "We was studying together.",
+            "We were studying together.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She is senior than him.",
+            "She is senior to him.",
+            "Correct preposition after 'senior' is 'to'."
+        ],
+        [
+            "I have ate already.",
+            "I have eaten already.",
+            "Past participle of 'eat' is 'eaten'."
+        ],
+        [
+            "They was happy today.",
+            "They were happy today.",
+            "Plural subject 'they' requires 'were'."
+        ],
+        [
+            "He doesn’t knows the way.",
+            "He doesn’t know the way.",
+            "Use base verb after 'doesn’t'."
+        ],
+        [
+            "The water are cold.",
+            "The water is cold.",
+            "Uncountable noun 'water' takes singular verb."
+        ],
+        [
+            "She do her homework daily.",
+            "She does her homework daily.",
+            "Third person singular requires 'does'."
+        ],
+        [
+            "I am not agree with him.",
+            "I do not agree with him.",
+            "Verb 'agree' is not used with 'am'."
+        ],
+        [
+            "They doesn’t work here.",
+            "They don’t work here.",
+            "Plural subject requires 'don’t'."
+        ],
+        [
+            "He was go yesterday.",
+            "He went yesterday.",
+            "Past tense of 'go' is 'went'."
+        ],
+        [
+            "We was invited to the party.",
+            "We were invited to the party.",
+            "Plural subject 'we' requires 'were'."
+        ],
+        [
+            "She don’t wants to stay.",
+            "She doesn’t want to stay.",
+            "Use 'doesn’t' with base form 'want'."
+        ],
+        [
+            "He has drink the juice.",
+            "He has drunk the juice.",
+            "Past participle of 'drink' is 'drunk'."
+        ],
+        [
+            "They was not ready.",
+            "They were not ready.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She is interested on painting.",
+            "She is interested in painting.",
+            "Correct preposition is 'in'."
+        ],
+        [
+            "The informations are helpful.",
+            "The information is helpful.",
+            "'Information' is uncountable and singular."
+        ],
+        [
+            "He don’t believe me.",
+            "He doesn’t believe me.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "We was playing cards.",
+            "We were playing cards.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She can sings beautifully.",
+            "She can sing beautifully.",
+            "After modal verbs, use base verb."
+        ],
+        [
+            "They doesn’t live here.",
+            "They don’t live here.",
+            "Plural subject requires 'don’t'."
+        ],
+        [
+            "I am hear birds outside.",
+            "I hear birds outside.",
+            "Verb 'hear' is not used in continuous form."
+        ],
+        [
+            "She has wrote a book.",
+            "She has written a book.",
+            "Past participle of 'write' is 'written'."
+        ],
+        [
+            "The advice are useful.",
+            "The advice is useful.",
+            "'Advice' is uncountable and singular."
+        ],
+        [
+            "He don’t remember the address.",
+            "He doesn’t remember the address.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "We was at home last night.",
+            "We were at home last night.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She is better then me.",
+            "She is better than me.",
+            "Correct word is 'than' not 'then'."
+        ],
+        [
+            "He have a laptop.",
+            "He has a laptop.",
+            "Third person singular requires 'has'."
+        ],
+        [
+            "They was talking loudly.",
+            "They were talking loudly.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She doesn’t likes music.",
+            "She doesn’t like music.",
+            "Use base verb after 'doesn’t'."
+        ],
+        [
+            "He has did the work.",
+            "He has done the work.",
+            "Past participle of 'do' is 'done'."
+        ],
+        [
+            "I am understand this topic.",
+            "I understand this topic.",
+            "Verb 'understand' is not used with 'am'."
+        ],
+        [
+            "The luggage are heavy.",
+            "The luggage is heavy.",
+            "'Luggage' is uncountable and singular."
+        ],
+        [
+            "He don’t needs help.",
+            "He doesn’t need help.",
+            "Use 'doesn’t' with base verb."
+        ],
+        [
+            "We was going home.",
+            "We were going home.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She is good in math.",
+            "She is good at math.",
+            "Correct preposition is 'at'."
+        ],
+        [
+            "He didn’t knew the answer.",
+            "He didn’t know the answer.",
+            "After 'didn’t,' use base form 'know'."
+        ],
+        [
+            "They was enjoying the party.",
+            "They were enjoying the party.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "The police is coming.",
+            "The police are coming.",
+            "'Police' is treated as plural."
+        ],
+        [
+            "She don’t wants to play.",
+            "She doesn’t want to play.",
+            "Use 'doesn’t' with base verb 'want'."
+        ],
+        [
+            "He has saw the film.",
+            "He has seen the film.",
+            "Past participle of 'see' is 'seen'."
+        ],
+        [
+            "We was talking to him.",
+            "We were talking to him.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She are very talented.",
+            "She is very talented.",
+            "Singular subject 'she' requires 'is'."
+        ],
+        [
+            "The news are good.",
+            "The news is good.",
+            "'News' is an uncountable singular noun."
+        ],
+        [
+            "He don’t thinks so.",
+            "He doesn’t think so.",
+            "Use 'doesn’t' with base verb."
+        ],
+        [
+            "I am see the stars.",
+            "I see the stars.",
+            "Verb 'see' is not used in continuous form."
+        ],
+        [
+            "He go to market every day.",
+            "He goes to market every day.",
+            "Third person singular subjects require verb + 's'."
+        ],
+        [
+            "We was playing football.",
+            "We were playing football.",
+            "Plural subject 'we' requires 'were' not 'was'."
+        ],
+        [
+            "She can sings very well.",
+            "She can sing very well.",
+            "After modal verbs like 'can,' the base form of the verb is used."
+        ],
+        [
+            "I didn’t went to the park.",
+            "I didn’t go to the park.",
+            "After 'didn't,' the base form of the verb is used."
+        ],
+        [
+            "They enjoys playing chess.",
+            "They enjoy playing chess.",
+            "Plural subjects do not take verb + 's'."
+        ],
+        [
+            "He don’t knows the answer.",
+            "He doesn’t know the answer.",
+            "Use 'doesn’t' with third person singular and base form of the verb."
+        ],
+        [
+            "She is smarter then him.",
+            "She is smarter than him.",
+            "'Than' is the correct word for comparison, not 'then'."
+        ],
+        [
+            "I have ate my lunch.",
+            "I have eaten my lunch.",
+            "Past participle of 'eat' is 'eaten' in perfect tenses."
+        ],
+        [
+            "There is many problems in this plan.",
+            "There are many problems in this plan.",
+            "Plural nouns require 'are,' not 'is'."
+        ],
+        [
+            "He speak English very good.",
+            "He speaks English very well.",
+            "Adverbs (well) describe verbs, while 'good' is an adjective."
+        ],
+        [
+            "They was happy yesterday.",
+            "They were happy yesterday.",
+            "Plural subject 'they' requires 'were' not 'was'."
+        ],
+        [
+            "I am going to school tomorrow.",
+            "I will go to school tomorrow.",
+            "Future intention requires 'will + base verb'."
+        ],
+        [
+            "He go to market every day.",
+            "He goes to market every day.",
+            "Third person singular subjects require verb + 's'."
+        ],
+        [
+            "We was playing football.",
+            "We were playing football.",
+            "Plural subject 'we' requires 'were' not 'was'."
+        ],
+        [
+            "She can sings very well.",
+            "She can sing very well.",
+            "After modal verbs like 'can,' the base form of the verb is used."
+        ],
+        [
+            "I didn’t went to the park.",
+            "I didn’t go to the park.",
+            "After 'didn't,' the base form of the verb is used."
+        ],
+        [
+            "They enjoys playing chess.",
+            "They enjoy playing chess.",
+            "Plural subjects do not take verb + 's'."
+        ],
+        [
+            "He don’t knows the answer.",
+            "He doesn’t know the answer.",
+            "Use 'doesn’t' with third person singular and base form of the verb."
+        ],
+        [
+            "She is smarter then him.",
+            "She is smarter than him.",
+            "'Than' is the correct word for comparison, not 'then'."
+        ],
+        [
+            "I have ate my lunch.",
+            "I have eaten my lunch.",
+            "Past participle of 'eat' is 'eaten' in perfect tenses."
+        ],
+        [
+            "There is many problems in this plan.",
+            "There are many problems in this plan.",
+            "Plural nouns require 'are,' not 'is'."
+        ],
+        [
+            "He speak English very good.",
+            "He speaks English very well.",
+            "Adverbs (well) describe verbs, while 'good' is an adjective."
+        ],
+        [
+            "She run fast yesterday.",
+            "She ran fast yesterday.",
+            "Past tense of 'run' is 'ran'."
+        ],
+        [
+            "He has wrote a letter.",
+            "He has written a letter.",
+            "Past participle of 'write' is 'written'."
+        ],
+        [
+            "I am agree with you.",
+            "I agree with you.",
+            "'Agree' is a verb and does not need 'am'."
+        ],
+        [
+            "He go to school by bus.",
+            "He goes to school by bus.",
+            "Third person singular requires 'goes'."
+        ],
+        [
+            "We was at the park last night.",
+            "We were at the park last night.",
+            "Plural subject 'we' requires 'were'."
+        ],
+        [
+            "She don't wants to come.",
+            "She doesn’t want to come.",
+            "Use 'doesn’t' with third person singular, verb remains base form."
+        ],
+        [
+            "He have a big house.",
+            "He has a big house.",
+            "Third person singular requires 'has' not 'have'."
+        ],
+        [
+            "The teacher give us homework yesterday.",
+            "The teacher gave us homework yesterday.",
+            "Past tense of 'give' is 'gave'."
+        ],
+        [
+            "I has two brothers.",
+            "I have two brothers.",
+            "Subject 'I' takes 'have,' not 'has'."
+        ],
+        [
+            "She going to the market now.",
+            "She is going to the market now.",
+            "Present continuous tense requires 'is/are + verb+ing'."
+        ],
+        [
+            "He don't like tea.",
+            "He doesn’t like tea.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "The dog bark loud.",
+            "The dog barks loudly.",
+            "Adverbs describe verbs; use 'loudly'."
+        ],
+        [
+            "They was studying all night.",
+            "They were studying all night.",
+            "'They' requires 'were'."
+        ],
+        [
+            "He can able to solve the problem.",
+            "He can solve the problem.",
+            "Do not use 'can' and 'able' together."
+        ],
+        [
+            "I am go to the shop.",
+            "I am going to the shop.",
+            "Present continuous requires 'verb+ing'."
+        ],
+        [
+            "She have been to London.",
+            "She has been to London.",
+            "Third person singular requires 'has'."
+        ],
+        [
+            "He didn't saw me.",
+            "He didn’t see me.",
+            "After 'didn't,' use base form 'see'."
+        ],
+        [
+            "I was borned in 1990.",
+            "I was born in 1990.",
+            "'Born' is correct; 'borned' is incorrect."
+        ],
+        [
+            "We goes to the gym every day.",
+            "We go to the gym every day.",
+            "Plural subject 'we' takes base verb 'go'."
+        ],
+        [
+            "She is married with a doctor.",
+            "She is married to a doctor.",
+            "Correct preposition is 'to' not 'with'."
+        ],
+        [
+            "He do his homework daily.",
+            "He does his homework daily.",
+            "Third person singular requires 'does'."
+        ],
+        [
+            "I am reading a book yesterday.",
+            "I was reading a book yesterday.",
+            "Past continuous requires 'was + verb+ing'."
+        ],
+        [
+            "She is afraid from dogs.",
+            "She is afraid of dogs.",
+            "Correct preposition is 'of' not 'from'."
+        ],
+        [
+            "We was tired after the game.",
+            "We were tired after the game.",
+            "'We' requires 'were'."
+        ],
+        [
+            "The children was noisy.",
+            "The children were noisy.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "She don't knows how to swim.",
+            "She doesn’t know how to swim.",
+            "Use 'doesn’t' with base verb 'know'."
+        ],
+        [
+            "He is good in math.",
+            "He is good at math.",
+            "Correct preposition is 'at'."
+        ],
+        [
+            "She go to office on Sundays.",
+            "She goes to office on Sundays.",
+            "Third person singular requires 'goes'."
+        ],
+        [
+            "I didn't met him.",
+            "I didn’t meet him.",
+            "After 'didn’t,' use base form 'meet'."
+        ],
+        [
+            "They was not ready.",
+            "They were not ready.",
+            "Plural 'they' requires 'were'."
+        ],
+        [
+            "He has ate breakfast already.",
+            "He has eaten breakfast already.",
+            "Past participle of 'eat' is 'eaten'."
+        ],
+        [
+            "We was friends in school.",
+            "We were friends in school.",
+            "Plural subject 'we' requires 'were'."
+        ],
+        [
+            "The furniture are expensive.",
+            "The furniture is expensive.",
+            "'Furniture' is uncountable and singular."
+        ],
+        [
+            "She don’t like swimming.",
+            "She doesn’t like swimming.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "I am knowing the answer.",
+            "I know the answer.",
+            "Stative verbs like 'know' are not used in continuous tense."
+        ],
+        [
+            "She is married with three children.",
+            "She has three children.",
+            "Use 'has' for possession, not 'married with'."
+        ],
+        [
+            "He don’t plays cricket.",
+            "He doesn’t play cricket.",
+            "Third person singular requires 'doesn’t' and base verb."
+        ],
+        [
+            "We was waiting for the bus.",
+            "We were waiting for the bus.",
+            "Plural subject 'we' requires 'were'."
+        ],
+        [
+            "She has went to the shop.",
+            "She has gone to the shop.",
+            "Past participle of 'go' is 'gone'."
+        ],
+        [
+            "They doesn’t like coffee.",
+            "They don’t like coffee.",
+            "Plural subject 'they' requires 'don’t'."
+        ],
+        [
+            "He is senior than me.",
+            "He is senior to me.",
+            "Correct preposition after 'senior' is 'to'."
+        ],
+        [
+            "I am hear you.",
+            "I hear you.",
+            "Verb 'hear' is not used in continuous form."
+        ],
+        [
+            "He is married with an engineer.",
+            "He is married to an engineer.",
+            "Use 'married to' not 'married with'."
+        ],
+        [
+            "She don’t wants ice cream.",
+            "She doesn’t want ice cream.",
+            "Use 'doesn’t' with base verb 'want'."
+        ],
+        [
+            "The team are winning.",
+            "The team is winning.",
+            "Collective nouns like 'team' are treated as singular."
+        ],
+        [
+            "We was at home last night.",
+            "We were at home last night.",
+            "'We' requires 'were'."
+        ],
+        [
+            "He have three pens.",
+            "He has three pens.",
+            "Third person singular requires 'has'."
+        ],
+        [
+            "She can able to drive.",
+            "She can drive.",
+            "Avoid using 'can' and 'able' together."
+        ],
+        [
+            "I didn’t done my homework.",
+            "I didn’t do my homework.",
+            "After 'didn’t,' use base form 'do'."
+        ],
+        [
+            "He is junior than me.",
+            "He is junior to me.",
+            "Correct preposition is 'to' not 'than'."
+        ],
+        [
+            "The information are useful.",
+            "The information is useful.",
+            "'Information' is uncountable and singular."
+        ],
+        [
+            "She do yoga every morning.",
+            "She does yoga every morning.",
+            "Third person singular requires 'does'."
+        ],
+        [
+            "I am like pizza.",
+            "I like pizza.",
+            "Verb 'like' is not used with 'am'."
+        ],
+        [
+            "They was dancing together.",
+            "They were dancing together.",
+            "'They' requires 'were'."
+        ],
+        [
+            "She sings good.",
+            "She sings well.",
+            "Use adverb 'well' to describe the verb 'sings'."
+        ],
+        [
+            "He don’t need help.",
+            "He doesn’t need help.",
+            "Third person singular requires 'doesn’t'."
+        ],
+        [
+            "The childrens are playing.",
+            "The children are playing.",
+            "'Children' is already plural; do not add 's'."
+        ],
+        [
+            "He is married with two kids.",
+            "He has two kids.",
+            "Use 'has' to show possession, not 'married with'."
+        ],
+        [
+            "The news are shocking.",
+            "The news is shocking.",
+            "'News' is uncountable and singular."
+        ],
+        [
+            "I didn’t ate breakfast.",
+            "I didn’t eat breakfast.",
+            "After 'didn’t,' use base form 'eat'."
+        ],
+        [
+            "She don’t likes books.",
+            "She doesn’t like books.",
+            "Use 'doesn’t' with base form 'like'."
+        ],
+        [
+            "We was talking yesterday.",
+            "We were talking yesterday.",
+            "Plural subject requires 'were'."
+        ],
+        [
+            "He is better then me.",
+            "He is better than me.",
+            "Comparison requires 'than' not 'then'."
+        ],
+        [
+            "She has broke her phone.",
+            "She has broken her phone.",
+            "Past participle of 'break' is 'broken'."
+        ],
+        [
+            "I am knowing him for years.",
+            "I have known him for years.",
+            "Stative verbs like 'know' use perfect tense, not continuous."
+        ],
+        [
+            "He don’t listens carefully.",
+            "He doesn’t listen carefully.",
+            "Use 'doesn’t' with base form 'listen'."
+        ],
+        [
+            "The furniture are new.",
+            "The furniture is new.",
+            "'Furniture' is uncountable and singular."
+        ],
+        [
+            "She go swimming every day.",
+            "She goes swimming every day.",
+            "Third person singular requires 'goes'."
+        ],
+        [
+            "He didn’t told me the truth.",
+            "He didn’t tell me the truth.",
+            "After 'didn’t,' use base form 'tell'."
+        ],
+        [
+            "We was excited about the trip.",
+            "We were excited about the trip.",
+            "'We' requires 'were'."
+        ],
+        [
+            "She is interested on art.",
+            "She is interested in art.",
+            "Correct preposition is 'in' not 'on'."
+        ],
+        [
+            "They enjoys soccer.",
+            "They enjoy soccer.",
+            "Plural subject 'they' requires base verb 'enjoy'."
+        ],
+        [
+            "He don’t looks happy.",
+            "He doesn’t look happy.",
+            "Use 'doesn’t' with base form 'look'."
+        ],
+        [
+            "I am hear music.",
+            "I hear music.",
+            "Verb 'hear' is not used in continuous form."
+        ],
+        [
+            "She was married with a teacher.",
+            "She was married to a teacher.",
+            "Correct preposition is 'to' not 'with'."
+        ],
+        [
+            "He have finished the work.",
+            "He has finished the work.",
+            "Third person singular requires 'has'."
+        ],
+        [
+            "We goes shopping every weekend.",
+            "We go shopping every weekend.",
+            "Plural subject 'we' requires 'go'."
+        ],
+        [
+            "She didn’t saw the movie.",
+            "She didn’t see the movie.",
+            "After 'didn’t,' use base form 'see'."
+        ],
+        [
+            "She has went home already.",
+            "She has gone home already.",
+            "Past participle of 'go' is 'gone'."
+        ],
+        [
+            "He don’t studies hard.",
+            "He doesn’t study hard.",
+            "Use 'doesn’t' with base form 'study'."
+        ],
+        [
+            "We was tired after work.",
+            "We were tired after work.",
+            "Plural 'we' requires 'were'."
+        ],
+        [
+            "She is good in English.",
+            "She is good at English.",
+            "Correct preposition is 'at'."
+        ],
+        [
+            "I didn’t knew the answer.",
+            "I didn’t know the answer.",
+            "After 'didn’t,' use base form 'know'."
+        ],
+        [
+            "They was hungry after lunch.",
+            "They were hungry after lunch.",
+            "Plural 'they' requires 'were'."
+        ],
+        [
+            "The childrens was laughing.",
+            "The children were laughing.",
+            "Correct plural is 'children,' and it requires 'were'."
+        ],
+        [
+            "He play football every day.",
+            "He plays football every day.",
+            "Third person singular requires verb with -s"
+        ],
+        [
+            "We doesn't have time.",
+            "We don't have time.",
+            "Plural subject 'we' requires 'don't' not 'doesn't'"
+        ],
+        [
+            "Where you are going?",
+            "Where are you going?",
+            "Questions require inversion of subject and verb"
+        ],
+        [
+            "She can sings very well.",
+            "She can sing very well.",
+            "Modal verbs are followed by base form of verb"
+        ],
+        [
+            "The team are playing well this season.",
+            "The team is playing well this season.",
+            "Collective noun 'team' is treated as a singular subject"
+        ],
+        [
+            "Neither of the boys have finished their homework.",
+            "Neither of the boys has finished his homework.",
+            "'Neither' is singular and requires a singular verb and pronoun"
+        ],
+        [
+            "The data suggests that our hypothesis are correct.",
+            "The data suggest that our hypothesis is correct.",
+            "'Data' is plural; 'hypothesis' is singular and requires 'is'"
+        ],
+        [
+            "If I was you, I would apologize.",
+            "If I were you, I would apologize.",
+            "The subjunctive mood requires 'were' for hypothetical situations"
+        ],
+        [
+            "Each of the students have their own locker.",
+            "Each of the students has his or her own locker.",
+            "'Each' is singular and requires a singular verb and pronoun"
+        ],
+        [
+            "She don't like apples.",
+            "She doesn't like apples.",
+            "Third person singular requires 'doesn't' instead of 'don't'"
+        ],
+        [
+            "They was happy yesterday.",
+            "They were happy yesterday.",
+            "Plural subject 'they' requires 'were' not 'was'"
+        ],
+        [
+            "I am going to school tomorrow.",
+            "I will go to school tomorrow.",
+            "Future intention requires 'will + base verb'"
+        ],
+        [
+            "The cat is sleep on the sofa.",
+            "The cat is sleeping on the sofa.",
+            "Present continuous tense requires verb + -ing"
+        ],
+        [
+            "He have two brothers.",
+            "He has two brothers.",
+            "Third person singular requires 'has' not 'have'"
+        ],
+        [
+            "The committee is divided in their opinions.",
+            "The committee are divided in their opinions.",
+            "When emphasizing individual members, a collective noun can take a plural verb"
+        ],
+        [
+            "It was me who called you last night.",
+            "It was I who called you last night.",
+            "The pronoun should be in the subjective case after the verb 'to be'"
+        ],
+        [
+            "She is one of those people who is always late.",
+            "She is one of those people who are always late.",
+            "The relative pronoun 'who' refers to 'people' (plural), so it requires a plural verb"
+        ],
+        [
+            "The reason for his failure is because he didn't study.",
+            "The reason for his failure is that he didn't study.",
+            "'The reason is because' is redundant; use 'the reason is that' instead"
+        ],
+        [
+            "Neither the manager nor the employees was aware of the change.",
+            "Neither the manager nor the employees were aware of the change.",
+            "With 'neither/nor', the verb agrees with the subject closer to it (employees)"
+        ],
+        [
+            "There is many reasons to be happy.",
+            "There are many reasons to be happy.",
+            "The subject 'reasons' is plural and requires a plural verb"
+        ],
+        [
+            "The book, as well as the pen, are on the table.",
+            "The book, as well as the pen, is on the table.",
+            "The subject is 'book' (singular); phrases like 'as well as' don't change the subject number"
+        ],
+        [
+            "He ran quick to catch the bus.",
+            "He ran quickly to catch the bus.",
+            "Verbs are modified by adverbs (quickly), not adjectives (quick)"
+        ],
+        [
+            "She told that she would be late.",
+            "She said that she would be late.",
+            "Use 'told' with an object (told me); use 'said' without a direct object or with a clause"
+        ],
+        [
+            "The children plays in the park every evening.",
+            "The children play in the park every evening.",
+            "Plural subject 'children' requires a plural verb without -s"
+        ]
+    ],
+    "passive": [
+        [
+            "The song was sing by her.",
+            "The song was sung by her.",
+            "Passive voice requires past participle 'sung'"
+        ],
+        [
+            "The cake is being baked by Mary.",
+            "The cake is being baked by Mary.",
+            "This sentence is already correct"
+        ],
+        [
+            "The letter was wrote by John.",
+            "The letter was written by John.",
+            "Passive voice requires past participle 'written'"
+        ],
+        [
+            "The house is build by workers.",
+            "The house is built by workers.",
+            "Passive voice requires past participle 'built'"
+        ],
+        [
+            "The news were reported by the journalist.",
+            "The news was reported by the journalist.",
+            "Uncountable noun 'news' requires singular verb"
+        ],
+        [
+            "The children are being teach by a new teacher.",
+            "The children are being taught by a new teacher.",
+            "Passive voice requires past participle 'taught'"
+        ],
+        [
+            "A new road is being build in our city.",
+            "A new road is being built in our city.",
+            "Passive voice requires past participle 'built'"
+        ]
+    ],
+    "indirect": [
+        [
+            "She said that she is tired.",
+            "She said that she was tired.",
+            "Indirect speech requires backshifting of tenses"
+        ],
+        [
+            "He told me that he will come tomorrow.",
+            "He told me that he would come the next day.",
+            "Indirect speech requires backshifting and time adjustment"
+        ],
+        [
+            "They said that they have finished.",
+            "They said that they had finished.",
+            "Indirect speech requires backshifting of present perfect to past perfect"
+        ],
+        [
+            "She asked me where I am going.",
+            "She asked me where I was going.",
+            "Indirect speech requires backshifting of tenses"
+        ],
+        [
+            "He said that he can help us.",
+            "He said that he could help us.",
+            "Indirect speech requires backshifting of modals"
+        ],
+        [
+            "She asked what time is it.",
+            "She asked what time it was.",
+            "Indirect questions use statement word order"
+        ],
+        [
+            "He told me to I should study harder.",
+            "He told me that I should study harder.",
+            "Indirect speech requires proper reporting structure"
+        ]
+    ]
 }
