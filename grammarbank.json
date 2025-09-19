@@ -1142,6 +1142,81 @@
             "correct": "The cake is being baked by Mary.",
             "explanation": "This sentence is already correct"
         },
+            {
+        "wrong": "The window was broke by the ball.",
+        "correct": "The window was broken by the ball.",
+        "explanation": "Passive voice requires the past participle 'broken', not the simple past 'broke'."
+    },
+    {
+        "wrong": "The book is read by the student.",
+        "correct": "The book is read by the student.",
+        "explanation": "This sentence is already correct. The present simple passive is formed with 'is/are' + past participle."
+    },
+    {
+        "wrong": "A story was telled to the children.",
+        "correct": "A story was told to the children.",
+        "explanation": "The past participle of the irregular verb 'tell' is 'told', not 'telled'."
+    },
+    {
+        "wrong": "The car is being wash by him.",
+        "correct": "The car is being washed by him.",
+        "explanation": "The present continuous passive requires 'is being' + past participle ('washed')."
+    },
+    {
+        "wrong": "The new bridge has been build by the company.",
+        "correct": "The new bridge has been built by the company.",
+        "explanation": "The present perfect passive requires 'has been' + past participle ('built')."
+    },
+    {
+        "wrong": "The dinner was being cooked when they arrived.",
+        "correct": "The dinner was being cooked when they arrived.",
+        "explanation": "This sentence is already correct. The past continuous passive is formed with 'was/were being' + past participle."
+    },
+    {
+        "wrong": "The keys must be find before we leave.",
+        "correct": "The keys must be found before we leave.",
+        "explanation": "Modal passives (must be) require the base form 'be' followed by the past participle ('found')."
+    },
+    {
+        "wrong": "The famous painting had been stole from the museum.",
+        "correct": "The famous painting had been stolen from the museum.",
+        "explanation": "The past perfect passive requires 'had been' + the past participle of the irregular verb 'steal', which is 'stolen'."
+    },
+    {
+        "wrong": "The project will be finish by next week.",
+        "correct": "The project will be finished by next week.",
+        "explanation": "The simple future passive requires 'will be' + past participle ('finished')."
+    },
+    {
+        "wrong": "The decision is been made by the committee right now.",
+        "correct": "The decision is being made by the committee right now.",
+        "explanation": "The present continuous passive is formed with 'is/are being' + past participle, not 'is been'."
+    },
+    {
+        "wrong": "The old building will have been demolish by next year.",
+        "correct": "The old building will have been demolished by next year.",
+        "explanation": "The future perfect passive requires 'will have been' + past participle ('demolished')."
+    },
+    {
+        "wrong": "He thought that the report had been wrote by his assistant.",
+        "correct": "He thought that the report had been written by his assistant.",
+        "explanation": "The past perfect passive in the clause requires 'had been' + the past participle of the irregular verb 'write', which is 'written'."
+    },
+    {
+        "wrong": "The evidence is going to be examine by the experts.",
+        "correct": "The evidence is going to be examined by the experts.",
+        "explanation": "The 'going to' future passive requires 'is going to be' + past participle ('examined')."
+    },
+    {
+        "wrong": "The problem should have been dealt by the manager.",
+        "correct": "The problem should have been dealt with by the manager.",
+        "explanation": "Some verbs, like 'deal', require a specific preposition (with) which must be retained in the passive voice."
+    },
+    {
+        "wrong": "The mysterious phenomenon has been being studied for decades.",
+        "correct": "The mysterious phenomenon has been studied for decades.",
+        "explanation": "The present perfect continuous passive is rarely used. The present perfect passive ('has been studied') is the correct and natural choice here."
+    },
         {
             "wrong": "The letter was wrote by John.",
             "correct": "The letter was written by John.",
