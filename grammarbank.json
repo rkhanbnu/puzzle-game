@@ -1147,6 +1147,246 @@
         "correct": "The window was broken by the ball.",
         "explanation": "Passive voice requires the past participle 'broken', not the simple past 'broke'."
     },
+            {
+        "wrong": "The car is wash every week.",
+        "correct": "The car is washed every week.",
+        "explanation": "Present simple passive requires 'is/are' + past participle ('washed')."
+    },
+    {
+        "wrong": "The windows were clean by the janitor.",
+        "correct": "The windows were cleaned by the janitor.",
+        "explanation": "Past simple passive requires 'was/were' + past participle ('cleaned')."
+    },
+    {
+        "wrong": "The cake is being bake for the party.",
+        "correct": "The cake is being baked for the party.",
+        "explanation": "Present continuous passive requires 'is being' + past participle ('baked')."
+    },
+    {
+        "wrong": "A new park is being build downtown.",
+        "correct": "A new park is being built downtown.",
+        "explanation": "The past participle of the irregular verb 'build' is 'built'."
+    },
+    {
+        "wrong": "The news was announced by the mayor.",
+        "correct": "The news was announced by the mayor.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The letter has been send.",
+        "correct": "The letter has been sent.",
+        "explanation": "Present perfect passive requires 'has been' + past participle of 'send', which is 'sent'."
+    },
+    {
+        "wrong": "The entire project had been completed by the team.",
+        "correct": "The entire project had been completed by the team.",
+        "explanation": "This sentence is already correct. This is the past perfect passive."
+    },
+    {
+        "wrong": "The mistake must be corrected immediately.",
+        "correct": "The mistake must be corrected immediately.",
+        "explanation": "This sentence is already correct. This is a modal passive ('must be' + past participle)."
+    },
+    {
+        "wrong": "The song was sang beautifully.",
+        "correct": "The song was sung beautifully.",
+        "explanation": "The past participle of the irregular verb 'sing' is 'sung', not 'sang'."
+    },
+    {
+        "wrong": "The children are being look after by their grandmother.",
+        "correct": "The children are being looked after by their grandmother.",
+        "explanation": "Phrasal verbs like 'look after' retain their preposition. The past participle 'looked' must be used."
+    },
+    {
+        "wrong": "The meeting will be hold in room 10.",
+        "correct": "The meeting will be held in room 10.",
+        "explanation": "Future simple passive requires 'will be' + past participle of 'hold', which is 'held'."
+    },
+    {
+        "wrong": "The ancient city was discover by accident.",
+        "correct": "The ancient city was discovered by accident.",
+        "explanation": "The past participle of 'discover' is 'discovered'."
+    },
+    {
+        "wrong": "The patient is being operated this morning.",
+        "correct": "The patient is being operated on this morning.",
+        "explanation": "The verb 'operate' requires the preposition 'on' in the passive voice."
+    },
+    {
+        "wrong": "The stolen car has been recovered by the police.",
+        "correct": "The stolen car has been recovered by the police.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The proposal has been turned down by the committee.",
+        "correct": "The proposal has been turned down by the committee.",
+        "explanation": "This sentence is already correct. The phrasal verb 'turn down' is used."
+    },
+    {
+        "wrong": "The instructions should have been followed more carefully.",
+        "correct": "The instructions should have been followed more carefully.",
+        "explanation": "This sentence is already correct. This is a perfect modal passive."
+    },
+    {
+        "wrong": "The story was wrote by a young author.",
+        "correct": "The story was written by a young author.",
+        "explanation": "The past participle of the irregular verb 'write' is 'written'."
+    },
+    {
+        "wrong": "The new rules are being explained by the teacher.",
+        "correct": "The new rules are being explained by the teacher.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The bridge had been constructing for years before it opened.",
+        "correct": "The bridge had been constructed for years before it opened.",
+        "explanation": "Past perfect passive requires 'had been' + past participle ('constructed'), not the present participle."
+    },
+    {
+        "wrong": "The truth will eventually be revealed.",
+        "correct": "The truth will eventually be revealed.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The package is going to be deliver tomorrow.",
+        "correct": "The package is going to be delivered tomorrow.",
+        "explanation": "'Going to' future passive requires 'is going to be' + past participle ('delivered')."
+    },
+    {
+        "wrong": "The experiment must be conducted under controlled conditions.",
+        "correct": "The experiment must be conducted under controlled conditions.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The old factory is going to be demolished.",
+        "correct": "The old factory is going to be demolished.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The guests were being serve appetizers when the power went out.",
+        "correct": "The guests were being served appetizers when the power went out.",
+        "explanation": "Past continuous passive requires 'were being' + past participle ('served')."
+    },
+    {
+        "wrong": "The problem should be deal with by a specialist.",
+        "correct": "The problem should be dealt with by a specialist.",
+        "explanation": "The phrasal verb 'deal with' requires the past participle 'dealt' and retains the preposition 'with'."
+    },
+    {
+        "wrong": "The victory was celebrated by the entire nation.",
+        "correct": "The victory was celebrated by the entire nation.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The software update is being installed on all computers.",
+        "correct": "The software update is being installed on all computers.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The suspect is believed to have left the country.",
+        "correct": "The suspect is believed to have left the country.",
+        "explanation": "This sentence is already correct. This is a common reporting structure in the passive voice."
+    },
+    {
+        "wrong": "The ancient manuscript is thought to have been lost in the fire.",
+        "correct": "The ancient manuscript is thought to have been lost in the fire.",
+        "explanation": "This sentence is already correct. This is a complex passive with a perfect passive infinitive."
+    },
+    {
+        "wrong": "The decision will have been made by tomorrow morning.",
+        "correct": "The decision will have been made by tomorrow morning.",
+        "explanation": "This sentence is already correct. This is the future perfect passive."
+    },
+    {
+        "wrong": "The report hasn't been wrote yet.",
+        "correct": "The report hasn't been written yet.",
+        "explanation": "Present perfect passive negative requires 'has not been' + past participle ('written')."
+    },
+    {
+        "wrong": "The new museum was designed by a famous architect.",
+        "correct": "The new museum was designed by a famous architect.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The data is being analyzed by our research team.",
+        "correct": "The data is being analyzed by our research team.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The message was relayed to the general.",
+        "correct": "The message was relayed to the general.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The treasure is said to be buried on this island.",
+        "correct": "The treasure is said to be buried on this island.",
+        "explanation": "This sentence is already correct. This is a common passive reporting structure."
+    },
+    {
+        "wrong": "The room needs to be clean before the guests arrive.",
+        "correct": "The room needs to be cleaned before the guests arrive.",
+        "explanation": "The structure 'needs to be' must be followed by a past participle ('cleaned')."
+    },
+    {
+        "wrong": "The contract is being drawn up by the lawyers.",
+        "correct": "The contract is being drawn up by the lawyers.",
+        "explanation": "This sentence is already correct. The phrasal verb 'draw up' is used."
+    },
+    {
+        "wrong": "The results of the test will be announced next week.",
+        "correct": "The results of the test will be announced next week.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The story has been passed down for generations.",
+        "correct": "The story has been passed down for generations.",
+        "explanation": "This sentence is already correct. The phrasal verb 'pass down' is used."
+    },
+    {
+        "wrong": "The accident could have been prevented.",
+        "correct": "The accident could have been prevented.",
+        "explanation": "This sentence is already correct. This is a perfect modal passive."
+    },
+    {
+        "wrong": "The venue had been decorated for the wedding.",
+        "correct": "The venue had been decorated for the wedding.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The application must be filled out in black ink.",
+        "correct": "The application must be filled out in black ink.",
+        "explanation": "This sentence is already correct. The phrasal verb 'fill out' is used."
+    },
+    {
+        "wrong": "The theory was first proposed in the 18th century.",
+        "correct": "The theory was first proposed in the 18th century.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The patient was given a clean bill of health.",
+        "correct": "The patient was given a clean bill of health.",
+        "explanation": "This sentence is already correct. Note the indirect object 'the patient' becomes the subject."
+    },
+    {
+        "wrong": "The evidence is being examined by forensics.",
+        "correct": "The evidence is being examined by forensics.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The old traditions are still practiced in the village.",
+        "correct": "The old traditions are still practiced in the village.",
+        "explanation": "This sentence is already correct."
+    },
+    {
+        "wrong": "The company is being taken over by a multinational conglomerate.",
+        "correct": "The company is being taken over by a multinational conglomerate.",
+        "explanation": "This sentence is already correct. The phrasal verb 'take over' is used."
+    },
+    {
+        "wrong": "The flight might be delayed due to bad weather.",
+        "correct": "The flight might be delayed due to bad weather.",
+        "explanation": "This sentence is already correct. This is a modal passive ('might be' + past participle)."
+    },
     {
         "wrong": "The book is read by the student.",
         "correct": "The book is read by the student.",
