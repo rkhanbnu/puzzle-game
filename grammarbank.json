@@ -1162,8 +1162,132 @@
         "correct": "The cake is being baked for the party.",
         "explanation": "Present continuous passive requires 'is being' + past participle ('baked')."
     },
-        [
+         {
+        "wrong": "The diplomatic treaty is currently being negotiated between the two warring nations.",
+        "correct": "The diplomatic treaty is currently being negotiated between the two warring nations.",
+        "explanation": "This sentence is already correct. Present continuous passive describing an ongoing high-stakes process."
+    },
     {
+        "wrong": "The mysterious phenomenon had been being observed by astronomers for decades before it was finally explained.",
+        "correct": "The mysterious phenomenon had been observed by astronomers for decades before it was finally explained.",
+        "explanation": "The past perfect continuous passive is avoided. The past perfect passive ('had been observed') is the correct and natural choice to show a duration before a past event."
+    },
+    {
+        "wrong": "The defendant's alibi was not borne out by the evidence presented in court.",
+        "correct": "The defendant's alibi was not borne out by the evidence presented in court.",
+        "explanation": "This sentence is already correct. Uses the past participle 'borne' of the verb 'bear' (to support) in a legal context."
+    },
+    {
+        "wrong": "The groundbreaking theory is often cited to in academic papers.",
+        "correct": "The groundbreaking theory is often cited in academic papers.",
+        "explanation": "The verb 'cite' does not take the preposition 'to'. The correct form is 'cited in'."
+    },
+    {
+        "wrong": "The confidential data must not be fallen into the wrong hands.",
+        "correct": "The confidential data must not be allowed to fall into the wrong hands.",
+        "explanation": "'Fall' is an intransitive verb and cannot be made passive directly. The correct structure is 'must not be allowed to fall'."
+    },
+    {
+        "wrong": "The ancient ruins are thought to have been built by a civilization that left no written records.",
+        "correct": "The ancient ruins are thought to have been built by a civilization that left no written records.",
+        "explanation": "This sentence is already correct. Complex structure with a reporting passive ('are thought') and a perfect passive infinitive ('to have been built')."
+    },
+    {
+        "wrong": "The company's assets are being liquidated to pay off the creditors.",
+        "correct": "The company's assets are being liquidated to pay off the creditors.",
+        "explanation": "This sentence is already correct. Present continuous passive in a financial context."
+    },
+    {
+        "wrong": "The novel's protagonist is known to have been based on the author's own grandfather.",
+        "correct": "The novel's protagonist is known to have been based on the author's own grandfather.",
+        "explanation": "This sentence is already correct. Advanced reporting structure with a perfect passive infinitive ('to have been based')."
+    },
+    {
+        "wrong": "The new policy was met with widespread criticism from the outset.",
+        "correct": "The new policy was met with widespread criticism from the outset.",
+        "explanation": "This sentence is already correct. Uses the passive of the phrase 'meet with' (to experience)."
+    },
+    {
+        "wrong": "The rare species of bird is believed to have been driven to the brink of extinction by deforestation.",
+        "correct": "The rare species of bird is believed to have been driven to the brink of extinction by deforestation.",
+        "explanation": "This sentence is already correct. Complex environmental context with a perfect passive infinitive ('to have been driven')."
+    },
+    {
+        "wrong": "The final decision is rested with the committee's chairman.",
+        "correct": "The final decision rests with the committee's chairman.",
+        "explanation": "The verb 'rest' (to be left in the control of) is intransitive and is not used in the passive voice. The active voice is correct."
+    },
+    {
+        "wrong": "The intricate mosaic was painstakingly pieced back together by archaeologists.",
+        "correct": "The intricate mosaic was painstakingly pieced back together by archaeologists.",
+        "explanation": "This sentence is already correct. Uses the phrasal verb 'piece together' in the passive, modified by the adverb 'painstakingly'."
+    },
+    {
+        "wrong": "The patient's symptoms could be accounted for by a rare genetic disorder.",
+        "correct": "The patient's symptoms could be accounted for by a rare genetic disorder.",
+        "explanation": "This sentence is already correct. The phrasal verb 'account for' (to explain) retains its preposition 'for' in the passive voice."
+    },
+    {
+        "wrong": "The software's vulnerability was taken advantage of by hackers.",
+        "correct": "The software's vulnerability was taken advantage of by hackers.",
+        "explanation": "This sentence is already correct. A complex passive where the object of the phrase 'take advantage of' becomes the subject."
+    },
+    {
+        "wrong": "The manuscript is purported to have been penned by a medieval monk.",
+        "correct": "The manuscript is purported to have been penned by a medieval monk.",
+        "explanation": "This sentence is already correct. Uses a formal reporting verb 'purported' with a perfect passive infinitive ('to have been penned')."
+    },
+    {
+        "wrong": "The bridge was rendered impassable by the floodwaters.",
+        "correct": "The bridge was rendered impassable by the floodwaters.",
+        "explanation": "This sentence is already correct. Uses the verb 'render' (to make) in the passive voice, followed by an adjective ('impassable')."
+    },
+    {
+        "wrong": "The proposal was deemed unacceptable by the review board.",
+        "correct": "The proposal was deemed unacceptable by the review board.",
+        "explanation": "This sentence is already correct. Uses the verb 'deem' (to consider) in the passive voice, followed by an adjective ('unacceptable')."
+    },
+    {
+        "wrong": "The truth will out, as the saying is went.",
+        "correct": "The truth will out, as the saying goes.",
+        "explanation": "The saying is an active voice idiom ('as the saying goes'). It cannot be put into the passive voice."
+    },
+    {
+        "wrong": "The estate was held in trust for the heir until she came of age.",
+        "correct": "The estate was held in trust for the heir until she came of age.",
+        "explanation": "This sentence is already correct. Legal passive using the phrase 'hold in trust'."
+    },
+    {
+        "wrong": "The actor's identity was completely concealed by the elaborate costume.",
+        "correct": "The actor's identity was completely concealed by the elaborate costume.",
+        "explanation": "This sentence is already correct. Standard passive with an emphasis on the agent ('by the costume')."
+    },
+    {
+        "wrong": "The discovery has far-reaching implications that are only beginning to be grasped.",
+        "correct": "The discovery has far-reaching implications that are only beginning to be grasped.",
+        "explanation": "This sentence is already correct. Contains a relative clause ('that are...') in the present continuous passive."
+    },
+    {
+        "wrong": "The classic novel has been translated into over fifty languages.",
+        "correct": "The classic novel has been translated into over fifty languages.",
+        "explanation": "This sentence is already correct. Present perfect passive with the preposition 'into'."
+    },
+    {
+        "wrong": "The regulations are subject to changed at any time.",
+        "correct": "The regulations are subject to change at any time.",
+        "explanation": "The phrase is 'subject to + noun'. 'Change' is the noun form required here, not the past participle 'changed'."
+    },
+    {
+        "wrong": "The patient was advised to be undergoing a series of tests.",
+        "correct": "The patient was advised to undergo a series of tests.",
+        "explanation": "After 'was advised', the active infinitive 'to undergo' is correct, not the passive continuous form 'to be undergoing'."
+    },
+    {
+        "wrong": "The conspiracy was allegedly hatched in a remote location.",
+        "correct": "The conspiracy was allegedly hatched in a remote location.",
+        "explanation": "This sentence is already correct. Uses an adverb ('allegedly') to modify the passive verb, common in journalistic contexts."
+    },
+        {
         "wrong": "The controversial policy has been being debated in parliament for weeks.",
         "correct": "The controversial policy has been being debated in parliament for weeks.",
         "explanation": "This sentence is already correct, though rare. This is the present perfect continuous passive, emphasizing an ongoing action with duration."
