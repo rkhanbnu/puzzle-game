@@ -169,7 +169,6 @@
 ["RUN", {"hint": "Fast jog"}],
 ["NET", {"hint": "Tennis divider"}],
 ["BAT", {"hint": "Hit ball"}],
-["GOA", {"hint": "Score point"}],
 ["PEN", {"hint": "Write tool"}],
 ["BOOK", {"hint": "Reading item"}],
 ["GLU", {"hint": "Stick material"}],
@@ -5376,3 +5375,4 @@
 ["FASCINATING", {"hint": "Very interesting"}]
 ]
 }
+
